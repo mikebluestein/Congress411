@@ -1,0 +1,5606 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Politicians>
+  <Politician>
+    <BioGuideId>A000022</BioGuideId>
+    <FirstName>Gary</FirstName>
+    <LastName>Ackerman</LastName>
+    <OfficeAddress>2243 Rayburn House Office Building</OfficeAddress>
+    <GovTrackId>400003</GovTrackId>
+    <Phone>202-225-2601</Phone>
+    <TwitterId />
+    <YoutubeUrl>http://www.youtube.com/RepAckerman</YoutubeUrl>
+    <WebSite>http://ackerman.house.gov/index.html</WebSite>
+    <Party>D</Party>
+    <State>NY</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>A000055</BioGuideId>
+    <FirstName>Robert</FirstName>
+    <LastName>Aderholt</LastName>
+    <OfficeAddress>1433 Longworth House Office Building</OfficeAddress>
+    <GovTrackId>400004</GovTrackId>
+    <Phone>202-225-4876</Phone>
+    <TwitterId>Robert_Aderholt</TwitterId>
+    <YoutubeUrl>http://www.youtube.com/RobertAderholt</YoutubeUrl>
+    <WebSite>http://aderholt.house.gov/index.html</WebSite>
+    <Party>R</Party>
+    <State>AL</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>A000210</BioGuideId>
+    <FirstName>Robert</FirstName>
+    <LastName>Andrews</LastName>
+    <OfficeAddress>2439 Rayburn House Building</OfficeAddress>
+    <GovTrackId>400008</GovTrackId>
+    <Phone>202-225-6501</Phone>
+    <TwitterId />
+    <YoutubeUrl />
+    <WebSite>http://www.house.gov/andrews/</WebSite>
+    <Party>D</Party>
+    <State>NJ</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>A000358</BioGuideId>
+    <FirstName>W. Todd</FirstName>
+    <LastName>Akin</LastName>
+    <OfficeAddress>117 Cannon House Office Building</OfficeAddress>
+    <GovTrackId>400005</GovTrackId>
+    <Phone>202-225-2561</Phone>
+    <TwitterId>ToddAkin</TwitterId>
+    <YoutubeUrl>http://www.youtube.com/RepToddAkin</YoutubeUrl>
+    <WebSite>http://akin.house.gov/</WebSite>
+    <Party>R</Party>
+    <State>MO</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>A000361</BioGuideId>
+    <FirstName>Rodney</FirstName>
+    <LastName>Alexander</LastName>
+    <OfficeAddress>316 Cannon House Office Building</OfficeAddress>
+    <GovTrackId>400006</GovTrackId>
+    <Phone>202-225-8490</Phone>
+    <TwitterId />
+    <YoutubeUrl>http://www.youtube.com/RepRodneyMAlexander</YoutubeUrl>
+    <WebSite>http://alexander.house.gov/index.html</WebSite>
+    <Party>R</Party>
+    <State>LA</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>A000362</BioGuideId>
+    <FirstName>Jason</FirstName>
+    <LastName>Altmire</LastName>
+    <OfficeAddress>1419 Longworth House Office Building</OfficeAddress>
+    <GovTrackId>412231</GovTrackId>
+    <Phone>202-225-2565</Phone>
+    <TwitterId />
+    <YoutubeUrl>http://www.youtube.com/congressmanaltmire</YoutubeUrl>
+    <WebSite>http://www.altmire.house.gov/</WebSite>
+    <Party>D</Party>
+    <State>PA</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>A000363</BioGuideId>
+    <FirstName>Michael</FirstName>
+    <LastName>Arcuri</LastName>
+    <OfficeAddress>327 Cannon House Office Building</OfficeAddress>
+    <GovTrackId>412224</GovTrackId>
+    <Phone>202-225-3665</Phone>
+    <TwitterId />
+    <YoutubeUrl>http://www.youtube.com/RepArcuri</YoutubeUrl>
+    <WebSite>http://arcuri.house.gov/index.shtml</WebSite>
+    <Party>D</Party>
+    <State>NY</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>A000364</BioGuideId>
+    <FirstName>John</FirstName>
+    <LastName>Adler</LastName>
+    <OfficeAddress>1223 Longworth House Office Building</OfficeAddress>
+    <GovTrackId>412264</GovTrackId>
+    <Phone>202-225-4765</Phone>
+    <TwitterId />
+    <YoutubeUrl />
+    <WebSite>http://adler.house.gov/</WebSite>
+    <Party>D</Party>
+    <State>NJ</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>A000365</BioGuideId>
+    <FirstName>Steven</FirstName>
+    <LastName>Austria</LastName>
+    <OfficeAddress>1641 Longworth House Office Building</OfficeAddress>
+    <GovTrackId>412265</GovTrackId>
+    <Phone>202-225-4324</Phone>
+    <TwitterId>SteveAustria</TwitterId>
+    <YoutubeUrl>http://www.youtube.com/CongressmanAustria</YoutubeUrl>
+    <WebSite>http://austria.house.gov/index.html</WebSite>
+    <Party>R</Party>
+    <State>OH</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>B000013</BioGuideId>
+    <FirstName>Spencer</FirstName>
+    <LastName>Bachus</LastName>
+    <OfficeAddress>2246 Rayburn Building</OfficeAddress>
+    <GovTrackId>400010</GovTrackId>
+    <Phone>202-225-4921</Phone>
+    <TwitterId>BachusAL06</TwitterId>
+    <YoutubeUrl>http://www.youtube.com/CongressmanBachus</YoutubeUrl>
+    <WebSite>http://bachus.house.gov/</WebSite>
+    <Party>R</Party>
+    <State>AL</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>B000208</BioGuideId>
+    <FirstName>Roscoe</FirstName>
+    <LastName>Bartlett</LastName>
+    <OfficeAddress>2412 Rayburn House Office Building</OfficeAddress>
+    <GovTrackId>400017</GovTrackId>
+    <Phone>202-225-2721</Phone>
+    <TwitterId />
+    <YoutubeUrl>http://www.youtube.com/RepRoscoeBartlett</YoutubeUrl>
+    <WebSite>http://www.bartlett.house.gov</WebSite>
+    <Party>R</Party>
+    <State>MD</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>B000213</BioGuideId>
+    <FirstName>Joe</FirstName>
+    <LastName>Barton</LastName>
+    <OfficeAddress>2109 Rayburn House Office Building</OfficeAddress>
+    <GovTrackId>400018</GovTrackId>
+    <Phone>202-225-2002</Phone>
+    <TwitterId>RepJoeBarton</TwitterId>
+    <YoutubeUrl />
+    <WebSite>http://joebarton.house.gov/Default.aspx</WebSite>
+    <Party>R</Party>
+    <State>TX</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>B000287</BioGuideId>
+    <FirstName>Xavier</FirstName>
+    <LastName>Becerra</LastName>
+    <OfficeAddress>1119 Longworth House Office Building</OfficeAddress>
+    <GovTrackId>400021</GovTrackId>
+    <Phone>202-225-6235</Phone>
+    <TwitterId />
+    <YoutubeUrl>http://www.youtube.com/XavierBecerra</YoutubeUrl>
+    <WebSite>http://becerra.house.gov/HoR/CA31/home</WebSite>
+    <Party>D</Party>
+    <State>CA</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>B000410</BioGuideId>
+    <FirstName>Howard</FirstName>
+    <LastName>Berman</LastName>
+    <OfficeAddress>2221 Rayburn House Office Building</OfficeAddress>
+    <GovTrackId>400025</GovTrackId>
+    <Phone>202-225-4695</Phone>
+    <TwitterId />
+    <YoutubeUrl>http://www.youtube.com/RepHowardBerman</YoutubeUrl>
+    <WebSite>http://www.house.gov/berman/</WebSite>
+    <Party>D</Party>
+    <State>CA</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>B000420</BioGuideId>
+    <FirstName>Robert</FirstName>
+    <LastName>Berry</LastName>
+    <OfficeAddress>2305 Rayburn House Office Building</OfficeAddress>
+    <GovTrackId>400026</GovTrackId>
+    <Phone>202-225-4076</Phone>
+    <TwitterId />
+    <YoutubeUrl>http://www.youtube.com/CongressmanBerry</YoutubeUrl>
+    <WebSite>http://www.house.gov/berry/</WebSite>
+    <Party>D</Party>
+    <State>AR</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>B000461</BioGuideId>
+    <FirstName>Brian</FirstName>
+    <LastName>Bilbray</LastName>
+    <OfficeAddress>227 Cannon House Office Building</OfficeAddress>
+    <GovTrackId>400570</GovTrackId>
+    <Phone>202-225-0508</Phone>
+    <TwitterId>BilbrayCA50</TwitterId>
+    <YoutubeUrl />
+    <WebSite>http://www.house.gov/bilbray/</WebSite>
+    <Party>R</Party>
+    <State>CA</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>B000490</BioGuideId>
+    <FirstName>Sanford</FirstName>
+    <LastName>Bishop</LastName>
+    <OfficeAddress>2429 Rayburn House Office Building</OfficeAddress>
+    <GovTrackId>400030</GovTrackId>
+    <Phone>202-225-3631</Phone>
+    <TwitterId />
+    <YoutubeUrl />
+    <WebSite>http://bishop.house.gov/</WebSite>
+    <Party>D</Party>
+    <State>GA</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>B000574</BioGuideId>
+    <FirstName>Earl</FirstName>
+    <LastName>Blumenauer</LastName>
+    <OfficeAddress>2267 Rayburn House Office Building</OfficeAddress>
+    <GovTrackId>400033</GovTrackId>
+    <Phone>202-225-4811</Phone>
+    <TwitterId>repblumenauer</TwitterId>
+    <YoutubeUrl>http://www.youtube.com/RepBlumenauer</YoutubeUrl>
+    <WebSite>http://blumenauer.house.gov/</WebSite>
+    <Party>D</Party>
+    <State>OR</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>B000575</BioGuideId>
+    <FirstName>Roy</FirstName>
+    <LastName>Blunt</LastName>
+    <OfficeAddress>217 Cannon House Office Building</OfficeAddress>
+    <GovTrackId>400034</GovTrackId>
+    <Phone>202-225-6536</Phone>
+    <TwitterId>RoyBlunt</TwitterId>
+    <YoutubeUrl>http://www.youtube.com/RepRoyBlunt</YoutubeUrl>
+    <WebSite>http://www.blunt.house.gov/</WebSite>
+    <Party>R</Party>
+    <State>MO</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>B000589</BioGuideId>
+    <FirstName>John</FirstName>
+    <LastName>Boehner</LastName>
+    <OfficeAddress>1011 Longworth House Office Building</OfficeAddress>
+    <GovTrackId>400036</GovTrackId>
+    <Phone>202-225-6205</Phone>
+    <TwitterId>johnboehner</TwitterId>
+    <YoutubeUrl>http://www.youtube.com/JohnBoehner</YoutubeUrl>
+    <WebSite>http://johnboehner.house.gov/</WebSite>
+    <Party>R</Party>
+    <State>OH</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>B000652</BioGuideId>
+    <FirstName>Leonard</FirstName>
+    <LastName>Boswell</LastName>
+    <OfficeAddress>1427 Longworth House Office Building</OfficeAddress>
+    <GovTrackId>400042</GovTrackId>
+    <Phone>202-225-3806</Phone>
+    <TwitterId>LeonardBoswell</TwitterId>
+    <YoutubeUrl>http://www.youtube.com/RepLeonardBoswell</YoutubeUrl>
+    <WebSite>http://boswell.house.gov/index.html</WebSite>
+    <Party>D</Party>
+    <State>IA</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>B000657</BioGuideId>
+    <FirstName>Frederick</FirstName>
+    <LastName>Boucher</LastName>
+    <OfficeAddress>2187 Rayburn House Office Building</OfficeAddress>
+    <GovTrackId>400043</GovTrackId>
+    <Phone>202-225-3861</Phone>
+    <TwitterId />
+    <YoutubeUrl />
+    <WebSite>http://www.boucher.house.gov/</WebSite>
+    <Party>D</Party>
+    <State>VA</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>B000716</BioGuideId>
+    <FirstName>Allen</FirstName>
+    <LastName>Boyd</LastName>
+    <OfficeAddress>1227 Longworth House Office Building</OfficeAddress>
+    <GovTrackId>400044</GovTrackId>
+    <Phone>202-225-5235</Phone>
+    <TwitterId />
+    <YoutubeUrl />
+    <WebSite>http://boyd.house.gov/</WebSite>
+    <Party>D</Party>
+    <State>FL</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>B000755</BioGuideId>
+    <FirstName>Kevin</FirstName>
+    <LastName>Brady</LastName>
+    <OfficeAddress>301 Cannon House Office Building</OfficeAddress>
+    <GovTrackId>400046</GovTrackId>
+    <Phone>202-225-4901</Phone>
+    <TwitterId>RepKevinBrady</TwitterId>
+    <YoutubeUrl>http://www.youtube.com/KBrady8</YoutubeUrl>
+    <WebSite>http://www.house.gov/brady/</WebSite>
+    <Party>R</Party>
+    <State>TX</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>B000911</BioGuideId>
+    <FirstName>Corrine</FirstName>
+    <LastName>Brown</LastName>
+    <OfficeAddress>2336 Rayburn House Office Building</OfficeAddress>
+    <GovTrackId>400048</GovTrackId>
+    <Phone>202-225-0123</Phone>
+    <TwitterId />
+    <YoutubeUrl />
+    <WebSite>http://www.house.gov/corrinebrown/</WebSite>
+    <Party>D</Party>
+    <State>FL</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>B001149</BioGuideId>
+    <FirstName>Dan</FirstName>
+    <LastName>Burton</LastName>
+    <OfficeAddress>2308 Rayburn House Office Building</OfficeAddress>
+    <GovTrackId>400055</GovTrackId>
+    <Phone>202-225-2276</Phone>
+    <TwitterId>RepDanBurton</TwitterId>
+    <YoutubeUrl>http://www.youtube.com/CongressmanDanBurton</YoutubeUrl>
+    <WebSite>http://burton.house.gov/</WebSite>
+    <Party>R</Party>
+    <State>IN</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>B001203</BioGuideId>
+    <FirstName>Stephen</FirstName>
+    <LastName>Buyer</LastName>
+    <OfficeAddress>2230 Rayburn House Office Building</OfficeAddress>
+    <GovTrackId>400056</GovTrackId>
+    <Phone>202-225-5037</Phone>
+    <TwitterId />
+    <YoutubeUrl>http://www.youtube.com/sbuyer</YoutubeUrl>
+    <WebSite>http://stevebuyer.house.gov/</WebSite>
+    <Party>R</Party>
+    <State>IN</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>B001227</BioGuideId>
+    <FirstName>Robert</FirstName>
+    <LastName>Brady</LastName>
+    <OfficeAddress>206 Cannon House Office Building</OfficeAddress>
+    <GovTrackId>400047</GovTrackId>
+    <Phone>202-225-4731</Phone>
+    <TwitterId />
+    <YoutubeUrl>http://www.youtube.com/BradyPA01</YoutubeUrl>
+    <WebSite>http://www.brady.house.gov/index.html</WebSite>
+    <Party>D</Party>
+    <State>PA</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>B001228</BioGuideId>
+    <FirstName>Mary</FirstName>
+    <LastName>Bono Mack</LastName>
+    <OfficeAddress>104 Cannon House Office Building</OfficeAddress>
+    <GovTrackId>400039</GovTrackId>
+    <Phone>202-225-5330</Phone>
+    <TwitterId>MaryBonoMack</TwitterId>
+    <YoutubeUrl />
+    <WebSite>http://bono.house.gov/</WebSite>
+    <Party>R</Party>
+    <State>CA</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>B001229</BioGuideId>
+    <FirstName>Brian</FirstName>
+    <LastName>Baird</LastName>
+    <OfficeAddress>2443 Rayburn House Office Building</OfficeAddress>
+    <GovTrackId>400011</GovTrackId>
+    <Phone>202-225-3536</Phone>
+    <TwitterId />
+    <YoutubeUrl />
+    <WebSite>http://www.baird.house.gov/</WebSite>
+    <Party>D</Party>
+    <State>WA</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>B001230</BioGuideId>
+    <FirstName>Tammy</FirstName>
+    <LastName>Baldwin</LastName>
+    <OfficeAddress>2446 Rayburn Building</OfficeAddress>
+    <GovTrackId>400013</GovTrackId>
+    <Phone>202-225-2906</Phone>
+    <TwitterId>RepTammyBaldwin</TwitterId>
+    <YoutubeUrl>http://www.youtube.com/RepTammyBaldwin</YoutubeUrl>
+    <WebSite>http://tammybaldwin.house.gov/</WebSite>
+    <Party>D</Party>
+    <State>WI</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>B001231</BioGuideId>
+    <FirstName>Shelley</FirstName>
+    <LastName>Berkley</LastName>
+    <OfficeAddress>405 Cannon House Office Building</OfficeAddress>
+    <GovTrackId>400024</GovTrackId>
+    <Phone>202-225-5965</Phone>
+    <TwitterId />
+    <YoutubeUrl>http://www.youtube.com/ShelleyBerkley</YoutubeUrl>
+    <WebSite>http://berkley.house.gov/</WebSite>
+    <Party>D</Party>
+    <State>NV</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>B001232</BioGuideId>
+    <FirstName>Judy</FirstName>
+    <LastName>Biggert</LastName>
+    <OfficeAddress>1034 Longworth House Office Building</OfficeAddress>
+    <GovTrackId>400027</GovTrackId>
+    <Phone>202-225-3515</Phone>
+    <TwitterId>JudyBiggert</TwitterId>
+    <YoutubeUrl>http://www.youtube.com/JudyBiggert</YoutubeUrl>
+    <WebSite>http://judybiggert.house.gov/</WebSite>
+    <Party>R</Party>
+    <State>IL</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>B001234</BioGuideId>
+    <FirstName>Joe</FirstName>
+    <LastName>Baca</LastName>
+    <OfficeAddress>1527 Longworth House Office Building</OfficeAddress>
+    <GovTrackId>400009</GovTrackId>
+    <Phone>202-225-6161</Phone>
+    <TwitterId>BacaCA43</TwitterId>
+    <YoutubeUrl />
+    <WebSite>http://www.house.gov/baca/</WebSite>
+    <Party>D</Party>
+    <State>CA</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>B001235</BioGuideId>
+    <FirstName>Henry</FirstName>
+    <LastName>Brown</LastName>
+    <OfficeAddress>1124 Longworth House Office Building</OfficeAddress>
+    <GovTrackId>400049</GovTrackId>
+    <Phone>202-225-3176</Phone>
+    <TwitterId />
+    <YoutubeUrl>http://www.youtube.com/CongressmanBrown</YoutubeUrl>
+    <WebSite>http://brown.house.gov/</WebSite>
+    <Party>R</Party>
+    <State>SC</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>B001236</BioGuideId>
+    <FirstName>John</FirstName>
+    <LastName>Boozman</LastName>
+    <OfficeAddress>1519 Longworth House Office Building</OfficeAddress>
+    <GovTrackId>400040</GovTrackId>
+    <Phone>202-225-4301</Phone>
+    <TwitterId>JohnBoozman</TwitterId>
+    <YoutubeUrl>http://www.youtube.com/BoozmanPressOffice</YoutubeUrl>
+    <WebSite>http://www.boozman.house.gov/</WebSite>
+    <Party>R</Party>
+    <State>AR</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>B001239</BioGuideId>
+    <FirstName>J. Gresham</FirstName>
+    <LastName>Barrett</LastName>
+    <OfficeAddress>439 Cannon House Office Building</OfficeAddress>
+    <GovTrackId>400016</GovTrackId>
+    <Phone>202-225-5301</Phone>
+    <TwitterId>greshambarrett</TwitterId>
+    <YoutubeUrl>http://www.youtube.com/Repgreshambarrett</YoutubeUrl>
+    <WebSite>http://www.barrett.house.gov/index.html</WebSite>
+    <Party>R</Party>
+    <State>SC</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>B001242</BioGuideId>
+    <FirstName>Timothy</FirstName>
+    <LastName>Bishop</LastName>
+    <OfficeAddress>225 Cannon House Office Building</OfficeAddress>
+    <GovTrackId>400031</GovTrackId>
+    <Phone>202-225-3826</Phone>
+    <TwitterId />
+    <YoutubeUrl />
+    <WebSite>http://timbishop.house.gov/index.html</WebSite>
+    <Party>D</Party>
+    <State>NY</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>B001243</BioGuideId>
+    <FirstName>Marsha</FirstName>
+    <LastName>Blackburn</LastName>
+    <OfficeAddress>509 Cannon House Office Building</OfficeAddress>
+    <GovTrackId>400032</GovTrackId>
+    <Phone>202-225-2811</Phone>
+    <TwitterId />
+    <YoutubeUrl />
+    <WebSite>http://blackburn.house.gov/</WebSite>
+    <Party>R</Party>
+    <State>TN</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>B001244</BioGuideId>
+    <FirstName>Josiah</FirstName>
+    <LastName>Bonner</LastName>
+    <OfficeAddress>422 Cannon House Office Building</OfficeAddress>
+    <GovTrackId>400038</GovTrackId>
+    <Phone>202-225-4931</Phone>
+    <TwitterId />
+    <YoutubeUrl />
+    <WebSite>http://bonner.house.gov/HoR/AL01/Home</WebSite>
+    <Party>R</Party>
+    <State>AL</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>B001247</BioGuideId>
+    <FirstName>Virginia</FirstName>
+    <LastName>Brown-Waite</LastName>
+    <OfficeAddress>414 Cannon House Office Building</OfficeAddress>
+    <GovTrackId>400051</GovTrackId>
+    <Phone>202-225-1002</Phone>
+    <TwitterId />
+    <YoutubeUrl>http://www.youtube.com/RepGinnyBrownWaite</YoutubeUrl>
+    <WebSite>http://brown-waite.house.gov/</WebSite>
+    <Party>R</Party>
+    <State>FL</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>B001248</BioGuideId>
+    <FirstName>Michael</FirstName>
+    <LastName>Burgess</LastName>
+    <OfficeAddress>1224 Longworth House Office Building</OfficeAddress>
+    <GovTrackId>400052</GovTrackId>
+    <Phone>202-225-7772</Phone>
+    <TwitterId>michaelcburgess</TwitterId>
+    <YoutubeUrl>http://www.youtube.com/MichaelCBurgessMD</YoutubeUrl>
+    <WebSite>http://burgess.house.gov/</WebSite>
+    <Party>R</Party>
+    <State>TX</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>B001250</BioGuideId>
+    <FirstName>Rob</FirstName>
+    <LastName>Bishop</LastName>
+    <OfficeAddress>124 Cannon House Office Building</OfficeAddress>
+    <GovTrackId>400029</GovTrackId>
+    <Phone>202-225-0453</Phone>
+    <TwitterId />
+    <YoutubeUrl>http://www.youtube.com/CongressmanBishop</YoutubeUrl>
+    <WebSite>http://robbishop.house.gov/</WebSite>
+    <Party>R</Party>
+    <State>UT</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>B001251</BioGuideId>
+    <FirstName>George</FirstName>
+    <LastName>Butterfield</LastName>
+    <OfficeAddress>413 Cannon House Office Building</OfficeAddress>
+    <GovTrackId>400616</GovTrackId>
+    <Phone>202-225-3101</Phone>
+    <TwitterId />
+    <YoutubeUrl />
+    <WebSite>http://butterfield.house.gov/</WebSite>
+    <Party>D</Party>
+    <State>NC</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>B001252</BioGuideId>
+    <FirstName>John</FirstName>
+    <LastName>Barrow</LastName>
+    <OfficeAddress>213 Cannon House Office Building</OfficeAddress>
+    <GovTrackId>400628</GovTrackId>
+    <Phone>202-225-2823</Phone>
+    <TwitterId>repjohnbarrow</TwitterId>
+    <YoutubeUrl>http://www.youtube.com/RepJohnBarrow</YoutubeUrl>
+    <WebSite>http://www.barrow.house.gov/</WebSite>
+    <Party>D</Party>
+    <State>GA</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>B001253</BioGuideId>
+    <FirstName>Melissa</FirstName>
+    <LastName>Bean</LastName>
+    <OfficeAddress>318 Cannon House Office Building</OfficeAddress>
+    <GovTrackId>400631</GovTrackId>
+    <Phone>202-225-3711</Phone>
+    <TwitterId />
+    <YoutubeUrl />
+    <WebSite>http://www.house.gov/bean/</WebSite>
+    <Party>D</Party>
+    <State>IL</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>B001254</BioGuideId>
+    <FirstName>David</FirstName>
+    <LastName>Boren</LastName>
+    <OfficeAddress>216 Cannon House Office Building</OfficeAddress>
+    <GovTrackId>400645</GovTrackId>
+    <Phone>202-225-2701</Phone>
+    <TwitterId />
+    <YoutubeUrl />
+    <WebSite>http://boren.house.gov/</WebSite>
+    <Party>D</Party>
+    <State>OK</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>B001255</BioGuideId>
+    <FirstName>Charles</FirstName>
+    <LastName>Boustany</LastName>
+    <OfficeAddress>1117 Longworth House Office Building</OfficeAddress>
+    <GovTrackId>400636</GovTrackId>
+    <Phone>202-225-2031</Phone>
+    <TwitterId />
+    <YoutubeUrl>http://www.youtube.com/boustanyla07</YoutubeUrl>
+    <WebSite>http://boustany.house.gov/index.html</WebSite>
+    <Party>R</Party>
+    <State>LA</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>B001256</BioGuideId>
+    <FirstName>Michele</FirstName>
+    <LastName>Bachmann</LastName>
+    <OfficeAddress>412 Cannon House Office Building</OfficeAddress>
+    <GovTrackId>412216</GovTrackId>
+    <Phone>202-225-2331</Phone>
+    <TwitterId>MicheleBachmann</TwitterId>
+    <YoutubeUrl>http://www.youtube.com/RepMicheleBachmann</YoutubeUrl>
+    <WebSite>http://bachmann.house.gov/</WebSite>
+    <Party>R</Party>
+    <State>MN</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>B001257</BioGuideId>
+    <FirstName>Gus</FirstName>
+    <LastName>Bilirakis</LastName>
+    <OfficeAddress>1630 Longworth House Office Building</OfficeAddress>
+    <GovTrackId>412250</GovTrackId>
+    <Phone>202-225-5755</Phone>
+    <TwitterId>RepGusBilirakis</TwitterId>
+    <YoutubeUrl>http://www.youtube.com/RepGusBilirakis</YoutubeUrl>
+    <WebSite>http://bilirakis.house.gov/</WebSite>
+    <Party>R</Party>
+    <State>FL</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>B001259</BioGuideId>
+    <FirstName>Bruce</FirstName>
+    <LastName>Braley</LastName>
+    <OfficeAddress>1408 Longworth House Office Building</OfficeAddress>
+    <GovTrackId>412208</GovTrackId>
+    <Phone>202-225-2911</Phone>
+    <TwitterId />
+    <YoutubeUrl>http://www.youtube.com/RepBruceBraley</YoutubeUrl>
+    <WebSite>http://www.braley.house.gov/</WebSite>
+    <Party>D</Party>
+    <State>IA</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>B001260</BioGuideId>
+    <FirstName>Vern</FirstName>
+    <LastName>Buchanan</LastName>
+    <OfficeAddress>1516 Longworth House Office Building</OfficeAddress>
+    <GovTrackId>412196</GovTrackId>
+    <Phone>202-225-5015</Phone>
+    <TwitterId>VernBuchanan</TwitterId>
+    <YoutubeUrl>http://www.youtube.com/vernbuchanan</YoutubeUrl>
+    <WebSite>http://buchanan.house.gov/</WebSite>
+    <Party>R</Party>
+    <State>FL</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>B001262</BioGuideId>
+    <FirstName>Paul</FirstName>
+    <LastName>Broun</LastName>
+    <OfficeAddress>2104 Rayburn House Office Building</OfficeAddress>
+    <GovTrackId>412252</GovTrackId>
+    <Phone>202-225-4101</Phone>
+    <TwitterId>RepPaulBrounMD</TwitterId>
+    <YoutubeUrl>http://www.youtube.com/RepPaulBroun</YoutubeUrl>
+    <WebSite>http://broun.house.gov/</WebSite>
+    <Party>R</Party>
+    <State>GA</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>B001263</BioGuideId>
+    <FirstName>John</FirstName>
+    <LastName>Boccieri</LastName>
+    <OfficeAddress>1516 Longworth House Office Building</OfficeAddress>
+    <GovTrackId>412266</GovTrackId>
+    <Phone>202-225-3876</Phone>
+    <TwitterId />
+    <YoutubeUrl />
+    <WebSite>http://boccieri.house.gov/</WebSite>
+    <Party>D</Party>
+    <State>OH</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>B001264</BioGuideId>
+    <FirstName>Bobby</FirstName>
+    <LastName>Bright</LastName>
+    <OfficeAddress>1205 Longworth House Office Building</OfficeAddress>
+    <GovTrackId>412267</GovTrackId>
+    <Phone>202-225-2901</Phone>
+    <TwitterId />
+    <YoutubeUrl />
+    <WebSite>http://www.bright.house.gov/</WebSite>
+    <Party>D</Party>
+    <State>AL</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>C000059</BioGuideId>
+    <FirstName>Ken</FirstName>
+    <LastName>Calvert</LastName>
+    <OfficeAddress>2201 Rayburn House Office Building</OfficeAddress>
+    <GovTrackId>400057</GovTrackId>
+    <Phone>202-225-1986</Phone>
+    <TwitterId />
+    <YoutubeUrl>http://www.youtube.com/RepKenCalvert</YoutubeUrl>
+    <WebSite>http://calvert.house.gov/</WebSite>
+    <Party>R</Party>
+    <State>CA</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>C000071</BioGuideId>
+    <FirstName>David</FirstName>
+    <LastName>Camp</LastName>
+    <OfficeAddress>137 Cannon House Office Building</OfficeAddress>
+    <GovTrackId>400058</GovTrackId>
+    <Phone>202-225-3561</Phone>
+    <TwitterId>RepDaveCamp</TwitterId>
+    <YoutubeUrl>http://www.youtube.com/DaveCampYT</YoutubeUrl>
+    <WebSite>http://camp.house.gov/</WebSite>
+    <Party>R</Party>
+    <State>MI</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>C000243</BioGuideId>
+    <FirstName>Michael</FirstName>
+    <LastName>Castle</LastName>
+    <OfficeAddress>1233 Longworth House Office Building</OfficeAddress>
+    <GovTrackId>400070</GovTrackId>
+    <Phone>202-225-4165</Phone>
+    <TwitterId>repmikecastle</TwitterId>
+    <YoutubeUrl>http://www.youtube.com/mncastle</YoutubeUrl>
+    <WebSite>http://www.castle.house.gov/</WebSite>
+    <Party>R</Party>
+    <State>DE</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>C000537</BioGuideId>
+    <FirstName>James</FirstName>
+    <LastName>Clyburn</LastName>
+    <OfficeAddress>2135 Rayburn House Office Building</OfficeAddress>
+    <GovTrackId>400075</GovTrackId>
+    <Phone>202-225-3315</Phone>
+    <TwitterId />
+    <YoutubeUrl>http://www.youtube.com/repjamesclyburn</YoutubeUrl>
+    <WebSite>http://clyburn.house.gov/</WebSite>
+    <Party>D</Party>
+    <State>SC</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>C000556</BioGuideId>
+    <FirstName>John</FirstName>
+    <LastName>Coble</LastName>
+    <OfficeAddress>2468 Rayburn House Office Building</OfficeAddress>
+    <GovTrackId>400076</GovTrackId>
+    <Phone>202-225-3065</Phone>
+    <TwitterId />
+    <YoutubeUrl />
+    <WebSite>http://coble.house.gov/</WebSite>
+    <Party>R</Party>
+    <State>NC</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>C000714</BioGuideId>
+    <FirstName>John</FirstName>
+    <LastName>Conyers</LastName>
+    <OfficeAddress>2426 Rayburn House Office Building</OfficeAddress>
+    <GovTrackId>400080</GovTrackId>
+    <Phone>202-225-5126</Phone>
+    <TwitterId />
+    <YoutubeUrl>http://www.youtube.com/JCMI14</YoutubeUrl>
+    <WebSite>http://conyers.house.gov/</WebSite>
+    <Party>D</Party>
+    <State>MI</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>C000754</BioGuideId>
+    <FirstName>Jim</FirstName>
+    <LastName>Cooper</LastName>
+    <OfficeAddress>1536 Longworth House Office Building</OfficeAddress>
+    <GovTrackId>400081</GovTrackId>
+    <Phone>202-225-4311</Phone>
+    <TwitterId />
+    <YoutubeUrl>http://www.youtube.com/RepJimCooper</YoutubeUrl>
+    <WebSite>http://www.cooper.house.gov/</WebSite>
+    <Party>D</Party>
+    <State>TN</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>C000794</BioGuideId>
+    <FirstName>Jerry</FirstName>
+    <LastName>Costello</LastName>
+    <OfficeAddress>2408 Rayburn House Office Building</OfficeAddress>
+    <GovTrackId>400082</GovTrackId>
+    <Phone>202-225-5661</Phone>
+    <TwitterId />
+    <YoutubeUrl />
+    <WebSite>http://costello.house.gov/</WebSite>
+    <Party>D</Party>
+    <State>IL</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>C000984</BioGuideId>
+    <FirstName>Elijah</FirstName>
+    <LastName>Cummings</LastName>
+    <OfficeAddress>2235 Rayburn House Office Building</OfficeAddress>
+    <GovTrackId>400090</GovTrackId>
+    <Phone>202-225-4741</Phone>
+    <TwitterId />
+    <YoutubeUrl />
+    <WebSite>http://www.house.gov/cummings/</WebSite>
+    <Party>D</Party>
+    <State>MD</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>C001036</BioGuideId>
+    <FirstName>Lois</FirstName>
+    <LastName>Capps</LastName>
+    <OfficeAddress>1110 Longworth House Office Building</OfficeAddress>
+    <GovTrackId>400062</GovTrackId>
+    <Phone>202-225-3601</Phone>
+    <TwitterId />
+    <YoutubeUrl>http://www.youtube.com/RepLoisCapps</YoutubeUrl>
+    <WebSite>http://capps.house.gov/</WebSite>
+    <Party>D</Party>
+    <State>CA</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>C001037</BioGuideId>
+    <FirstName>Michael</FirstName>
+    <LastName>Capuano</LastName>
+    <OfficeAddress>1530 Longworth House Office Building</OfficeAddress>
+    <GovTrackId>400063</GovTrackId>
+    <Phone>202-225-5111</Phone>
+    <TwitterId />
+    <YoutubeUrl>http://www.youtube.com/RepMikeCapuano</YoutubeUrl>
+    <WebSite>http://www.house.gov/capuano/</WebSite>
+    <Party>D</Party>
+    <State>MA</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>C001038</BioGuideId>
+    <FirstName>Joseph</FirstName>
+    <LastName>Crowley</LastName>
+    <OfficeAddress>312 Cannon House Office Building</OfficeAddress>
+    <GovTrackId>400087</GovTrackId>
+    <Phone>202-225-3965</Phone>
+    <TwitterId />
+    <YoutubeUrl>http://www.youtube.com/RepJoeCrowley</YoutubeUrl>
+    <WebSite>http://crowley.house.gov/</WebSite>
+    <Party>D</Party>
+    <State>NY</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>C001045</BioGuideId>
+    <FirstName>Ander</FirstName>
+    <LastName>Crenshaw</LastName>
+    <OfficeAddress>127 Cannon House Office Building</OfficeAddress>
+    <GovTrackId>400086</GovTrackId>
+    <Phone>202-225-2501</Phone>
+    <TwitterId>AnderCrenshaw</TwitterId>
+    <YoutubeUrl />
+    <WebSite>http://crenshaw.house.gov/</WebSite>
+    <Party>R</Party>
+    <State>FL</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>C001046</BioGuideId>
+    <FirstName>Eric</FirstName>
+    <LastName>Cantor</LastName>
+    <OfficeAddress>329 Cannon House Office Building</OfficeAddress>
+    <GovTrackId>400060</GovTrackId>
+    <Phone>202-225-2815</Phone>
+    <TwitterId>EricCantor</TwitterId>
+    <YoutubeUrl>http://www.youtube.com/EricCantor</YoutubeUrl>
+    <WebSite>http://cantor.house.gov/</WebSite>
+    <Party>R</Party>
+    <State>VA</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>C001047</BioGuideId>
+    <FirstName>Shelley</FirstName>
+    <LastName>Capito</LastName>
+    <OfficeAddress>1431 Longworth House Office Building</OfficeAddress>
+    <GovTrackId>400061</GovTrackId>
+    <Phone>202-225-2711</Phone>
+    <TwitterId />
+    <YoutubeUrl>http://www.youtube.com/RepShelleyCapito</YoutubeUrl>
+    <WebSite>http://capito.house.gov/</WebSite>
+    <Party>R</Party>
+    <State>WV</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>C001048</BioGuideId>
+    <FirstName>John</FirstName>
+    <LastName>Culberson</LastName>
+    <OfficeAddress>428 Cannon House Office Building</OfficeAddress>
+    <GovTrackId>400089</GovTrackId>
+    <Phone>202-225-2571</Phone>
+    <TwitterId>johnculberson</TwitterId>
+    <YoutubeUrl>http://www.youtube.com/JohnCulbersonTX07</YoutubeUrl>
+    <WebSite>http://culberson.house.gov/</WebSite>
+    <Party>R</Party>
+    <State>TX</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>C001049</BioGuideId>
+    <FirstName>William</FirstName>
+    <LastName>Clay</LastName>
+    <OfficeAddress>434 Cannon House Office Building</OfficeAddress>
+    <GovTrackId>400074</GovTrackId>
+    <Phone>202-225-2406</Phone>
+    <TwitterId />
+    <YoutubeUrl>http://www.youtube.com/CongressmanClay</YoutubeUrl>
+    <WebSite>http://lacyclay.house.gov/</WebSite>
+    <Party>D</Party>
+    <State>MO</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>C001050</BioGuideId>
+    <FirstName>Dennis</FirstName>
+    <LastName>Cardoza</LastName>
+    <OfficeAddress>435 Cannon House Office Building</OfficeAddress>
+    <GovTrackId>400065</GovTrackId>
+    <Phone>202-225-6131</Phone>
+    <TwitterId />
+    <YoutubeUrl />
+    <WebSite>http://www.house.gov/cardoza/</WebSite>
+    <Party>D</Party>
+    <State>CA</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>C001051</BioGuideId>
+    <FirstName>John</FirstName>
+    <LastName>Carter</LastName>
+    <OfficeAddress>408 Cannon House Office Building</OfficeAddress>
+    <GovTrackId>400068</GovTrackId>
+    <Phone>202-225-3864</Phone>
+    <TwitterId>JudgeCarter</TwitterId>
+    <YoutubeUrl>http://www.youtube.com/RepJohnCarter</YoutubeUrl>
+    <WebSite>http://carter.house.gov/index.html</WebSite>
+    <Party>R</Party>
+    <State>TX</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>C001053</BioGuideId>
+    <FirstName>Tom</FirstName>
+    <LastName>Cole</LastName>
+    <OfficeAddress>236 Cannon House Office Building</OfficeAddress>
+    <GovTrackId>400077</GovTrackId>
+    <Phone>202-225-6165</Phone>
+    <TwitterId />
+    <YoutubeUrl>http://www.youtube.com/RepTomCole</YoutubeUrl>
+    <WebSite>http://www.cole.house.gov/</WebSite>
+    <Party>R</Party>
+    <State>OK</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>C001058</BioGuideId>
+    <FirstName>Albert</FirstName>
+    <LastName>Chandler</LastName>
+    <OfficeAddress>1504 Longworth House Office Building</OfficeAddress>
+    <GovTrackId>400442</GovTrackId>
+    <Phone>202-225-4706</Phone>
+    <TwitterId />
+    <YoutubeUrl />
+    <WebSite>http://chandler.house.gov/</WebSite>
+    <Party>D</Party>
+    <State>KY</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>C001059</BioGuideId>
+    <FirstName>Jim</FirstName>
+    <LastName>Costa</LastName>
+    <OfficeAddress>1314 Longworth House Office Building</OfficeAddress>
+    <GovTrackId>400618</GovTrackId>
+    <Phone>202-225-3341</Phone>
+    <TwitterId />
+    <YoutubeUrl />
+    <WebSite>http://www.costa.house.gov/</WebSite>
+    <Party>D</Party>
+    <State>CA</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>C001060</BioGuideId>
+    <FirstName>John</FirstName>
+    <LastName>Carnahan</LastName>
+    <OfficeAddress>1710 Longworth House Office Building</OfficeAddress>
+    <GovTrackId>400638</GovTrackId>
+    <Phone>202-225-2671</Phone>
+    <TwitterId>RepCarnahan</TwitterId>
+    <YoutubeUrl>http://www.youtube.com/congressmancarnahan</YoutubeUrl>
+    <WebSite>http://carnahan.house.gov/</WebSite>
+    <Party>D</Party>
+    <State>MO</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>C001061</BioGuideId>
+    <FirstName>Emanuel</FirstName>
+    <LastName>Cleaver</LastName>
+    <OfficeAddress>1641 Longworth House Office Building</OfficeAddress>
+    <GovTrackId>400639</GovTrackId>
+    <Phone>202-225-4535</Phone>
+    <TwitterId />
+    <YoutubeUrl />
+    <WebSite>http://www.house.gov/cleaver/</WebSite>
+    <Party>D</Party>
+    <State>MO</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>C001062</BioGuideId>
+    <FirstName>K. Michael</FirstName>
+    <LastName>Conaway</LastName>
+    <OfficeAddress>511 Cannon House Office Building</OfficeAddress>
+    <GovTrackId>400655</GovTrackId>
+    <Phone>202-225-3605</Phone>
+    <TwitterId />
+    <YoutubeUrl>http://www.youtube.com/mikeconaway11</YoutubeUrl>
+    <WebSite>http://conaway.house.gov/</WebSite>
+    <Party>R</Party>
+    <State>TX</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>C001063</BioGuideId>
+    <FirstName>Henry</FirstName>
+    <LastName>Cuellar</LastName>
+    <OfficeAddress>336 Cannon House Office Building</OfficeAddress>
+    <GovTrackId>400657</GovTrackId>
+    <Phone>202-225-1640</Phone>
+    <TwitterId />
+    <YoutubeUrl>http://www.youtube.com/henrycuellar</YoutubeUrl>
+    <WebSite>http://www.house.gov/cuellar/index.shtml</WebSite>
+    <Party>D</Party>
+    <State>TX</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>C001064</BioGuideId>
+    <FirstName>John</FirstName>
+    <LastName>Campbell</LastName>
+    <OfficeAddress>1728 Longworth House Office Building</OfficeAddress>
+    <GovTrackId>412011</GovTrackId>
+    <Phone>202-225-5611</Phone>
+    <TwitterId />
+    <YoutubeUrl>http://www.youtube.com/RepJohnCampbellCA48</YoutubeUrl>
+    <WebSite>http://campbell.house.gov/html/contact_form_email.cfm</WebSite>
+    <Party>R</Party>
+    <State>CA</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>C001065</BioGuideId>
+    <FirstName>Christopher</FirstName>
+    <LastName>Carney</LastName>
+    <OfficeAddress>416 Cannon House Office Building</OfficeAddress>
+    <GovTrackId>412234</GovTrackId>
+    <Phone>202-225-3731</Phone>
+    <TwitterId />
+    <YoutubeUrl />
+    <WebSite>http://carney.house.gov/</WebSite>
+    <Party>D</Party>
+    <State>PA</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>C001066</BioGuideId>
+    <FirstName>Kathy</FirstName>
+    <LastName>Castor</LastName>
+    <OfficeAddress>317 Cannon House Office Building</OfficeAddress>
+    <GovTrackId>412195</GovTrackId>
+    <Phone>202-225-3376</Phone>
+    <TwitterId />
+    <YoutubeUrl />
+    <WebSite>http://castor.house.gov/</WebSite>
+    <Party>D</Party>
+    <State>FL</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>C001067</BioGuideId>
+    <FirstName>Yvette</FirstName>
+    <LastName>Clarke</LastName>
+    <OfficeAddress>1029 Longworth House Office Building</OfficeAddress>
+    <GovTrackId>412221</GovTrackId>
+    <Phone>202-225-6231</Phone>
+    <TwitterId />
+    <YoutubeUrl />
+    <WebSite>http://clarke.house.gov/</WebSite>
+    <Party>D</Party>
+    <State>NY</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>C001068</BioGuideId>
+    <FirstName>Steve</FirstName>
+    <LastName>Cohen</LastName>
+    <OfficeAddress>1004 Longworth House Office Building</OfficeAddress>
+    <GovTrackId>412236</GovTrackId>
+    <Phone>202-225-3265</Phone>
+    <TwitterId />
+    <YoutubeUrl>http://www.youtube.com/RepCohen</YoutubeUrl>
+    <WebSite>http://cohen.house.gov/</WebSite>
+    <Party>D</Party>
+    <State>TN</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>C001069</BioGuideId>
+    <FirstName>Joseph</FirstName>
+    <LastName>Courtney</LastName>
+    <OfficeAddress>215 Cannon House Office Building</OfficeAddress>
+    <GovTrackId>412193</GovTrackId>
+    <Phone>202-225-2076</Phone>
+    <TwitterId />
+    <YoutubeUrl>http://www.youtube.com/RepCourtney</YoutubeUrl>
+    <WebSite>http://courtney.house.gov/</WebSite>
+    <Party>D</Party>
+    <State>CT</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>C001072</BioGuideId>
+    <FirstName>Andre</FirstName>
+    <LastName>Carson</LastName>
+    <OfficeAddress>2455 Rayburn House Office Building</OfficeAddress>
+    <GovTrackId>412258</GovTrackId>
+    <Phone>202-225-4011</Phone>
+    <TwitterId />
+    <YoutubeUrl>http://www.youtube.com/RepAndreCarson</YoutubeUrl>
+    <WebSite>http://carson.house.gov/</WebSite>
+    <Party>D</Party>
+    <State>IN</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>C001074</BioGuideId>
+    <FirstName>Travis</FirstName>
+    <LastName>Childers</LastName>
+    <OfficeAddress>2350 Rayburn House Office Building</OfficeAddress>
+    <GovTrackId>412262</GovTrackId>
+    <Phone>202-225-4306</Phone>
+    <TwitterId />
+    <YoutubeUrl>http://www.youtube.com/CongressmanChilders</YoutubeUrl>
+    <WebSite>http://childers.house.gov/</WebSite>
+    <Party>D</Party>
+    <State>MS</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>C001075</BioGuideId>
+    <FirstName>William</FirstName>
+    <LastName>Cassidy</LastName>
+    <OfficeAddress>506 Cannon House Office Building</OfficeAddress>
+    <GovTrackId>412269</GovTrackId>
+    <Phone>202-225-3901</Phone>
+    <TwitterId>DrCassidy</TwitterId>
+    <YoutubeUrl>http://www.youtube.com/repbillcassidy</YoutubeUrl>
+    <WebSite>http://cassidy.house.gov/index.html</WebSite>
+    <Party>R</Party>
+    <State>LA</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>C001076</BioGuideId>
+    <FirstName>Jason</FirstName>
+    <LastName>Chaffetz</LastName>
+    <OfficeAddress>1032 Longworth House Office Building</OfficeAddress>
+    <GovTrackId>412270</GovTrackId>
+    <Phone>202-225-7751</Phone>
+    <TwitterId>jasoninthehouse</TwitterId>
+    <YoutubeUrl>http://www.youtube.com/JasonChaffetz</YoutubeUrl>
+    <WebSite>http://chaffetz.house.gov/</WebSite>
+    <Party>R</Party>
+    <State>UT</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>C001077</BioGuideId>
+    <FirstName>Mike</FirstName>
+    <LastName>Coffman</LastName>
+    <OfficeAddress>1508 Longworth House Office Building</OfficeAddress>
+    <GovTrackId>412271</GovTrackId>
+    <Phone>202-225-7882</Phone>
+    <TwitterId>RepMikeCoffman</TwitterId>
+    <YoutubeUrl>http://www.youtube.com/CongressmanCoffman</YoutubeUrl>
+    <WebSite>http://coffman.house.gov/</WebSite>
+    <Party>R</Party>
+    <State>CO</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>C001078</BioGuideId>
+    <FirstName>Gerald</FirstName>
+    <LastName>Connolly</LastName>
+    <OfficeAddress>327 Cannon House Office Building</OfficeAddress>
+    <GovTrackId>412272</GovTrackId>
+    <Phone>202-225-1492</Phone>
+    <TwitterId />
+    <YoutubeUrl>http://www.youtube.com/repconnolly</YoutubeUrl>
+    <WebSite>http://connolly.house.gov/index.html</WebSite>
+    <Party>D</Party>
+    <State>VA</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>C001079</BioGuideId>
+    <FirstName>Anh</FirstName>
+    <LastName>Cao</LastName>
+    <OfficeAddress>2113 Rayburn House Office Building</OfficeAddress>
+    <GovTrackId>412268</GovTrackId>
+    <Phone>202-225-6636</Phone>
+    <TwitterId>AnhJosephCao</TwitterId>
+    <YoutubeUrl>http://www.youtube.com/AnhJosephCao</YoutubeUrl>
+    <WebSite>http://josephcao.house.gov/</WebSite>
+    <Party>R</Party>
+    <State>LA</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>C001080</BioGuideId>
+    <FirstName>Judy</FirstName>
+    <LastName>Chu</LastName>
+    <OfficeAddress>2421 Rayburn House Office Building</OfficeAddress>
+    <GovTrackId>412379</GovTrackId>
+    <Phone>202-225-5464</Phone>
+    <TwitterId />
+    <YoutubeUrl />
+    <WebSite>http://chu.house.gov/</WebSite>
+    <Party>D</Party>
+    <State>CA</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>D000096</BioGuideId>
+    <FirstName>Danny</FirstName>
+    <LastName>Davis</LastName>
+    <OfficeAddress>2159 Rayburn House Office Building</OfficeAddress>
+    <GovTrackId>400093</GovTrackId>
+    <Phone>202-225-5006</Phone>
+    <TwitterId />
+    <YoutubeUrl />
+    <WebSite>http://www.davis.house.gov/</WebSite>
+    <Party>D</Party>
+    <State>IL</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>D000191</BioGuideId>
+    <FirstName>Peter</FirstName>
+    <LastName>DeFazio</LastName>
+    <OfficeAddress>2134 Rayburn House Office Building</OfficeAddress>
+    <GovTrackId>400100</GovTrackId>
+    <Phone>202-225-6416</Phone>
+    <TwitterId />
+    <YoutubeUrl>http://www.youtube.com/PeterDeFazio</YoutubeUrl>
+    <WebSite>http://www.defazio.house.gov/</WebSite>
+    <Party>D</Party>
+    <State>OR</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>D000197</BioGuideId>
+    <FirstName>Diana</FirstName>
+    <LastName>DeGette</LastName>
+    <OfficeAddress>1527 Longworth House Office Building</OfficeAddress>
+    <GovTrackId>400101</GovTrackId>
+    <Phone>202-225-4431</Phone>
+    <TwitterId />
+    <YoutubeUrl>http://www.youtube.com/RepDianaDeGette</YoutubeUrl>
+    <WebSite>http://www.house.gov/degette/index.shtml</WebSite>
+    <Party>D</Party>
+    <State>CO</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>D000210</BioGuideId>
+    <FirstName>William</FirstName>
+    <LastName>Delahunt</LastName>
+    <OfficeAddress>2454 Rayburn House Office Building</OfficeAddress>
+    <GovTrackId>400102</GovTrackId>
+    <Phone>202-225-3111</Phone>
+    <TwitterId />
+    <YoutubeUrl>http://www.youtube.com/repdelahunt</YoutubeUrl>
+    <WebSite>http://www.house.gov/delahunt/</WebSite>
+    <Party>D</Party>
+    <State>MA</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>D000216</BioGuideId>
+    <FirstName>Rosa</FirstName>
+    <LastName>DeLauro</LastName>
+    <OfficeAddress>2262 Rayburn House Office Building</OfficeAddress>
+    <GovTrackId>400103</GovTrackId>
+    <Phone>202-225-3661</Phone>
+    <TwitterId />
+    <YoutubeUrl>http://www.youtube.com/RosaDeLauro</YoutubeUrl>
+    <WebSite>http://delauro.house.gov/</WebSite>
+    <Party>D</Party>
+    <State>CT</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>D000299</BioGuideId>
+    <FirstName>Lincoln</FirstName>
+    <LastName>Diaz-Balart</LastName>
+    <OfficeAddress>2244 Rayburn House Office Building</OfficeAddress>
+    <GovTrackId>400107</GovTrackId>
+    <Phone>202-225-4211</Phone>
+    <TwitterId />
+    <YoutubeUrl />
+    <WebSite>http://diaz-balart.house.gov/</WebSite>
+    <Party>R</Party>
+    <State>FL</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>D000327</BioGuideId>
+    <FirstName>Norman</FirstName>
+    <LastName>Dicks</LastName>
+    <OfficeAddress>2467 Rayburn House Office Building</OfficeAddress>
+    <GovTrackId>400109</GovTrackId>
+    <Phone>202-225-5916</Phone>
+    <TwitterId>RepNormDicks</TwitterId>
+    <YoutubeUrl>http://www.youtube.com/RepNormDicks</YoutubeUrl>
+    <WebSite>http://www.house.gov/dicks/</WebSite>
+    <Party>D</Party>
+    <State>WA</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>D000355</BioGuideId>
+    <FirstName>John</FirstName>
+    <LastName>Dingell</LastName>
+    <OfficeAddress>2328 Rayburn House Office Building</OfficeAddress>
+    <GovTrackId>400110</GovTrackId>
+    <Phone>202-225-4071</Phone>
+    <TwitterId>john_dingell</TwitterId>
+    <YoutubeUrl>http://www.youtube.com/DingellMI15</YoutubeUrl>
+    <WebSite>http://www.house.gov/dingell/</WebSite>
+    <Party>D</Party>
+    <State>MI</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>D000399</BioGuideId>
+    <FirstName>Lloyd</FirstName>
+    <LastName>Doggett</LastName>
+    <OfficeAddress>201 Cannon House Office Building</OfficeAddress>
+    <GovTrackId>400111</GovTrackId>
+    <Phone>202-225-4865</Phone>
+    <TwitterId />
+    <YoutubeUrl>http://www.youtube.com/doggett</YoutubeUrl>
+    <WebSite>http://doggett.house.gov/</WebSite>
+    <Party>D</Party>
+    <State>TX</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>D000482</BioGuideId>
+    <FirstName>Michael</FirstName>
+    <LastName>Doyle</LastName>
+    <OfficeAddress>401 Cannon House Office Building</OfficeAddress>
+    <GovTrackId>400114</GovTrackId>
+    <Phone>202-225-2135</Phone>
+    <TwitterId>USRepMikeDoyle</TwitterId>
+    <YoutubeUrl>http://www.youtube.com/CongressmanDoyle</YoutubeUrl>
+    <WebSite>http://doyle.house.gov/</WebSite>
+    <Party>D</Party>
+    <State>PA</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>D000492</BioGuideId>
+    <FirstName>David</FirstName>
+    <LastName>Dreier</LastName>
+    <OfficeAddress>233 Cannon House Office Building</OfficeAddress>
+    <GovTrackId>400115</GovTrackId>
+    <Phone>202-225-2305</Phone>
+    <TwitterId />
+    <YoutubeUrl>http://www.youtube.com/RepDavidDreier</YoutubeUrl>
+    <WebSite>http://dreier.house.gov/</WebSite>
+    <Party>R</Party>
+    <State>CA</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>D000533</BioGuideId>
+    <FirstName>John</FirstName>
+    <LastName>Duncan</LastName>
+    <OfficeAddress>2207 Rayburn House Office Building</OfficeAddress>
+    <GovTrackId>400116</GovTrackId>
+    <Phone>202-225-5435</Phone>
+    <TwitterId />
+    <YoutubeUrl>http://www.youtube.com/repjohnduncan</YoutubeUrl>
+    <WebSite>http://www.house.gov/duncan/</WebSite>
+    <Party>R</Party>
+    <State>TN</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>D000598</BioGuideId>
+    <FirstName>Susan</FirstName>
+    <LastName>Davis</LastName>
+    <OfficeAddress>1526 Longworth House Office Building</OfficeAddress>
+    <GovTrackId>400097</GovTrackId>
+    <Phone>202-225-2040</Phone>
+    <TwitterId />
+    <YoutubeUrl />
+    <WebSite>http://www.house.gov/susandavis/</WebSite>
+    <Party>D</Party>
+    <State>CA</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>D000599</BioGuideId>
+    <FirstName>Lincoln</FirstName>
+    <LastName>Davis</LastName>
+    <OfficeAddress>410 Cannon House Office Building</OfficeAddress>
+    <GovTrackId>400096</GovTrackId>
+    <Phone>202-225-6831</Phone>
+    <TwitterId />
+    <YoutubeUrl />
+    <WebSite>http://www.house.gov/lincolndavis/</WebSite>
+    <Party>D</Party>
+    <State>TN</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>D000600</BioGuideId>
+    <FirstName>Mario</FirstName>
+    <LastName>Diaz-Balart</LastName>
+    <OfficeAddress>328 Cannon House Office Building</OfficeAddress>
+    <GovTrackId>400108</GovTrackId>
+    <Phone>202-225-2778</Phone>
+    <TwitterId />
+    <YoutubeUrl>http://www.youtube.com/MarioDiazBalart</YoutubeUrl>
+    <WebSite>http://mariodiazbalart.house.gov/index.html</WebSite>
+    <Party>R</Party>
+    <State>FL</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>D000602</BioGuideId>
+    <FirstName>Artur</FirstName>
+    <LastName>Davis</LastName>
+    <OfficeAddress>208 Cannon House Office Building</OfficeAddress>
+    <GovTrackId>400092</GovTrackId>
+    <Phone>202-225-2665</Phone>
+    <TwitterId>ArturDavis</TwitterId>
+    <YoutubeUrl />
+    <WebSite>http://arturdavis.house.gov/</WebSite>
+    <Party>D</Party>
+    <State>AL</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>D000603</BioGuideId>
+    <FirstName>Geoff</FirstName>
+    <LastName>Davis</LastName>
+    <OfficeAddress>1108 Longworth House Office Building</OfficeAddress>
+    <GovTrackId>400633</GovTrackId>
+    <Phone>202-225-3465</Phone>
+    <TwitterId />
+    <YoutubeUrl>http://www.youtube.com/CongressmanDavis</YoutubeUrl>
+    <WebSite>http://geoffdavis.house.gov/</WebSite>
+    <Party>R</Party>
+    <State>KY</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>D000604</BioGuideId>
+    <FirstName>Charles</FirstName>
+    <LastName>Dent</LastName>
+    <OfficeAddress>116 Cannon House Office Building</OfficeAddress>
+    <GovTrackId>400648</GovTrackId>
+    <Phone>202-225-6411</Phone>
+    <TwitterId />
+    <YoutubeUrl>http://www.youtube.com/CongressmanDent</YoutubeUrl>
+    <WebSite>http://dent.house.gov/</WebSite>
+    <Party>R</Party>
+    <State>PA</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>D000607</BioGuideId>
+    <FirstName>Joe</FirstName>
+    <LastName>Donnelly</LastName>
+    <OfficeAddress>1218 Longworth House Office Building</OfficeAddress>
+    <GovTrackId>412205</GovTrackId>
+    <Phone>202-225-3915</Phone>
+    <TwitterId />
+    <YoutubeUrl />
+    <WebSite>http://donnelly.house.gov/</WebSite>
+    <Party>D</Party>
+    <State>IN</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>D000608</BioGuideId>
+    <FirstName>Kathy</FirstName>
+    <LastName>Dahlkemper</LastName>
+    <OfficeAddress>516 Cannon House Office Building</OfficeAddress>
+    <GovTrackId>412273</GovTrackId>
+    <Phone>202-225-5406</Phone>
+    <TwitterId />
+    <YoutubeUrl />
+    <WebSite>http://www.dahlkemper.house.gov/</WebSite>
+    <Party>D</Party>
+    <State>PA</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>D000609</BioGuideId>
+    <FirstName>Steven</FirstName>
+    <LastName>Driehaus</LastName>
+    <OfficeAddress>408 Cannon House Office Building</OfficeAddress>
+    <GovTrackId>412274</GovTrackId>
+    <Phone>202-225-2216</Phone>
+    <TwitterId />
+    <YoutubeUrl />
+    <WebSite>http://driehaus.house.gov/</WebSite>
+    <Party>D</Party>
+    <State>OH</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>D000610</BioGuideId>
+    <FirstName>Ted</FirstName>
+    <LastName>Deutch</LastName>
+    <OfficeAddress>2241 Rayburn House Office Building</OfficeAddress>
+    <GovTrackId>412385</GovTrackId>
+    <Phone>202-225-3001</Phone>
+    <TwitterId />
+    <YoutubeUrl />
+    <WebSite>https://teddeutch.house.gov</WebSite>
+    <Party>D</Party>
+    <State>FL</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>E000063</BioGuideId>
+    <FirstName>Thomas</FirstName>
+    <LastName>Edwards</LastName>
+    <OfficeAddress>2369 Rayburn House Office Building</OfficeAddress>
+    <GovTrackId>400118</GovTrackId>
+    <Phone>202-225-6105</Phone>
+    <TwitterId />
+    <YoutubeUrl>http://www.youtube.com/ChetEdwardsTexas</YoutubeUrl>
+    <WebSite>http://edwards.house.gov/</WebSite>
+    <Party>D</Party>
+    <State>TX</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>E000092</BioGuideId>
+    <FirstName>Vernon</FirstName>
+    <LastName>Ehlers</LastName>
+    <OfficeAddress>2182 Rayburn House Office Building</OfficeAddress>
+    <GovTrackId>400119</GovTrackId>
+    <Phone>202-225-3831</Phone>
+    <TwitterId />
+    <YoutubeUrl>http://www.youtube.com/CongressmanEhlers</YoutubeUrl>
+    <WebSite>http://www.house.gov/ehlers/</WebSite>
+    <Party>R</Party>
+    <State>MI</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>E000172</BioGuideId>
+    <FirstName>Jo Ann</FirstName>
+    <LastName>Emerson</LastName>
+    <OfficeAddress>2440 Rayburn House Office Building</OfficeAddress>
+    <GovTrackId>400121</GovTrackId>
+    <Phone>202-225-4404</Phone>
+    <TwitterId>joannemerson</TwitterId>
+    <YoutubeUrl />
+    <WebSite>http://www.house.gov/emerson/</WebSite>
+    <Party>R</Party>
+    <State>MO</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>E000179</BioGuideId>
+    <FirstName>Eliot</FirstName>
+    <LastName>Engel</LastName>
+    <OfficeAddress>2161 Rayburn House Office Building</OfficeAddress>
+    <GovTrackId>400122</GovTrackId>
+    <Phone>202-225-2464</Phone>
+    <TwitterId />
+    <YoutubeUrl>http://www.youtube.com/Engel2161</YoutubeUrl>
+    <WebSite>http://engel.house.gov/index.html</WebSite>
+    <Party>D</Party>
+    <State>NY</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>E000215</BioGuideId>
+    <FirstName>Anna</FirstName>
+    <LastName>Eshoo</LastName>
+    <OfficeAddress>205 Cannon House Office Building</OfficeAddress>
+    <GovTrackId>400124</GovTrackId>
+    <Phone>202-225-8104</Phone>
+    <TwitterId />
+    <YoutubeUrl>http://www.youtube.com/RepAnnaEshoo</YoutubeUrl>
+    <WebSite>http://eshoo.house.gov/</WebSite>
+    <Party>D</Party>
+    <State>CA</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>E000226</BioGuideId>
+    <FirstName>Bob</FirstName>
+    <LastName>Etheridge</LastName>
+    <OfficeAddress>1533 Longworth House Office Building</OfficeAddress>
+    <GovTrackId>400125</GovTrackId>
+    <Phone>202-225-4531</Phone>
+    <TwitterId />
+    <YoutubeUrl />
+    <WebSite>http://etheridge.house.gov/</WebSite>
+    <Party>D</Party>
+    <State>NC</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>E000288</BioGuideId>
+    <FirstName>Keith</FirstName>
+    <LastName>Ellison</LastName>
+    <OfficeAddress>1130 Longworth House Office Building</OfficeAddress>
+    <GovTrackId>412215</GovTrackId>
+    <Phone>202-225-4755</Phone>
+    <TwitterId>keithellison</TwitterId>
+    <YoutubeUrl>http://www.youtube.com/RepKeithEllison</YoutubeUrl>
+    <WebSite>http://ellison.house.gov</WebSite>
+    <Party>D</Party>
+    <State>MN</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>E000289</BioGuideId>
+    <FirstName>Brad</FirstName>
+    <LastName>Ellsworth</LastName>
+    <OfficeAddress>513 Cannon House Office Building</OfficeAddress>
+    <GovTrackId>412206</GovTrackId>
+    <Phone>202-225-4636</Phone>
+    <TwitterId />
+    <YoutubeUrl />
+    <WebSite>http://www.ellsworth.house.gov/</WebSite>
+    <Party>D</Party>
+    <State>IN</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>E000290</BioGuideId>
+    <FirstName>Donna</FirstName>
+    <LastName>Edwards</LastName>
+    <OfficeAddress>318 Cannon House Office Building</OfficeAddress>
+    <GovTrackId>412263</GovTrackId>
+    <Phone>202-225-8699</Phone>
+    <TwitterId />
+    <YoutubeUrl>http://www.youtube.com/RepDonnaFEdwards</YoutubeUrl>
+    <WebSite>http://donnaedwards.house.gov/index.html</WebSite>
+    <Party>D</Party>
+    <State>MD</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>F000030</BioGuideId>
+    <FirstName>Sam</FirstName>
+    <LastName>Farr</LastName>
+    <OfficeAddress>1221 Longworth House Office Building</OfficeAddress>
+    <GovTrackId>400129</GovTrackId>
+    <Phone>202-225-2861</Phone>
+    <TwitterId />
+    <YoutubeUrl>http://www.youtube.com/CongressmanSamFarr</YoutubeUrl>
+    <WebSite>http://www.farr.house.gov/</WebSite>
+    <Party>D</Party>
+    <State>CA</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>F000043</BioGuideId>
+    <FirstName>Chaka</FirstName>
+    <LastName>Fattah</LastName>
+    <OfficeAddress>2301 Rayburn House Office Building</OfficeAddress>
+    <GovTrackId>400130</GovTrackId>
+    <Phone>202-225-4001</Phone>
+    <TwitterId>chakafattah</TwitterId>
+    <YoutubeUrl />
+    <WebSite>http://fattah.house.gov/index.html</WebSite>
+    <Party>D</Party>
+    <State>PA</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>F000116</BioGuideId>
+    <FirstName>Bob</FirstName>
+    <LastName>Filner</LastName>
+    <OfficeAddress>2428 Rayburn House Office Building</OfficeAddress>
+    <GovTrackId>400133</GovTrackId>
+    <Phone>202-225-8045</Phone>
+    <TwitterId />
+    <YoutubeUrl />
+    <WebSite>http://www.house.gov/filner/</WebSite>
+    <Party>D</Party>
+    <State>CA</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>F000339</BioGuideId>
+    <FirstName>Barney</FirstName>
+    <LastName>Frank</LastName>
+    <OfficeAddress>2252 Rayburn House Office Building</OfficeAddress>
+    <GovTrackId>400140</GovTrackId>
+    <Phone>202-225-5931</Phone>
+    <TwitterId />
+    <YoutubeUrl>http://www.youtube.com/barneyfrank</YoutubeUrl>
+    <WebSite>http://www.house.gov/frank/</WebSite>
+    <Party>D</Party>
+    <State>MA</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>F000372</BioGuideId>
+    <FirstName>Rodney</FirstName>
+    <LastName>Frelinghuysen</LastName>
+    <OfficeAddress>2442 Rayburn House Office Building</OfficeAddress>
+    <GovTrackId>400142</GovTrackId>
+    <Phone>202-225-5034</Phone>
+    <TwitterId />
+    <YoutubeUrl>http://www.youtube.com/repfrelinghuysen</YoutubeUrl>
+    <WebSite>http://frelinghuysen.house.gov/</WebSite>
+    <Party>R</Party>
+    <State>NJ</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>F000444</BioGuideId>
+    <FirstName>Jeff</FirstName>
+    <LastName>Flake</LastName>
+    <OfficeAddress>240 Cannon House Office Building</OfficeAddress>
+    <GovTrackId>400134</GovTrackId>
+    <Phone>202-225-2635</Phone>
+    <TwitterId>JeffFlake</TwitterId>
+    <YoutubeUrl>http://www.youtube.com/flakeoffice</YoutubeUrl>
+    <WebSite>http://flake.house.gov/</WebSite>
+    <Party>R</Party>
+    <State>AZ</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>F000445</BioGuideId>
+    <FirstName>James</FirstName>
+    <LastName>Forbes</LastName>
+    <OfficeAddress>307 Cannon House Office Building</OfficeAddress>
+    <GovTrackId>400137</GovTrackId>
+    <Phone>202-225-6365</Phone>
+    <TwitterId>Randy_Forbes</TwitterId>
+    <YoutubeUrl>http://www.youtube.com/RepRandyForbes</YoutubeUrl>
+    <WebSite>http://forbes.house.gov/</WebSite>
+    <Party>R</Party>
+    <State>VA</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>F000448</BioGuideId>
+    <FirstName>Trent</FirstName>
+    <LastName>Franks</LastName>
+    <OfficeAddress>1237 Longworth House Office Building</OfficeAddress>
+    <GovTrackId>400141</GovTrackId>
+    <Phone>202-225-4576</Phone>
+    <TwitterId>RepTrentFranks</TwitterId>
+    <YoutubeUrl>http://www.youtube.com/RepTrentFranks</YoutubeUrl>
+    <WebSite>http://www.house.gov/franks/index.shtml</WebSite>
+    <Party>R</Party>
+    <State>AZ</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>F000449</BioGuideId>
+    <FirstName>Jeff</FirstName>
+    <LastName>Fortenberry</LastName>
+    <OfficeAddress>1517 Longworth House Office Building</OfficeAddress>
+    <GovTrackId>400640</GovTrackId>
+    <Phone>202-225-4806</Phone>
+    <TwitterId>JeffFortenberry</TwitterId>
+    <YoutubeUrl>http://www.youtube.com/JeffFortenberry</YoutubeUrl>
+    <WebSite>http://fortenberry.house.gov/</WebSite>
+    <Party>R</Party>
+    <State>NE</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>F000450</BioGuideId>
+    <FirstName>Virginia</FirstName>
+    <LastName>Foxx</LastName>
+    <OfficeAddress>430 Cannon House Office Building</OfficeAddress>
+    <GovTrackId>400643</GovTrackId>
+    <Phone>202-225-2071</Phone>
+    <TwitterId>virginiafoxx</TwitterId>
+    <YoutubeUrl>http://www.youtube.com/RepVirginiaFoxx</YoutubeUrl>
+    <WebSite>http://www.foxx.house.gov/index.html</WebSite>
+    <Party>R</Party>
+    <State>NC</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>F000453</BioGuideId>
+    <FirstName>Mary</FirstName>
+    <LastName>Fallin</LastName>
+    <OfficeAddress>1432 Longworth House Office Building</OfficeAddress>
+    <GovTrackId>412230</GovTrackId>
+    <Phone>202-225-2132</Phone>
+    <TwitterId>RepMaryFallin</TwitterId>
+    <YoutubeUrl>http://www.youtube.com/RepMaryFallin</YoutubeUrl>
+    <WebSite>http://fallin.house.gov/index.html</WebSite>
+    <Party>R</Party>
+    <State>OK</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>F000454</BioGuideId>
+    <FirstName>Bill</FirstName>
+    <LastName>Foster</LastName>
+    <OfficeAddress>2304 Rayburn House Office Building</OfficeAddress>
+    <GovTrackId>412257</GovTrackId>
+    <Phone>202-225-2976</Phone>
+    <TwitterId />
+    <YoutubeUrl />
+    <WebSite>http://foster.house.gov/</WebSite>
+    <Party>D</Party>
+    <State>IL</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>F000455</BioGuideId>
+    <FirstName>Marcia</FirstName>
+    <LastName>Fudge</LastName>
+    <OfficeAddress>1009 Longworth House Office Building</OfficeAddress>
+    <GovTrackId>412327</GovTrackId>
+    <Phone>202-225-7032</Phone>
+    <TwitterId>mlfudge</TwitterId>
+    <YoutubeUrl>http://www.youtube.com/marcialfudge</YoutubeUrl>
+    <WebSite>http://fudge.house.gov/index.html</WebSite>
+    <Party>D</Party>
+    <State>OH</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>F000456</BioGuideId>
+    <FirstName>John</FirstName>
+    <LastName>Fleming</LastName>
+    <OfficeAddress>1023 Longworth House Office Building</OfficeAddress>
+    <GovTrackId>412275</GovTrackId>
+    <Phone>202-225-2777</Phone>
+    <TwitterId>RepFleming</TwitterId>
+    <YoutubeUrl>http://www.youtube.com/larep04</YoutubeUrl>
+    <WebSite>http://fleming.house.gov/</WebSite>
+    <Party>R</Party>
+    <State>LA</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>G000021</BioGuideId>
+    <FirstName>Elton</FirstName>
+    <LastName>Gallegly</LastName>
+    <OfficeAddress>2309 Rayburn House Office Building</OfficeAddress>
+    <GovTrackId>400144</GovTrackId>
+    <Phone>202-225-5811</Phone>
+    <TwitterId>eltongallegly24</TwitterId>
+    <YoutubeUrl />
+    <WebSite>http://www.house.gov/gallegly/</WebSite>
+    <Party>R</Party>
+    <State>CA</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>G000289</BioGuideId>
+    <FirstName>Robert</FirstName>
+    <LastName>Goodlatte</LastName>
+    <OfficeAddress>2240 Rayburn House Office Building</OfficeAddress>
+    <GovTrackId>400154</GovTrackId>
+    <Phone>202-225-5431</Phone>
+    <TwitterId>RepGoodlatte</TwitterId>
+    <YoutubeUrl>http://www.youtube.com/RepBobGoodlatte</YoutubeUrl>
+    <WebSite>http://goodlatte.house.gov/</WebSite>
+    <Party>R</Party>
+    <State>VA</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>G000309</BioGuideId>
+    <FirstName>Bart</FirstName>
+    <LastName>Gordon</LastName>
+    <OfficeAddress>2310 Rayburn House Office Building</OfficeAddress>
+    <GovTrackId>400155</GovTrackId>
+    <Phone>202-225-4231</Phone>
+    <TwitterId />
+    <YoutubeUrl>http://www.youtube.com/repbartgordon</YoutubeUrl>
+    <WebSite>http://gordon.house.gov/</WebSite>
+    <Party>D</Party>
+    <State>TN</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>G000377</BioGuideId>
+    <FirstName>Kay</FirstName>
+    <LastName>Granger</LastName>
+    <OfficeAddress>440 Cannon House Office Building</OfficeAddress>
+    <GovTrackId>400157</GovTrackId>
+    <Phone>202-225-5071</Phone>
+    <TwitterId />
+    <YoutubeUrl>http://www.youtube.com/repkaygranger</YoutubeUrl>
+    <WebSite>http://kaygranger.house.gov/index.html</WebSite>
+    <Party>R</Party>
+    <State>TX</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>G000410</BioGuideId>
+    <FirstName>Raymond</FirstName>
+    <LastName>Green</LastName>
+    <OfficeAddress>2335 Rayburn House Office Building</OfficeAddress>
+    <GovTrackId>400160</GovTrackId>
+    <Phone>202-225-1688</Phone>
+    <TwitterId />
+    <YoutubeUrl />
+    <WebSite>http://www.house.gov/green/</WebSite>
+    <Party>D</Party>
+    <State>TX</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>G000535</BioGuideId>
+    <FirstName>Luis</FirstName>
+    <LastName>Gutierrez</LastName>
+    <OfficeAddress>2266 Rayburn House Office Building</OfficeAddress>
+    <GovTrackId>400163</GovTrackId>
+    <Phone>202-225-8203</Phone>
+    <TwitterId />
+    <YoutubeUrl />
+    <WebSite>http://luisgutierrez.house.gov/</WebSite>
+    <Party>D</Party>
+    <State>IL</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>G000544</BioGuideId>
+    <FirstName>Charles</FirstName>
+    <LastName>Gonzalez</LastName>
+    <OfficeAddress>303 Cannon House Office Building</OfficeAddress>
+    <GovTrackId>400152</GovTrackId>
+    <Phone>202-225-3236</Phone>
+    <TwitterId />
+    <YoutubeUrl />
+    <WebSite>http://www.gonzalez.house.gov/</WebSite>
+    <Party>D</Party>
+    <State>TX</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>G000546</BioGuideId>
+    <FirstName>Samuel</FirstName>
+    <LastName>Graves</LastName>
+    <OfficeAddress>1415 Longworth House Office Building</OfficeAddress>
+    <GovTrackId>400158</GovTrackId>
+    <Phone>202-225-7041</Phone>
+    <TwitterId />
+    <YoutubeUrl />
+    <WebSite>http://www.house.gov/graves/</WebSite>
+    <Party>R</Party>
+    <State>MO</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>G000548</BioGuideId>
+    <FirstName>E. Scott</FirstName>
+    <LastName>Garrett</LastName>
+    <OfficeAddress>1318 Longworth House Office Building</OfficeAddress>
+    <GovTrackId>400145</GovTrackId>
+    <Phone>202-225-4465</Phone>
+    <TwitterId />
+    <YoutubeUrl />
+    <WebSite>http://garrett.house.gov/</WebSite>
+    <Party>R</Party>
+    <State>NJ</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>G000549</BioGuideId>
+    <FirstName>Jim</FirstName>
+    <LastName>Gerlach</LastName>
+    <OfficeAddress>308 Cannon House Office Building</OfficeAddress>
+    <GovTrackId>400147</GovTrackId>
+    <Phone>202-225-4315</Phone>
+    <TwitterId>JimGerlach</TwitterId>
+    <YoutubeUrl />
+    <WebSite>http://gerlach.house.gov/</WebSite>
+    <Party>R</Party>
+    <State>PA</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>G000550</BioGuideId>
+    <FirstName>Phil</FirstName>
+    <LastName>Gingrey</LastName>
+    <OfficeAddress>119 Cannon House Office Building</OfficeAddress>
+    <GovTrackId>400151</GovTrackId>
+    <Phone>202-225-2931</Phone>
+    <TwitterId>RepPhilGingrey</TwitterId>
+    <YoutubeUrl>http://www.youtube.com/RepPhilGingrey</YoutubeUrl>
+    <WebSite>http://gingrey.house.gov/</WebSite>
+    <Party>R</Party>
+    <State>GA</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>G000551</BioGuideId>
+    <FirstName>Raul</FirstName>
+    <LastName>Grijalva</LastName>
+    <OfficeAddress>1440 Longworth House Office Building</OfficeAddress>
+    <GovTrackId>400162</GovTrackId>
+    <Phone>202-225-2435</Phone>
+    <TwitterId />
+    <YoutubeUrl>http://www.youtube.com/raulgrijalvaaz07</YoutubeUrl>
+    <WebSite>http://grijalva.house.gov/index.html</WebSite>
+    <Party>D</Party>
+    <State>AZ</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>G000552</BioGuideId>
+    <FirstName>Louis</FirstName>
+    <LastName>Gohmert</LastName>
+    <OfficeAddress>510 Cannon House Office Building</OfficeAddress>
+    <GovTrackId>400651</GovTrackId>
+    <Phone>202-225-3035</Phone>
+    <TwitterId />
+    <YoutubeUrl>http://www.youtube.com/GohmertTX01</YoutubeUrl>
+    <WebSite>http://gohmert.house.gov/index.html</WebSite>
+    <Party>R</Party>
+    <State>TX</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>G000553</BioGuideId>
+    <FirstName>Al</FirstName>
+    <LastName>Green</LastName>
+    <OfficeAddress>425 Cannon House Office Building</OfficeAddress>
+    <GovTrackId>400653</GovTrackId>
+    <Phone>202-225-7508</Phone>
+    <TwitterId />
+    <YoutubeUrl />
+    <WebSite>http://www.house.gov/algreen/</WebSite>
+    <Party>D</Party>
+    <State>TX</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>G000554</BioGuideId>
+    <FirstName>Gabrielle</FirstName>
+    <LastName>Giffords</LastName>
+    <OfficeAddress>502 Cannon House Office Building</OfficeAddress>
+    <GovTrackId>412188</GovTrackId>
+    <Phone>202-225-2542</Phone>
+    <TwitterId>Rep_Giffords</TwitterId>
+    <YoutubeUrl>http://www.youtube.com/giffords2</YoutubeUrl>
+    <WebSite>http://giffords.house.gov/contact/mailing-list/</WebSite>
+    <Party>D</Party>
+    <State>AZ</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>G000556</BioGuideId>
+    <FirstName>Alan</FirstName>
+    <LastName>Grayson</LastName>
+    <OfficeAddress>1605 Longworth House Office Building</OfficeAddress>
+    <GovTrackId>412276</GovTrackId>
+    <Phone>202-225-2176</Phone>
+    <TwitterId>alangrayson</TwitterId>
+    <YoutubeUrl>http://www.youtube.com/repalangrayson</YoutubeUrl>
+    <WebSite>http://grayson.house.gov/</WebSite>
+    <Party>D</Party>
+    <State>FL</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>G000557</BioGuideId>
+    <FirstName>Parker</FirstName>
+    <LastName>Griffith</LastName>
+    <OfficeAddress>417 Cannon House Office Building</OfficeAddress>
+    <GovTrackId>412277</GovTrackId>
+    <Phone>202-225-4801</Phone>
+    <TwitterId />
+    <YoutubeUrl />
+    <WebSite>http://griffith.house.gov/index.html</WebSite>
+    <Party>R</Party>
+    <State>AL</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>G000558</BioGuideId>
+    <FirstName>Steven</FirstName>
+    <LastName>Guthrie</LastName>
+    <OfficeAddress>510 Cannon House Office Building</OfficeAddress>
+    <GovTrackId>412278</GovTrackId>
+    <Phone>202-225-3501</Phone>
+    <TwitterId />
+    <YoutubeUrl />
+    <WebSite>http://guthrie.house.gov/index.html</WebSite>
+    <Party>R</Party>
+    <State>KY</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>G000559</BioGuideId>
+    <FirstName>John</FirstName>
+    <LastName>Garamendi</LastName>
+    <OfficeAddress>2459 Rayburn House Office Building</OfficeAddress>
+    <GovTrackId>412382</GovTrackId>
+    <Phone>202-225-1880</Phone>
+    <TwitterId>garamendica10</TwitterId>
+    <YoutubeUrl />
+    <WebSite>http://garamendi.house.gov/</WebSite>
+    <Party>D</Party>
+    <State>CA</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>H000067</BioGuideId>
+    <FirstName>Ralph</FirstName>
+    <LastName>Hall</LastName>
+    <OfficeAddress>2405 Rayburn House Office Building</OfficeAddress>
+    <GovTrackId>400165</GovTrackId>
+    <Phone>202-225-6673</Phone>
+    <TwitterId />
+    <YoutubeUrl />
+    <WebSite>http://www.house.gov/ralphhall/</WebSite>
+    <Party>R</Party>
+    <State>TX</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>H000213</BioGuideId>
+    <FirstName>Jane</FirstName>
+    <LastName>Harman</LastName>
+    <OfficeAddress>2400 Rayburn House Office Building</OfficeAddress>
+    <GovTrackId>400166</GovTrackId>
+    <Phone>202-225-8220</Phone>
+    <TwitterId>RepJaneHarman</TwitterId>
+    <YoutubeUrl />
+    <WebSite>http://www.house.gov/harman/</WebSite>
+    <Party>D</Party>
+    <State>CA</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>H000324</BioGuideId>
+    <FirstName>Alcee</FirstName>
+    <LastName>Hastings</LastName>
+    <OfficeAddress>2353 Rayburn House Office Building</OfficeAddress>
+    <GovTrackId>400170</GovTrackId>
+    <Phone>202-225-1313</Phone>
+    <TwitterId />
+    <YoutubeUrl>http://www.youtube.com/RepAlceeHastings</YoutubeUrl>
+    <WebSite>http://alceehastings.house.gov/</WebSite>
+    <Party>D</Party>
+    <State>FL</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>H000329</BioGuideId>
+    <FirstName>Doc</FirstName>
+    <LastName>Hastings</LastName>
+    <OfficeAddress>1214 Longworth House Office Building</OfficeAddress>
+    <GovTrackId>400171</GovTrackId>
+    <Phone>202-225-5816</Phone>
+    <TwitterId />
+    <YoutubeUrl>http://www.youtube.com/RepDocHastings</YoutubeUrl>
+    <WebSite>http://www.hastings.house.gov/</WebSite>
+    <Party>R</Party>
+    <State>WA</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>H000528</BioGuideId>
+    <FirstName>Walter</FirstName>
+    <LastName>Herger</LastName>
+    <OfficeAddress>2268 Rayburn House Office Building</OfficeAddress>
+    <GovTrackId>400176</GovTrackId>
+    <Phone>202-225-3076</Phone>
+    <TwitterId />
+    <YoutubeUrl>http://www.youtube.com/RepWallyHerger</YoutubeUrl>
+    <WebSite>http://herger.house.gov/</WebSite>
+    <Party>R</Party>
+    <State>CA</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>H000627</BioGuideId>
+    <FirstName>Maurice</FirstName>
+    <LastName>Hinchey</LastName>
+    <OfficeAddress>2431 Rayburn House Office Building</OfficeAddress>
+    <GovTrackId>400178</GovTrackId>
+    <Phone>202-225-6335</Phone>
+    <TwitterId>mauricehinchey</TwitterId>
+    <YoutubeUrl />
+    <WebSite>http://www.house.gov/hinchey/</WebSite>
+    <Party>D</Party>
+    <State>NY</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>H000636</BioGuideId>
+    <FirstName>Ruben</FirstName>
+    <LastName>Hinojosa</LastName>
+    <OfficeAddress>2463 Rayburn House Office Building</OfficeAddress>
+    <GovTrackId>400179</GovTrackId>
+    <Phone>202-225-2531</Phone>
+    <TwitterId />
+    <YoutubeUrl />
+    <WebSite>http://hinojosa.house.gov/</WebSite>
+    <Party>D</Party>
+    <State>TX</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>H000676</BioGuideId>
+    <FirstName>Peter</FirstName>
+    <LastName>Hoekstra</LastName>
+    <OfficeAddress>2234 Rayburn House Office Building</OfficeAddress>
+    <GovTrackId>400182</GovTrackId>
+    <Phone>202-225-4401</Phone>
+    <TwitterId>petehoekstra</TwitterId>
+    <YoutubeUrl>http://www.youtube.com/HoekstraPress</YoutubeUrl>
+    <WebSite>http://hoekstra.house.gov/</WebSite>
+    <Party>R</Party>
+    <State>MI</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>H000712</BioGuideId>
+    <FirstName>Tim</FirstName>
+    <LastName>Holden</LastName>
+    <OfficeAddress>2417 Rayburn House Office Building</OfficeAddress>
+    <GovTrackId>400183</GovTrackId>
+    <Phone>202-225-5546</Phone>
+    <TwitterId />
+    <YoutubeUrl />
+    <WebSite>http://www.holden.house.gov/</WebSite>
+    <Party>D</Party>
+    <State>PA</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>H000874</BioGuideId>
+    <FirstName>Steny</FirstName>
+    <LastName>Hoyer</LastName>
+    <OfficeAddress>1705 Longworth House Office Building</OfficeAddress>
+    <GovTrackId>400189</GovTrackId>
+    <Phone>202-225-4131</Phone>
+    <TwitterId />
+    <YoutubeUrl>http://www.youtube.com/LeaderHoyer</YoutubeUrl>
+    <WebSite>http://www.hoyer.house.gov/</WebSite>
+    <Party>D</Party>
+    <State>MD</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>H001030</BioGuideId>
+    <FirstName>Baron</FirstName>
+    <LastName>Hill</LastName>
+    <OfficeAddress>223 Cannon House Office Building</OfficeAddress>
+    <GovTrackId>400177</GovTrackId>
+    <Phone>202-225-5315</Phone>
+    <TwitterId />
+    <YoutubeUrl>http://www.youtube.com/CongressmanBaronHill</YoutubeUrl>
+    <WebSite>http://baronhill.house.gov/</WebSite>
+    <Party>D</Party>
+    <State>IN</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>H001032</BioGuideId>
+    <FirstName>Rush</FirstName>
+    <LastName>Holt</LastName>
+    <OfficeAddress>1019 Longworth House Office Building</OfficeAddress>
+    <GovTrackId>400184</GovTrackId>
+    <Phone>202-225-5801</Phone>
+    <TwitterId />
+    <YoutubeUrl>http://www.youtube.com/RushHolt</YoutubeUrl>
+    <WebSite>http://www.holt.house.gov</WebSite>
+    <Party>D</Party>
+    <State>NJ</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>H001034</BioGuideId>
+    <FirstName>Michael</FirstName>
+    <LastName>Honda</LastName>
+    <OfficeAddress>1713 Longworth House Office Building</OfficeAddress>
+    <GovTrackId>400185</GovTrackId>
+    <Phone>202-225-2631</Phone>
+    <TwitterId>RepMikeHonda</TwitterId>
+    <YoutubeUrl>http://www.youtube.com/RepMikeHonda</YoutubeUrl>
+    <WebSite>http://honda.house.gov/</WebSite>
+    <Party>D</Party>
+    <State>CA</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>H001036</BioGuideId>
+    <FirstName>Jeb</FirstName>
+    <LastName>Hensarling</LastName>
+    <OfficeAddress>132 Cannon House Office Building</OfficeAddress>
+    <GovTrackId>400175</GovTrackId>
+    <Phone>202-225-3484</Phone>
+    <TwitterId />
+    <YoutubeUrl>http://www.youtube.com/RepJebHensarling</YoutubeUrl>
+    <WebSite>http://hensarling.house.gov/</WebSite>
+    <Party>R</Party>
+    <State>TX</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>H001037</BioGuideId>
+    <FirstName>Stephanie</FirstName>
+    <LastName>Herseth Sandlin</LastName>
+    <OfficeAddress>331 Cannon House Office Building</OfficeAddress>
+    <GovTrackId>400443</GovTrackId>
+    <Phone>202-225-2801</Phone>
+    <TwitterId />
+    <YoutubeUrl>http://www.youtube.com/hersethsandlin</YoutubeUrl>
+    <WebSite>http://hersethsandlin.house.gov/</WebSite>
+    <Party>D</Party>
+    <State>SD</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>H001038</BioGuideId>
+    <FirstName>Brian</FirstName>
+    <LastName>Higgins</LastName>
+    <OfficeAddress>431 Cannon House Office Building</OfficeAddress>
+    <GovTrackId>400641</GovTrackId>
+    <Phone>202-225-3306</Phone>
+    <TwitterId>RepBrianHiggins</TwitterId>
+    <YoutubeUrl>http://www.youtube.com/CongressmanHiggins</YoutubeUrl>
+    <WebSite>http://higgins.house.gov/</WebSite>
+    <Party>D</Party>
+    <State>NY</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>H001039</BioGuideId>
+    <FirstName>John</FirstName>
+    <LastName>Hall</LastName>
+    <OfficeAddress>1217 Longworth House Office Building</OfficeAddress>
+    <GovTrackId>412222</GovTrackId>
+    <Phone>202-225-5441</Phone>
+    <TwitterId />
+    <YoutubeUrl>http://www.youtube.com/RepJohnHall</YoutubeUrl>
+    <WebSite>http://johnhall.house.gov/</WebSite>
+    <Party>D</Party>
+    <State>NY</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>H001040</BioGuideId>
+    <FirstName>Phil</FirstName>
+    <LastName>Hare</LastName>
+    <OfficeAddress>1118 Longworth House Office Building</OfficeAddress>
+    <GovTrackId>412204</GovTrackId>
+    <Phone>202-225-5905</Phone>
+    <TwitterId />
+    <YoutubeUrl>http://www.youtube.com/philhareil17</YoutubeUrl>
+    <WebSite>http://hare.house.gov/index.html</WebSite>
+    <Party>D</Party>
+    <State>IL</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>H001041</BioGuideId>
+    <FirstName>Dean</FirstName>
+    <LastName>Heller</LastName>
+    <OfficeAddress>1023 Longworth House Office Building</OfficeAddress>
+    <GovTrackId>412218</GovTrackId>
+    <Phone>202-225-6155</Phone>
+    <TwitterId>DeanHeller</TwitterId>
+    <YoutubeUrl>http://www.youtube.com/CongressmanHeller</YoutubeUrl>
+    <WebSite />
+    <Party>R</Party>
+    <State>NV</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>H001042</BioGuideId>
+    <FirstName>Mazie</FirstName>
+    <LastName>Hirono</LastName>
+    <OfficeAddress>1229 Longworth House Office Building</OfficeAddress>
+    <GovTrackId>412200</GovTrackId>
+    <Phone>202 225-4906</Phone>
+    <TwitterId>maziehirono</TwitterId>
+    <YoutubeUrl>http://www.youtube.com/CongresswomanHirono</YoutubeUrl>
+    <WebSite>http://hirono.house.gov/</WebSite>
+    <Party>D</Party>
+    <State>HI</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>H001043</BioGuideId>
+    <FirstName>Paul</FirstName>
+    <LastName>Hodes</LastName>
+    <OfficeAddress>506 Cannon House Office Building</OfficeAddress>
+    <GovTrackId>412220</GovTrackId>
+    <Phone>202-225-5206</Phone>
+    <TwitterId>PaulHodes</TwitterId>
+    <YoutubeUrl />
+    <WebSite>http://hodes.house.gov/</WebSite>
+    <Party>D</Party>
+    <State>NH</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>H001044</BioGuideId>
+    <FirstName>Deborah</FirstName>
+    <LastName>Halvorson</LastName>
+    <OfficeAddress>1541 Longworth House Office Building</OfficeAddress>
+    <GovTrackId>412279</GovTrackId>
+    <Phone>202-225-3635</Phone>
+    <TwitterId />
+    <YoutubeUrl>http://www.youtube.com/repdebbiehalvorson</YoutubeUrl>
+    <WebSite>http://halvorson.house.gov/</WebSite>
+    <Party>D</Party>
+    <State>IL</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>H001045</BioGuideId>
+    <FirstName>Gregg</FirstName>
+    <LastName>Harper</LastName>
+    <OfficeAddress>307 Cannon House Office Building</OfficeAddress>
+    <GovTrackId>412280</GovTrackId>
+    <Phone>202-225-5031</Phone>
+    <TwitterId>GreggHarper</TwitterId>
+    <YoutubeUrl>http://www.youtube.com/congressmanharper</YoutubeUrl>
+    <WebSite>http://harper.house.gov/</WebSite>
+    <Party>R</Party>
+    <State>MS</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>H001046</BioGuideId>
+    <FirstName>Martin</FirstName>
+    <LastName>Heinrich</LastName>
+    <OfficeAddress>1505 Longworth House Office Building</OfficeAddress>
+    <GovTrackId>412281</GovTrackId>
+    <Phone>202-225-6316</Phone>
+    <TwitterId />
+    <YoutubeUrl>http://www.youtube.com/RepMartinHeinrich</YoutubeUrl>
+    <WebSite>http://heinrich.house.gov/index.html</WebSite>
+    <Party>D</Party>
+    <State>NM</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>H001047</BioGuideId>
+    <FirstName>Jim</FirstName>
+    <LastName>Himes</LastName>
+    <OfficeAddress>214 Cannon House Office Building</OfficeAddress>
+    <GovTrackId>412282</GovTrackId>
+    <Phone>202-225-5541</Phone>
+    <TwitterId>jahimes</TwitterId>
+    <YoutubeUrl>http://www.youtube.com/congressmanhimes</YoutubeUrl>
+    <WebSite>http://himes.house.gov/index.html</WebSite>
+    <Party>D</Party>
+    <State>CT</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>H001048</BioGuideId>
+    <FirstName>Duncan</FirstName>
+    <LastName>Hunter</LastName>
+    <OfficeAddress>1429 Longworth House Office Building</OfficeAddress>
+    <GovTrackId>412283</GovTrackId>
+    <Phone>202-225-5672</Phone>
+    <TwitterId />
+    <YoutubeUrl>http://www.youtube.com/CongressmanHunter</YoutubeUrl>
+    <WebSite>http://hunter.house.gov/</WebSite>
+    <Party>R</Party>
+    <State>CA</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>I000023</BioGuideId>
+    <FirstName>Robert</FirstName>
+    <LastName>Inglis</LastName>
+    <OfficeAddress>330 Cannon House Office Building</OfficeAddress>
+    <GovTrackId>400649</GovTrackId>
+    <Phone>202-225-6030</Phone>
+    <TwitterId>bobinglis</TwitterId>
+    <YoutubeUrl>http://www.youtube.com/CongressmanInglis</YoutubeUrl>
+    <WebSite>http://inglis.house.gov/default.asp</WebSite>
+    <Party>R</Party>
+    <State>SC</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>I000026</BioGuideId>
+    <FirstName>Jay</FirstName>
+    <LastName>Inslee</LastName>
+    <OfficeAddress>403 Cannon House Office Building</OfficeAddress>
+    <GovTrackId>400193</GovTrackId>
+    <Phone>202-225-6311</Phone>
+    <TwitterId>RepInsleeNews</TwitterId>
+    <YoutubeUrl>http://www.youtube.com/jayinslee</YoutubeUrl>
+    <WebSite>http://www.house.gov/inslee/</WebSite>
+    <Party>D</Party>
+    <State>WA</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>I000056</BioGuideId>
+    <FirstName>Darrell</FirstName>
+    <LastName>Issa</LastName>
+    <OfficeAddress>211 Cannon House Office Building</OfficeAddress>
+    <GovTrackId>400196</GovTrackId>
+    <Phone>202-225-3906</Phone>
+    <TwitterId>DarrellIssa</TwitterId>
+    <YoutubeUrl>http://www.youtube.com/RepDarrellIssa</YoutubeUrl>
+    <WebSite>http://www.issa.house.gov/</WebSite>
+    <Party>R</Party>
+    <State>CA</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>I000057</BioGuideId>
+    <FirstName>Steve</FirstName>
+    <LastName>Israel</LastName>
+    <OfficeAddress>432 Cannon House Office Building</OfficeAddress>
+    <GovTrackId>400195</GovTrackId>
+    <Phone>202-225-3335</Phone>
+    <TwitterId>RepSteveIsrael</TwitterId>
+    <YoutubeUrl>http://www.youtube.com/RepSteveIsrael</YoutubeUrl>
+    <WebSite>http://israel.house.gov/index.html</WebSite>
+    <Party>D</Party>
+    <State>NY</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>J000032</BioGuideId>
+    <FirstName>Sheila</FirstName>
+    <LastName>Jackson Lee</LastName>
+    <OfficeAddress>2435 Rayburn House Office Building</OfficeAddress>
+    <GovTrackId>400199</GovTrackId>
+    <Phone>202-225-3816</Phone>
+    <TwitterId>JacksonLeeTX18</TwitterId>
+    <YoutubeUrl />
+    <WebSite>http://www.jacksonlee.house.gov/</WebSite>
+    <Party>D</Party>
+    <State>TX</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>J000126</BioGuideId>
+    <FirstName>Eddie</FirstName>
+    <LastName>Johnson</LastName>
+    <OfficeAddress>1511 Longworth House Office Building</OfficeAddress>
+    <GovTrackId>400204</GovTrackId>
+    <Phone>202-225-8885</Phone>
+    <TwitterId />
+    <YoutubeUrl>http://www.youtube.com/RepSamJohnson</YoutubeUrl>
+    <WebSite>http://ebjohnson.house.gov/index.html</WebSite>
+    <Party>D</Party>
+    <State>TX</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>J000174</BioGuideId>
+    <FirstName>Samuel</FirstName>
+    <LastName>Johnson</LastName>
+    <OfficeAddress>1211 Longworth House Office Building</OfficeAddress>
+    <GovTrackId>400206</GovTrackId>
+    <Phone>202-225-4201</Phone>
+    <TwitterId />
+    <YoutubeUrl />
+    <WebSite>http://samjohnson.house.gov</WebSite>
+    <Party>R</Party>
+    <State>TX</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>J000255</BioGuideId>
+    <FirstName>Walter</FirstName>
+    <LastName>Jones</LastName>
+    <OfficeAddress>2333 Rayburn House Office Building</OfficeAddress>
+    <GovTrackId>400209</GovTrackId>
+    <Phone>202-225-3415</Phone>
+    <TwitterId>RepWalterJones</TwitterId>
+    <YoutubeUrl>http://www.youtube.com/RepWalterJones</YoutubeUrl>
+    <WebSite>http://jones.house.gov/</WebSite>
+    <Party>R</Party>
+    <State>NC</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>J000283</BioGuideId>
+    <FirstName>Jesse</FirstName>
+    <LastName>Jackson</LastName>
+    <OfficeAddress>2419 Rayburn House Office Building</OfficeAddress>
+    <GovTrackId>400198</GovTrackId>
+    <Phone>202-225-0773</Phone>
+    <TwitterId />
+    <YoutubeUrl>http://www.youtube.com/JesseJrTube</YoutubeUrl>
+    <WebSite>http://jackson.house.gov/</WebSite>
+    <Party>D</Party>
+    <State>IL</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>J000285</BioGuideId>
+    <FirstName>Timothy</FirstName>
+    <LastName>Johnson</LastName>
+    <OfficeAddress>1207 Longworth House Office Building</OfficeAddress>
+    <GovTrackId>400207</GovTrackId>
+    <Phone>202-225-2371</Phone>
+    <TwitterId />
+    <YoutubeUrl>http://www.youtube.com/RepTimVJohnson</YoutubeUrl>
+    <WebSite>http://timjohnson.house.gov/index.html</WebSite>
+    <Party>R</Party>
+    <State>IL</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>J000288</BioGuideId>
+    <FirstName>Henry</FirstName>
+    <LastName>Johnson</LastName>
+    <OfficeAddress>1133 Longworth House Office Building</OfficeAddress>
+    <GovTrackId>412199</GovTrackId>
+    <Phone>202-225-1605</Phone>
+    <TwitterId>RepHankJohnson</TwitterId>
+    <YoutubeUrl>http://www.youtube.com/RepHankJohnson</YoutubeUrl>
+    <WebSite>http://hankjohnson.house.gov/</WebSite>
+    <Party>D</Party>
+    <State>GA</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>J000289</BioGuideId>
+    <FirstName>James</FirstName>
+    <LastName>Jordan</LastName>
+    <OfficeAddress>515 Cannon House Office Building</OfficeAddress>
+    <GovTrackId>412226</GovTrackId>
+    <Phone>202-225-2676</Phone>
+    <TwitterId>Jim_Jordan</TwitterId>
+    <YoutubeUrl>http://www.youtube.com/RepJimJordan</YoutubeUrl>
+    <WebSite>http://jordan.house.gov</WebSite>
+    <Party>R</Party>
+    <State>OH</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>J000290</BioGuideId>
+    <FirstName>Lynn</FirstName>
+    <LastName>Jenkins</LastName>
+    <OfficeAddress>130 Cannon House Office Building</OfficeAddress>
+    <GovTrackId>412284</GovTrackId>
+    <Phone>202-225-6601</Phone>
+    <TwitterId>RepLynnJenkins</TwitterId>
+    <YoutubeUrl>http://www.youtube.com/RepLynnJenkins</YoutubeUrl>
+    <WebSite>http://lynnjenkins.house.gov/index.html</WebSite>
+    <Party>R</Party>
+    <State>KS</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>K000008</BioGuideId>
+    <FirstName>Paul</FirstName>
+    <LastName>Kanjorski</LastName>
+    <OfficeAddress>2188 Rayburn House Office Building</OfficeAddress>
+    <GovTrackId>400210</GovTrackId>
+    <Phone>202-225-6511</Phone>
+    <TwitterId />
+    <YoutubeUrl>http://www.youtube.com/CongressmanKanjorski</YoutubeUrl>
+    <WebSite>http://kanjorski.house.gov/</WebSite>
+    <Party>D</Party>
+    <State>PA</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>K000009</BioGuideId>
+    <FirstName>Marcy</FirstName>
+    <LastName>Kaptur</LastName>
+    <OfficeAddress>2186 Rayburn House Office Building</OfficeAddress>
+    <GovTrackId>400211</GovTrackId>
+    <Phone>202-225-4146</Phone>
+    <TwitterId />
+    <YoutubeUrl>http://www.youtube.com/RepKaptur</YoutubeUrl>
+    <WebSite>http://www.kaptur.house.gov/</WebSite>
+    <Party>D</Party>
+    <State>OH</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>K000113</BioGuideId>
+    <FirstName>Patrick</FirstName>
+    <LastName>Kennedy</LastName>
+    <OfficeAddress>407 Cannon House Office Building</OfficeAddress>
+    <GovTrackId>400215</GovTrackId>
+    <Phone>202-225-4911</Phone>
+    <TwitterId />
+    <YoutubeUrl>http://www.youtube.com/RepPatrickKennedy</YoutubeUrl>
+    <WebSite>http://patrickkennedy.house.gov/</WebSite>
+    <Party>D</Party>
+    <State>RI</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>K000172</BioGuideId>
+    <FirstName>Dale</FirstName>
+    <LastName>Kildee</LastName>
+    <OfficeAddress>2107 Rayburn House Office Building</OfficeAddress>
+    <GovTrackId>400216</GovTrackId>
+    <Phone>202-225-3611</Phone>
+    <TwitterId />
+    <YoutubeUrl />
+    <WebSite>http://www.house.gov/kildee/</WebSite>
+    <Party>D</Party>
+    <State>MI</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>K000180</BioGuideId>
+    <FirstName>Carolyn</FirstName>
+    <LastName>Kilpatrick</LastName>
+    <OfficeAddress>2264 Longworth House Office Building</OfficeAddress>
+    <GovTrackId>400217</GovTrackId>
+    <Phone>202-225-2261</Phone>
+    <TwitterId>RepKilpatrick</TwitterId>
+    <YoutubeUrl>http://www.youtube.com/repkilpatrick</YoutubeUrl>
+    <WebSite>http://kilpatrick.house.gov/</WebSite>
+    <Party>D</Party>
+    <State>MI</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>K000188</BioGuideId>
+    <FirstName>Ronald</FirstName>
+    <LastName>Kind</LastName>
+    <OfficeAddress>1406 Longworth House Office Building</OfficeAddress>
+    <GovTrackId>400218</GovTrackId>
+    <Phone>202-225-5506</Phone>
+    <TwitterId />
+    <YoutubeUrl>http://www.youtube.com/repronkind</YoutubeUrl>
+    <WebSite>http://www.kind.house.gov/index.html</WebSite>
+    <Party>D</Party>
+    <State>WI</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>K000210</BioGuideId>
+    <FirstName>Peter</FirstName>
+    <LastName>King</LastName>
+    <OfficeAddress>436 Cannon House Office Building</OfficeAddress>
+    <GovTrackId>400219</GovTrackId>
+    <Phone>202-225-7896</Phone>
+    <TwitterId>RepPeteKing</TwitterId>
+    <YoutubeUrl>http://www.youtube.com/RepPeterKing</YoutubeUrl>
+    <WebSite>http://peteking.house.gov/</WebSite>
+    <Party>R</Party>
+    <State>NY</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>K000220</BioGuideId>
+    <FirstName>Jack</FirstName>
+    <LastName>Kingston</LastName>
+    <OfficeAddress>2368 Rayburn House Office Building</OfficeAddress>
+    <GovTrackId>400221</GovTrackId>
+    <Phone>202-225-5831</Phone>
+    <TwitterId>JackKingston</TwitterId>
+    <YoutubeUrl>http://www.youtube.com/JackKingston</YoutubeUrl>
+    <WebSite>http://kingston.house.gov/</WebSite>
+    <Party>R</Party>
+    <State>GA</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>K000336</BioGuideId>
+    <FirstName>Dennis</FirstName>
+    <LastName>Kucinich</LastName>
+    <OfficeAddress>2445 Rayburn House Office Building</OfficeAddress>
+    <GovTrackId>400227</GovTrackId>
+    <Phone>202-225-5871</Phone>
+    <TwitterId>Dennis_Kucinich</TwitterId>
+    <YoutubeUrl>http://www.youtube.com/djkucinich</YoutubeUrl>
+    <WebSite>http://kucinich.house.gov/</WebSite>
+    <Party>D</Party>
+    <State>OH</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>K000360</BioGuideId>
+    <FirstName>Mark</FirstName>
+    <LastName>Kirk</LastName>
+    <OfficeAddress>1030 Longworth House Office Building</OfficeAddress>
+    <GovTrackId>400222</GovTrackId>
+    <Phone>202-225-4835</Phone>
+    <TwitterId>markkirk</TwitterId>
+    <YoutubeUrl>http://www.youtube.com/tenthdistrict</YoutubeUrl>
+    <WebSite>http://kirk.house.gov/</WebSite>
+    <Party>R</Party>
+    <State>IL</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>K000362</BioGuideId>
+    <FirstName>Steve</FirstName>
+    <LastName>King</LastName>
+    <OfficeAddress>1609 Longworth House Office Building</OfficeAddress>
+    <GovTrackId>400220</GovTrackId>
+    <Phone>202-225-4426</Phone>
+    <TwitterId>SteveKingPress</TwitterId>
+    <YoutubeUrl>http://www.youtube.com/RepSteveKing</YoutubeUrl>
+    <WebSite>http://steveking.house.gov/</WebSite>
+    <Party>R</Party>
+    <State>IA</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>K000363</BioGuideId>
+    <FirstName>John</FirstName>
+    <LastName>Kline</LastName>
+    <OfficeAddress>1429 Longworth House Office Building</OfficeAddress>
+    <GovTrackId>400224</GovTrackId>
+    <Phone>202-225-2271</Phone>
+    <TwitterId />
+    <YoutubeUrl>http://www.youtube.com/RepJohnKline</YoutubeUrl>
+    <WebSite>http://kline.house.gov/index.html</WebSite>
+    <Party>R</Party>
+    <State>MN</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>K000365</BioGuideId>
+    <FirstName>Steven</FirstName>
+    <LastName>Kagen</LastName>
+    <OfficeAddress>1232 Longworth House Office Building</OfficeAddress>
+    <GovTrackId>412240</GovTrackId>
+    <Phone>202-225-5665</Phone>
+    <TwitterId />
+    <YoutubeUrl>http://www.youtube.com/CongressmanKagen</YoutubeUrl>
+    <WebSite>http://kagen.house.gov/</WebSite>
+    <Party>D</Party>
+    <State>WI</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>K000366</BioGuideId>
+    <FirstName>Ron</FirstName>
+    <LastName>Klein</LastName>
+    <OfficeAddress>313 Cannon House Office Building</OfficeAddress>
+    <GovTrackId>412198</GovTrackId>
+    <Phone>202-225-3026</Phone>
+    <TwitterId />
+    <YoutubeUrl>http://www.youtube.com/RepRonKlein</YoutubeUrl>
+    <WebSite>http://klein.house.gov/index.html</WebSite>
+    <Party>D</Party>
+    <State>FL</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>K000368</BioGuideId>
+    <FirstName>Ann</FirstName>
+    <LastName>Kirkpatrick</LastName>
+    <OfficeAddress>1123 Longworth House Office Building</OfficeAddress>
+    <GovTrackId>412286</GovTrackId>
+    <Phone>202-225-2315</Phone>
+    <TwitterId />
+    <YoutubeUrl />
+    <WebSite>http://kirkpatrick.house.gov/</WebSite>
+    <Party>D</Party>
+    <State>AZ</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>K000369</BioGuideId>
+    <FirstName>Lawrence</FirstName>
+    <LastName>Kissell</LastName>
+    <OfficeAddress>512 Cannon House Office Building</OfficeAddress>
+    <GovTrackId>412287</GovTrackId>
+    <Phone>202-225-3715</Phone>
+    <TwitterId />
+    <YoutubeUrl />
+    <WebSite>http://kissell.house.gov/</WebSite>
+    <Party>D</Party>
+    <State>NC</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>K000370</BioGuideId>
+    <FirstName>Suzanne</FirstName>
+    <LastName>Kosmas</LastName>
+    <OfficeAddress>238 Cannon House Office Building</OfficeAddress>
+    <GovTrackId>412288</GovTrackId>
+    <Phone>202-225-2706</Phone>
+    <TwitterId />
+    <YoutubeUrl>http://www.youtube.com/CongresswomanKosmas</YoutubeUrl>
+    <WebSite>http://www.kosmas.house.gov/</WebSite>
+    <Party>D</Party>
+    <State>FL</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>K000371</BioGuideId>
+    <FirstName>Frank</FirstName>
+    <LastName>Kratovil</LastName>
+    <OfficeAddress>314 Cannon House Office Building</OfficeAddress>
+    <GovTrackId>412289</GovTrackId>
+    <Phone>202-225-5311</Phone>
+    <TwitterId />
+    <YoutubeUrl />
+    <WebSite>http://kratovil.house.gov/index.html</WebSite>
+    <Party>D</Party>
+    <State>MD</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>K000372</BioGuideId>
+    <FirstName>Mary Jo</FirstName>
+    <LastName>Kilroy</LastName>
+    <OfficeAddress>1237 Longworth House Office Building</OfficeAddress>
+    <GovTrackId>412285</GovTrackId>
+    <Phone>202-225-2015</Phone>
+    <TwitterId>RepMaryJoKilroy</TwitterId>
+    <YoutubeUrl>http://www.youtube.com/RepMaryJoKilroy</YoutubeUrl>
+    <WebSite>http://kilroy.house.gov/</WebSite>
+    <Party>D</Party>
+    <State>OH</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>L000111</BioGuideId>
+    <FirstName>Thomas</FirstName>
+    <LastName>Latham</LastName>
+    <OfficeAddress>2447 Rayburn House Office Building</OfficeAddress>
+    <GovTrackId>400234</GovTrackId>
+    <Phone>202-225-5476</Phone>
+    <TwitterId>TomLatham</TwitterId>
+    <YoutubeUrl>http://www.youtube.com/CongressmanTomLatham</YoutubeUrl>
+    <WebSite>http://www.tomlatham.house.gov</WebSite>
+    <Party>R</Party>
+    <State>IA</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>L000263</BioGuideId>
+    <FirstName>Sander</FirstName>
+    <LastName>Levin</LastName>
+    <OfficeAddress>1236 Longworth House Office Building</OfficeAddress>
+    <GovTrackId>400238</GovTrackId>
+    <Phone>202-225-4961</Phone>
+    <TwitterId>repsandylevin</TwitterId>
+    <YoutubeUrl>http://www.youtube.com/MI12yes</YoutubeUrl>
+    <WebSite>http://www.house.gov/levin/</WebSite>
+    <Party>D</Party>
+    <State>MI</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>L000274</BioGuideId>
+    <FirstName>Jerry</FirstName>
+    <LastName>Lewis</LastName>
+    <OfficeAddress>2112 Rayburn House Office Building</OfficeAddress>
+    <GovTrackId>400239</GovTrackId>
+    <Phone>202-225-5861</Phone>
+    <TwitterId />
+    <YoutubeUrl />
+    <WebSite>http://www.house.gov/jerrylewis/</WebSite>
+    <Party>R</Party>
+    <State>CA</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>L000287</BioGuideId>
+    <FirstName>John</FirstName>
+    <LastName>Lewis</LastName>
+    <OfficeAddress>343 Cannon House Office Building</OfficeAddress>
+    <GovTrackId>400240</GovTrackId>
+    <Phone>202-225-3801</Phone>
+    <TwitterId />
+    <YoutubeUrl>http://www.youtube.com/RepJohnLewis</YoutubeUrl>
+    <WebSite>http://johnlewis.house.gov/</WebSite>
+    <Party>D</Party>
+    <State>GA</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>L000321</BioGuideId>
+    <FirstName>John</FirstName>
+    <LastName>Linder</LastName>
+    <OfficeAddress>1026 Longworth House Office Building</OfficeAddress>
+    <GovTrackId>400242</GovTrackId>
+    <Phone>202-225-4272</Phone>
+    <TwitterId />
+    <YoutubeUrl>http://www.youtube.com/linderje</YoutubeUrl>
+    <WebSite>http://linder.house.gov/</WebSite>
+    <Party>R</Party>
+    <State>GA</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>L000397</BioGuideId>
+    <FirstName>Zoe</FirstName>
+    <LastName>Lofgren</LastName>
+    <OfficeAddress>102 Cannon House Office Building</OfficeAddress>
+    <GovTrackId>400245</GovTrackId>
+    <Phone>202-225-3072</Phone>
+    <TwitterId />
+    <YoutubeUrl />
+    <WebSite>http://www.lofgren.house.gov/</WebSite>
+    <Party>D</Party>
+    <State>CA</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>L000480</BioGuideId>
+    <FirstName>Nita</FirstName>
+    <LastName>Lowey</LastName>
+    <OfficeAddress>2329 Rayburn House Office Building</OfficeAddress>
+    <GovTrackId>400246</GovTrackId>
+    <Phone>202-225-6506</Phone>
+    <TwitterId />
+    <YoutubeUrl />
+    <WebSite>http://lowey.house.gov/index.html</WebSite>
+    <Party>D</Party>
+    <State>NY</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>L000491</BioGuideId>
+    <FirstName>Frank</FirstName>
+    <LastName>Lucas</LastName>
+    <OfficeAddress>2311 Rayburn House Office Building</OfficeAddress>
+    <GovTrackId>400247</GovTrackId>
+    <Phone>202-225-5565</Phone>
+    <TwitterId />
+    <YoutubeUrl />
+    <WebSite>http://www.house.gov/lucas/</WebSite>
+    <Party>R</Party>
+    <State>OK</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>L000517</BioGuideId>
+    <FirstName>Daniel</FirstName>
+    <LastName>Lungren</LastName>
+    <OfficeAddress>2448 Rayburn House Office Building</OfficeAddress>
+    <GovTrackId>400617</GovTrackId>
+    <Phone>202-225-5716</Phone>
+    <TwitterId />
+    <YoutubeUrl>http://www.youtube.com/RepLungrenCA03</YoutubeUrl>
+    <WebSite>http://lungren.house.gov/</WebSite>
+    <Party>R</Party>
+    <State>CA</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>L000551</BioGuideId>
+    <FirstName>Barbara</FirstName>
+    <LastName>Lee</LastName>
+    <OfficeAddress>2444 Rayburn House Office Building</OfficeAddress>
+    <GovTrackId>400237</GovTrackId>
+    <Phone>202-225-2661</Phone>
+    <TwitterId />
+    <YoutubeUrl>http://www.youtube.com/RepLee</YoutubeUrl>
+    <WebSite>http://lee.house.gov/index.html</WebSite>
+    <Party>D</Party>
+    <State>CA</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>L000553</BioGuideId>
+    <FirstName>Steven</FirstName>
+    <LastName>LaTourette</LastName>
+    <OfficeAddress>2371 Rayburn House Office Building</OfficeAddress>
+    <GovTrackId>400235</GovTrackId>
+    <Phone>202-225-5731</Phone>
+    <TwitterId />
+    <YoutubeUrl />
+    <WebSite>http://latourette.house.gov/</WebSite>
+    <Party>R</Party>
+    <State>OH</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>L000554</BioGuideId>
+    <FirstName>Frank</FirstName>
+    <LastName>LoBiondo</LastName>
+    <OfficeAddress>2427 Rayburn House Office Building</OfficeAddress>
+    <GovTrackId>400244</GovTrackId>
+    <Phone>202-225-6572</Phone>
+    <TwitterId />
+    <YoutubeUrl />
+    <WebSite>http://www.house.gov/lobiondo/</WebSite>
+    <Party>R</Party>
+    <State>NJ</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>L000557</BioGuideId>
+    <FirstName>John</FirstName>
+    <LastName>Larson</LastName>
+    <OfficeAddress>1005 Longworth House Office Building</OfficeAddress>
+    <GovTrackId>400233</GovTrackId>
+    <Phone>202-225-2265</Phone>
+    <TwitterId />
+    <YoutubeUrl>http://www.youtube.com/RepJohnLarson</YoutubeUrl>
+    <WebSite>http://www.house.gov/larson/index.htm</WebSite>
+    <Party>D</Party>
+    <State>CT</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>L000559</BioGuideId>
+    <FirstName>James</FirstName>
+    <LastName>Langevin</LastName>
+    <OfficeAddress>109 Cannon House Office Building</OfficeAddress>
+    <GovTrackId>400230</GovTrackId>
+    <Phone>202-225-2735</Phone>
+    <TwitterId>jimlangevin</TwitterId>
+    <YoutubeUrl>http://www.youtube.com/jimlangevin</YoutubeUrl>
+    <WebSite>http://langevin.house.gov/</WebSite>
+    <Party>D</Party>
+    <State>RI</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>L000560</BioGuideId>
+    <FirstName>Rick</FirstName>
+    <LastName>Larsen</LastName>
+    <OfficeAddress>107 Cannon House Office Building</OfficeAddress>
+    <GovTrackId>400232</GovTrackId>
+    <Phone>202-225-2605</Phone>
+    <TwitterId />
+    <YoutubeUrl />
+    <WebSite>http://www.house.gov/larsen/</WebSite>
+    <Party>D</Party>
+    <State>WA</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>L000562</BioGuideId>
+    <FirstName>Stephen</FirstName>
+    <LastName>Lynch</LastName>
+    <OfficeAddress>221 Cannon House Office Building</OfficeAddress>
+    <GovTrackId>400249</GovTrackId>
+    <Phone>202-225-8273</Phone>
+    <TwitterId />
+    <YoutubeUrl />
+    <WebSite>http://www.house.gov/lynch/</WebSite>
+    <Party>D</Party>
+    <State>MA</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>L000563</BioGuideId>
+    <FirstName>Daniel</FirstName>
+    <LastName>Lipinski</LastName>
+    <OfficeAddress>1717 Longworth House Office Building</OfficeAddress>
+    <GovTrackId>400630</GovTrackId>
+    <Phone>202-225-5701</Phone>
+    <TwitterId />
+    <YoutubeUrl />
+    <WebSite>http://www.lipinski.house.gov/</WebSite>
+    <Party>D</Party>
+    <State>IL</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>L000564</BioGuideId>
+    <FirstName>Douglas</FirstName>
+    <LastName>Lamborn</LastName>
+    <OfficeAddress>437 Cannon House Office Building</OfficeAddress>
+    <GovTrackId>412191</GovTrackId>
+    <Phone>202-225-4422</Phone>
+    <TwitterId />
+    <YoutubeUrl>http://www.youtube.com/CongressmanLamborn</YoutubeUrl>
+    <WebSite>http://lamborn.house.gov/index.html</WebSite>
+    <Party>R</Party>
+    <State>CO</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>L000565</BioGuideId>
+    <FirstName>Dave</FirstName>
+    <LastName>Loebsack</LastName>
+    <OfficeAddress>1513 Longworth House Office Building</OfficeAddress>
+    <GovTrackId>412209</GovTrackId>
+    <Phone>202-225-6576</Phone>
+    <TwitterId />
+    <YoutubeUrl />
+    <WebSite>http://loebsack.house.gov/</WebSite>
+    <Party>D</Party>
+    <State>IA</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>L000566</BioGuideId>
+    <FirstName>Robert</FirstName>
+    <LastName>Latta</LastName>
+    <OfficeAddress>1203 Longworth House Office Building</OfficeAddress>
+    <GovTrackId>412256</GovTrackId>
+    <Phone>202-225-6405</Phone>
+    <TwitterId>boblatta</TwitterId>
+    <YoutubeUrl>http://www.youtube.com/CongressmanBobLatta</YoutubeUrl>
+    <WebSite>http://latta.house.gov</WebSite>
+    <Party>R</Party>
+    <State>OH</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>L000567</BioGuideId>
+    <FirstName>Leonard</FirstName>
+    <LastName>Lance</LastName>
+    <OfficeAddress>114 Cannon House Office Building</OfficeAddress>
+    <GovTrackId>412290</GovTrackId>
+    <Phone>202-225-5361</Phone>
+    <TwitterId />
+    <YoutubeUrl>http://www.youtube.com/congressmanlance</YoutubeUrl>
+    <WebSite>http://lance.house.gov/index.html</WebSite>
+    <Party>R</Party>
+    <State>NJ</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>L000568</BioGuideId>
+    <FirstName>Christopher</FirstName>
+    <LastName>Lee</LastName>
+    <OfficeAddress>1711 Longworth House Office Building</OfficeAddress>
+    <GovTrackId>412291</GovTrackId>
+    <Phone>202-225-5265</Phone>
+    <TwitterId>chrislee_ny26</TwitterId>
+    <YoutubeUrl>http://www.youtube.com/congressmanlee</YoutubeUrl>
+    <WebSite>http://chrislee.house.gov/index.html</WebSite>
+    <Party>R</Party>
+    <State>NY</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>L000569</BioGuideId>
+    <FirstName>Blaine</FirstName>
+    <LastName>Luetkemeyer</LastName>
+    <OfficeAddress>1118 Longworth House Office Building</OfficeAddress>
+    <GovTrackId>412292</GovTrackId>
+    <Phone>202-225-2956</Phone>
+    <TwitterId />
+    <YoutubeUrl>http://www.youtube.com/BLuetkemeyer</YoutubeUrl>
+    <WebSite>http://luetkemeyer.house.gov/index.html</WebSite>
+    <Party>R</Party>
+    <State>MO</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>L000570</BioGuideId>
+    <FirstName>Ben</FirstName>
+    <LastName>Lujan</LastName>
+    <OfficeAddress>502 Cannon House Office Building</OfficeAddress>
+    <GovTrackId>412293</GovTrackId>
+    <Phone>202-225-6190</Phone>
+    <TwitterId>repbenraylujan</TwitterId>
+    <YoutubeUrl>http://www.youtube.com/Repbenraylujan</YoutubeUrl>
+    <WebSite>http://lujan.house.gov/</WebSite>
+    <Party>D</Party>
+    <State>NM</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>L000571</BioGuideId>
+    <FirstName>Cynthia</FirstName>
+    <LastName>Lummis</LastName>
+    <OfficeAddress>1004 Longworth House Office Building</OfficeAddress>
+    <GovTrackId>412294</GovTrackId>
+    <Phone>202-225-2311</Phone>
+    <TwitterId>CynthiaLummis</TwitterId>
+    <YoutubeUrl>http://www.youtube.com/CynthiaLummis</YoutubeUrl>
+    <WebSite>http://lummis.house.gov/index.html</WebSite>
+    <Party>R</Party>
+    <State>WY</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>M000087</BioGuideId>
+    <FirstName>Carolyn</FirstName>
+    <LastName>Maloney</LastName>
+    <OfficeAddress>2331 Rayburn House Office Building</OfficeAddress>
+    <GovTrackId>400251</GovTrackId>
+    <Phone>202-225-7944</Phone>
+    <TwitterId />
+    <YoutubeUrl />
+    <WebSite>http://maloney.house.gov/</WebSite>
+    <Party>D</Party>
+    <State>NY</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>M000133</BioGuideId>
+    <FirstName>Edward</FirstName>
+    <LastName>Markey</LastName>
+    <OfficeAddress>2108 Rayburn House Office Building</OfficeAddress>
+    <GovTrackId>400253</GovTrackId>
+    <Phone>202-225-2836</Phone>
+    <TwitterId />
+    <YoutubeUrl>http://www.youtube.com/RepMarkey</YoutubeUrl>
+    <WebSite>http://markey.house.gov/</WebSite>
+    <Party>D</Party>
+    <State>MA</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>M000309</BioGuideId>
+    <FirstName>Carolyn</FirstName>
+    <LastName>McCarthy</LastName>
+    <OfficeAddress>106 Cannon House Office Building</OfficeAddress>
+    <GovTrackId>400257</GovTrackId>
+    <Phone>202-225-5516</Phone>
+    <TwitterId />
+    <YoutubeUrl />
+    <WebSite>http://carolynmccarthy.house.gov/index.html</WebSite>
+    <Party>D</Party>
+    <State>NY</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>M000312</BioGuideId>
+    <FirstName>James</FirstName>
+    <LastName>McGovern</LastName>
+    <OfficeAddress>438 Cannon House Office Building</OfficeAddress>
+    <GovTrackId>400263</GovTrackId>
+    <Phone>202-225-6101</Phone>
+    <TwitterId />
+    <YoutubeUrl>http://www.youtube.com/RepJimMcGovern</YoutubeUrl>
+    <WebSite>http://mcgovern.house.gov/index.html</WebSite>
+    <Party>D</Party>
+    <State>MA</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>M000404</BioGuideId>
+    <FirstName>James</FirstName>
+    <LastName>McDermott</LastName>
+    <OfficeAddress>1035 Longworth House Office Building</OfficeAddress>
+    <GovTrackId>400262</GovTrackId>
+    <Phone>202-225-3106</Phone>
+    <TwitterId />
+    <YoutubeUrl />
+    <WebSite>http://www.house.gov/mcdermott/</WebSite>
+    <Party>D</Party>
+    <State>WA</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>M000485</BioGuideId>
+    <FirstName>Mike</FirstName>
+    <LastName>McIntyre</LastName>
+    <OfficeAddress>2437 Rayburn House Office Building</OfficeAddress>
+    <GovTrackId>400266</GovTrackId>
+    <Phone>202-225-2731</Phone>
+    <TwitterId />
+    <YoutubeUrl>http://www.youtube.com/RepMikeMcIntyre</YoutubeUrl>
+    <WebSite>http://www.house.gov/mcintyre/</WebSite>
+    <Party>D</Party>
+    <State>NC</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>M000508</BioGuideId>
+    <FirstName>Howard</FirstName>
+    <LastName>McKeon</LastName>
+    <OfficeAddress>2351 Rayburn House Office Building</OfficeAddress>
+    <GovTrackId>400267</GovTrackId>
+    <Phone>202-225-1956</Phone>
+    <TwitterId>BuckMcKeon</TwitterId>
+    <YoutubeUrl>http://www.youtube.com/BuckMcKeon</YoutubeUrl>
+    <WebSite>http://mckeon.house.gov/</WebSite>
+    <Party>R</Party>
+    <State>CA</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>M000689</BioGuideId>
+    <FirstName>John</FirstName>
+    <LastName>Mica</LastName>
+    <OfficeAddress>2313 Rayburn House Office Building</OfficeAddress>
+    <GovTrackId>400273</GovTrackId>
+    <Phone>202-225-4035</Phone>
+    <TwitterId />
+    <YoutubeUrl>http://www.youtube.com/repjohnmica</YoutubeUrl>
+    <WebSite>http://mica.house.gov/</WebSite>
+    <Party>R</Party>
+    <State>FL</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>M000725</BioGuideId>
+    <FirstName>George</FirstName>
+    <LastName>Miller</LastName>
+    <OfficeAddress>2205 Rayburn House Office Building</OfficeAddress>
+    <GovTrackId>400278</GovTrackId>
+    <Phone>202-225-2095</Phone>
+    <TwitterId>askgeorge</TwitterId>
+    <YoutubeUrl>http://www.youtube.com/RepGeorgeMiller</YoutubeUrl>
+    <WebSite>http://georgemiller.house.gov/</WebSite>
+    <Party>D</Party>
+    <State>CA</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>M000844</BioGuideId>
+    <FirstName>Alan</FirstName>
+    <LastName>Mollohan</LastName>
+    <OfficeAddress>2302 Rayburn House Office Building</OfficeAddress>
+    <GovTrackId>400281</GovTrackId>
+    <Phone>202-225-4172</Phone>
+    <TwitterId />
+    <YoutubeUrl />
+    <WebSite>http://www.mollohan.house.gov/</WebSite>
+    <Party>D</Party>
+    <State>WV</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>M000933</BioGuideId>
+    <FirstName>James</FirstName>
+    <LastName>Moran</LastName>
+    <OfficeAddress>2239 Rayburn House Office Building</OfficeAddress>
+    <GovTrackId>400283</GovTrackId>
+    <Phone>202-225-4376</Phone>
+    <TwitterId>Jim_Moran</TwitterId>
+    <YoutubeUrl />
+    <WebSite>http://www.moran.house.gov</WebSite>
+    <Party>D</Party>
+    <State>VA</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>M000934</BioGuideId>
+    <FirstName>Jerry</FirstName>
+    <LastName>Moran</LastName>
+    <OfficeAddress>2202 Rayburn House Office Building</OfficeAddress>
+    <GovTrackId>400284</GovTrackId>
+    <Phone>202-225-2715</Phone>
+    <TwitterId>JerryMoran</TwitterId>
+    <YoutubeUrl>http://www.youtube.com/CongressJerryMoran</YoutubeUrl>
+    <WebSite>http://www.jerrymoran.house.gov/</WebSite>
+    <Party>R</Party>
+    <State>KS</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>M001134</BioGuideId>
+    <FirstName>Sue</FirstName>
+    <LastName>Myrick</LastName>
+    <OfficeAddress>230 Cannon House Office Building</OfficeAddress>
+    <GovTrackId>400288</GovTrackId>
+    <Phone>202-225-1976</Phone>
+    <TwitterId>SueMyrick</TwitterId>
+    <YoutubeUrl>http://www.youtube.com/SueMyrickNC09</YoutubeUrl>
+    <WebSite>http://myrick.house.gov/index.shtml</WebSite>
+    <Party>R</Party>
+    <State>NC</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>M001137</BioGuideId>
+    <FirstName>Gregory</FirstName>
+    <LastName>Meeks</LastName>
+    <OfficeAddress>2342 Rayburn House Office Building</OfficeAddress>
+    <GovTrackId>400271</GovTrackId>
+    <Phone>202-225-3461</Phone>
+    <TwitterId>GregoryMeeks</TwitterId>
+    <YoutubeUrl />
+    <WebSite>http://www.house.gov/meeks/</WebSite>
+    <Party>D</Party>
+    <State>NY</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>M001138</BioGuideId>
+    <FirstName>Donald</FirstName>
+    <LastName>Manzullo</LastName>
+    <OfficeAddress>2228 Rayburn House Office Building</OfficeAddress>
+    <GovTrackId>400252</GovTrackId>
+    <Phone>202-225-5676</Phone>
+    <TwitterId>donmanzullo</TwitterId>
+    <YoutubeUrl>http://www.youtube.com/repmanzullo</YoutubeUrl>
+    <WebSite>http://manzullo.house.gov/</WebSite>
+    <Party>R</Party>
+    <State>IL</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>M001139</BioGuideId>
+    <FirstName>Gary</FirstName>
+    <LastName>Miller</LastName>
+    <OfficeAddress>2438 Rayburn House Office Building</OfficeAddress>
+    <GovTrackId>400277</GovTrackId>
+    <Phone>202-225-3201</Phone>
+    <TwitterId />
+    <YoutubeUrl>http://www.youtube.com/GaryGMiller</YoutubeUrl>
+    <WebSite>http://garymiller.house.gov/</WebSite>
+    <Party>R</Party>
+    <State>CA</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>M001140</BioGuideId>
+    <FirstName>Dennis</FirstName>
+    <LastName>Moore</LastName>
+    <OfficeAddress>1727 Longworth House Office Building</OfficeAddress>
+    <GovTrackId>400282</GovTrackId>
+    <Phone>202-225-2865</Phone>
+    <TwitterId />
+    <YoutubeUrl>http://www.youtube.com/RepDennisMoore</YoutubeUrl>
+    <WebSite>http://www.moore.house.gov/index.html</WebSite>
+    <Party>D</Party>
+    <State>KS</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>M001142</BioGuideId>
+    <FirstName>Jim</FirstName>
+    <LastName>Matheson</LastName>
+    <OfficeAddress>1323 Longworth House Office Building</OfficeAddress>
+    <GovTrackId>400255</GovTrackId>
+    <Phone>202-225-3011</Phone>
+    <TwitterId>RepJimMatheson</TwitterId>
+    <YoutubeUrl>http://www.youtube.com/RepJimMatheson</YoutubeUrl>
+    <WebSite>http://matheson.house.gov/</WebSite>
+    <Party>D</Party>
+    <State>UT</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>M001143</BioGuideId>
+    <FirstName>Betty</FirstName>
+    <LastName>McCollum</LastName>
+    <OfficeAddress>1714 Longworth House Office Building</OfficeAddress>
+    <GovTrackId>400259</GovTrackId>
+    <Phone>202-225-6631</Phone>
+    <TwitterId />
+    <YoutubeUrl>http://www.youtube.com/BMcCollum04</YoutubeUrl>
+    <WebSite>http://www.mccollum.house.gov/</WebSite>
+    <Party>D</Party>
+    <State>MN</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>M001144</BioGuideId>
+    <FirstName>Jeff</FirstName>
+    <LastName>Miller</LastName>
+    <OfficeAddress>1535 Longworth House Office Building</OfficeAddress>
+    <GovTrackId>400279</GovTrackId>
+    <Phone>202-225-4136</Phone>
+    <TwitterId>CongJeffMiller</TwitterId>
+    <YoutubeUrl>http://www.youtube.com/RepJeffMiller</YoutubeUrl>
+    <WebSite>http://jeffmiller.house.gov/</WebSite>
+    <Party>R</Party>
+    <State>FL</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>M001146</BioGuideId>
+    <FirstName>James</FirstName>
+    <LastName>Marshall</LastName>
+    <OfficeAddress>504 Cannon House Office Building</OfficeAddress>
+    <GovTrackId>400254</GovTrackId>
+    <Phone>202-225-6531</Phone>
+    <TwitterId />
+    <YoutubeUrl>http://www.youtube.com/RepJimMarshall</YoutubeUrl>
+    <WebSite>http://www.house.gov/marshall/</WebSite>
+    <Party>D</Party>
+    <State>GA</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>M001147</BioGuideId>
+    <FirstName>Thaddeus</FirstName>
+    <LastName>McCotter</LastName>
+    <OfficeAddress>1632 Longworth House Office Building</OfficeAddress>
+    <GovTrackId>400260</GovTrackId>
+    <Phone>202-225-8171</Phone>
+    <TwitterId>ThadMcCotter</TwitterId>
+    <YoutubeUrl>http://www.youtube.com/RepMcCotter</YoutubeUrl>
+    <WebSite>http://mccotter.house.gov/HoR/MI11/Home/</WebSite>
+    <Party>R</Party>
+    <State>MI</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>M001148</BioGuideId>
+    <FirstName>Kendrick</FirstName>
+    <LastName>Meek</LastName>
+    <OfficeAddress>1039 Longworth House Office Building</OfficeAddress>
+    <GovTrackId>400270</GovTrackId>
+    <Phone>202-225-4506</Phone>
+    <TwitterId>kendrickbmeek</TwitterId>
+    <YoutubeUrl>http://www.youtube.com/KendrickBMeek</YoutubeUrl>
+    <WebSite>http://kendrickmeek.house.gov/</WebSite>
+    <Party>D</Party>
+    <State>FL</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>M001149</BioGuideId>
+    <FirstName>Michael</FirstName>
+    <LastName>Michaud</LastName>
+    <OfficeAddress>1724 Longworth House Office Building</OfficeAddress>
+    <GovTrackId>400274</GovTrackId>
+    <Phone>202-225-6306</Phone>
+    <TwitterId>RepMikeMichaud</TwitterId>
+    <YoutubeUrl />
+    <WebSite>http://www.michaud.house.gov/</WebSite>
+    <Party>D</Party>
+    <State>ME</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>M001150</BioGuideId>
+    <FirstName>Candice</FirstName>
+    <LastName>Miller</LastName>
+    <OfficeAddress>228 Cannon House Office Building</OfficeAddress>
+    <GovTrackId>400276</GovTrackId>
+    <Phone>202-225-2106</Phone>
+    <TwitterId>CandiceMiller</TwitterId>
+    <YoutubeUrl>http://www.youtube.com/candicemi10</YoutubeUrl>
+    <WebSite>http://candicemiller.house.gov/</WebSite>
+    <Party>R</Party>
+    <State>MI</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>M001151</BioGuideId>
+    <FirstName>Tim</FirstName>
+    <LastName>Murphy</LastName>
+    <OfficeAddress>322 Cannon House Office Building</OfficeAddress>
+    <GovTrackId>400285</GovTrackId>
+    <Phone>202-225-2301</Phone>
+    <TwitterId />
+    <YoutubeUrl>http://www.youtube.com/TimMurphyPA18</YoutubeUrl>
+    <WebSite>http://murphy.house.gov/index.html</WebSite>
+    <Party>R</Party>
+    <State>PA</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>M001154</BioGuideId>
+    <FirstName>Ralph</FirstName>
+    <LastName>Miller</LastName>
+    <OfficeAddress>1722 Longworth House Office Building</OfficeAddress>
+    <GovTrackId>400280</GovTrackId>
+    <Phone>202-225-3032</Phone>
+    <TwitterId />
+    <YoutubeUrl>http://www.youtube.com/MillerNC13</YoutubeUrl>
+    <WebSite>http://bradmiller.house.gov/index.html</WebSite>
+    <Party>D</Party>
+    <State>NC</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>M001155</BioGuideId>
+    <FirstName>Connie</FirstName>
+    <LastName>Mack</LastName>
+    <OfficeAddress>115 Cannon House Office Building</OfficeAddress>
+    <GovTrackId>400622</GovTrackId>
+    <Phone>202-225-2536</Phone>
+    <TwitterId>RepConnieMack</TwitterId>
+    <YoutubeUrl>http://www.youtube.com/RepConnieMack</YoutubeUrl>
+    <WebSite>http://mack.house.gov/</WebSite>
+    <Party>R</Party>
+    <State>FL</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>M001156</BioGuideId>
+    <FirstName>Patrick</FirstName>
+    <LastName>McHenry</LastName>
+    <OfficeAddress>224 Cannon House Office Building</OfficeAddress>
+    <GovTrackId>400644</GovTrackId>
+    <Phone>202-225-2576</Phone>
+    <TwitterId>PatrickMcHenry</TwitterId>
+    <YoutubeUrl>http://www.youtube.com/CongressmanMcHenry</YoutubeUrl>
+    <WebSite>http://mchenry.house.gov/</WebSite>
+    <Party>R</Party>
+    <State>NC</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>M001157</BioGuideId>
+    <FirstName>Michael</FirstName>
+    <LastName>McCaul</LastName>
+    <OfficeAddress>131 Cannon House Office Building</OfficeAddress>
+    <GovTrackId>400654</GovTrackId>
+    <Phone>202-225-2401</Phone>
+    <TwitterId>McCaulPressShop</TwitterId>
+    <YoutubeUrl>http://www.youtube.com/MichaelTMcCaul</YoutubeUrl>
+    <WebSite>http://mccaul.house.gov/index.html</WebSite>
+    <Party>R</Party>
+    <State>TX</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>M001158</BioGuideId>
+    <FirstName>Kenny</FirstName>
+    <LastName>Marchant</LastName>
+    <OfficeAddress>1037 Longworth House Office Building</OfficeAddress>
+    <GovTrackId>400656</GovTrackId>
+    <Phone>202-225-6605</Phone>
+    <TwitterId>RepKenMarchant</TwitterId>
+    <YoutubeUrl />
+    <WebSite>http://marchant.house.gov/</WebSite>
+    <Party>R</Party>
+    <State>TX</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>M001159</BioGuideId>
+    <FirstName>Cathy</FirstName>
+    <LastName>McMorris-Rodgers</LastName>
+    <OfficeAddress>1708 Longworth House Office Building</OfficeAddress>
+    <GovTrackId>400659</GovTrackId>
+    <Phone>202-225-2006</Phone>
+    <TwitterId>cathymcmorris</TwitterId>
+    <YoutubeUrl>http://www.youtube.com/McMorrisRodgers</YoutubeUrl>
+    <WebSite>http://www.mcmorris.house.gov/index.html</WebSite>
+    <Party>R</Party>
+    <State>WA</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>M001160</BioGuideId>
+    <FirstName>Gwendolynne</FirstName>
+    <LastName>Moore</LastName>
+    <OfficeAddress>1408 Longworth House Office Building</OfficeAddress>
+    <GovTrackId>400661</GovTrackId>
+    <Phone>202-225-4572</Phone>
+    <TwitterId>RepGwenMoore</TwitterId>
+    <YoutubeUrl>http://www.youtube.com/RepGwenMoore</YoutubeUrl>
+    <WebSite>http://www.house.gov/gwenmoore/</WebSite>
+    <Party>D</Party>
+    <State>WI</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>M001161</BioGuideId>
+    <FirstName>Charles</FirstName>
+    <LastName>Melancon</LastName>
+    <OfficeAddress>404 Cannon House Office Building</OfficeAddress>
+    <GovTrackId>400635</GovTrackId>
+    <Phone>202-225-4031</Phone>
+    <TwitterId />
+    <YoutubeUrl>http://www.youtube.com/RepCharlieMelancon</YoutubeUrl>
+    <WebSite>http://www.melancon.house.gov/</WebSite>
+    <Party>D</Party>
+    <State>LA</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>M001163</BioGuideId>
+    <FirstName>Doris</FirstName>
+    <LastName>Matsui</LastName>
+    <OfficeAddress>222 Cannon House Office Building</OfficeAddress>
+    <GovTrackId>400663</GovTrackId>
+    <Phone>202-225-7163</Phone>
+    <TwitterId />
+    <YoutubeUrl />
+    <WebSite>http://www.matsui.house.gov/</WebSite>
+    <Party>D</Party>
+    <State>CA</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>M001165</BioGuideId>
+    <FirstName>Kevin</FirstName>
+    <LastName>McCarthy</LastName>
+    <OfficeAddress>1523 Longworth House Office Building</OfficeAddress>
+    <GovTrackId>412190</GovTrackId>
+    <Phone>202-225-2915</Phone>
+    <TwitterId>kevinomccarthy</TwitterId>
+    <YoutubeUrl>http://www.youtube.com/RepKevinMcCarthy</YoutubeUrl>
+    <WebSite>http://kevinmccarthy.house.gov/</WebSite>
+    <Party>R</Party>
+    <State>CA</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>M001166</BioGuideId>
+    <FirstName>Gerald</FirstName>
+    <LastName>McNerney</LastName>
+    <OfficeAddress>312 Cannon House Office Building</OfficeAddress>
+    <GovTrackId>412189</GovTrackId>
+    <Phone>202-225-1947</Phone>
+    <TwitterId />
+    <YoutubeUrl />
+    <WebSite>http://mcnerney.house.gov/</WebSite>
+    <Party>D</Party>
+    <State>CA</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>M001167</BioGuideId>
+    <FirstName>Harry</FirstName>
+    <LastName>Mitchell</LastName>
+    <OfficeAddress>2434 Rayburn House Office Building</OfficeAddress>
+    <GovTrackId>412187</GovTrackId>
+    <Phone>202-225-2190</Phone>
+    <TwitterId>HarryEMitchell</TwitterId>
+    <YoutubeUrl>http://www.youtube.com/RepHarryMitchell</YoutubeUrl>
+    <WebSite>http://mitchell.house.gov/</WebSite>
+    <Party>D</Party>
+    <State>AZ</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>M001168</BioGuideId>
+    <FirstName>Patrick</FirstName>
+    <LastName>Murphy</LastName>
+    <OfficeAddress>1007 Longworth House Office Building</OfficeAddress>
+    <GovTrackId>412233</GovTrackId>
+    <Phone>202-225-4276</Phone>
+    <TwitterId />
+    <YoutubeUrl />
+    <WebSite>http://www.patrickmurphy.house.gov/</WebSite>
+    <Party>D</Party>
+    <State>PA</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>M001169</BioGuideId>
+    <FirstName>Christopher</FirstName>
+    <LastName>Murphy</LastName>
+    <OfficeAddress>501 Cannon House Office Building</OfficeAddress>
+    <GovTrackId>412194</GovTrackId>
+    <Phone>202-225-4476</Phone>
+    <TwitterId />
+    <YoutubeUrl>http://www.youtube.com/RepChrisMurphy</YoutubeUrl>
+    <WebSite>http://www.chrismurphy.house.gov/</WebSite>
+    <Party>D</Party>
+    <State>CT</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>M001171</BioGuideId>
+    <FirstName>Daniel</FirstName>
+    <LastName>Maffei</LastName>
+    <OfficeAddress>1630 Longworth House Office Building</OfficeAddress>
+    <GovTrackId>412297</GovTrackId>
+    <Phone>202-225-3701</Phone>
+    <TwitterId />
+    <YoutubeUrl />
+    <WebSite>http://maffei.house.gov/</WebSite>
+    <Party>D</Party>
+    <State>NY</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>M001172</BioGuideId>
+    <FirstName>Betsy</FirstName>
+    <LastName>Markey</LastName>
+    <OfficeAddress>1229 Longworth House Office Building</OfficeAddress>
+    <GovTrackId>412298</GovTrackId>
+    <Phone>202-225-4676</Phone>
+    <TwitterId />
+    <YoutubeUrl>http://www.youtube.com/RepBetsyMarkey</YoutubeUrl>
+    <WebSite>http://betsymarkey.house.gov/</WebSite>
+    <Party>D</Party>
+    <State>CO</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>M001174</BioGuideId>
+    <FirstName>Michael</FirstName>
+    <LastName>McMahon</LastName>
+    <OfficeAddress>323 Cannon House Office Building</OfficeAddress>
+    <GovTrackId>412296</GovTrackId>
+    <Phone>202-225-3371</Phone>
+    <TwitterId>RepMikeMcMahon</TwitterId>
+    <YoutubeUrl>http://www.youtube.com/McMahonNY13</YoutubeUrl>
+    <WebSite>http://mcmahon.house.gov/</WebSite>
+    <Party>D</Party>
+    <State>NY</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>M001175</BioGuideId>
+    <FirstName>Walter</FirstName>
+    <LastName>Minnick</LastName>
+    <OfficeAddress>1517 Longworth House Office Building</OfficeAddress>
+    <GovTrackId>412300</GovTrackId>
+    <Phone>202-225-6611</Phone>
+    <TwitterId>WaltMinnick</TwitterId>
+    <YoutubeUrl>http://www.youtube.com/CongressmanMinnick</YoutubeUrl>
+    <WebSite>http://minnick.house.gov/</WebSite>
+    <Party>D</Party>
+    <State>ID</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>M001177</BioGuideId>
+    <FirstName>Tom</FirstName>
+    <LastName>McClintock</LastName>
+    <OfficeAddress>508 Cannon House Office Building</OfficeAddress>
+    <GovTrackId>412295</GovTrackId>
+    <Phone>202-225-2511</Phone>
+    <TwitterId>RepMcClintock</TwitterId>
+    <YoutubeUrl>http://www.youtube.com/McClintockCA04</YoutubeUrl>
+    <WebSite>http://mcclintock.house.gov/</WebSite>
+    <Party>R</Party>
+    <State>CA</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>M001178</BioGuideId>
+    <FirstName>Scott</FirstName>
+    <LastName>Murphy</LastName>
+    <OfficeAddress>120 Cannon House Office Building</OfficeAddress>
+    <GovTrackId>412332</GovTrackId>
+    <Phone>202-225-5614</Phone>
+    <TwitterId />
+    <YoutubeUrl />
+    <WebSite>http://scottmurphy.house.gov</WebSite>
+    <Party>D</Party>
+    <State>NY</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>N000002</BioGuideId>
+    <FirstName>Jerrold</FirstName>
+    <LastName>Nadler</LastName>
+    <OfficeAddress>2334 Rayburn House Office Building</OfficeAddress>
+    <GovTrackId>400289</GovTrackId>
+    <Phone>202-225-5635</Phone>
+    <TwitterId />
+    <YoutubeUrl>http://www.youtube.com/CongressmanNadler</YoutubeUrl>
+    <WebSite>http://www.house.gov/nadler/</WebSite>
+    <Party>D</Party>
+    <State>NY</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>N000015</BioGuideId>
+    <FirstName>Richard</FirstName>
+    <LastName>Neal</LastName>
+    <OfficeAddress>2208 Rayburn House Office Building</OfficeAddress>
+    <GovTrackId>400291</GovTrackId>
+    <Phone>202-225-5601</Phone>
+    <TwitterId />
+    <YoutubeUrl />
+    <WebSite>http://www.house.gov/neal/</WebSite>
+    <Party>D</Party>
+    <State>MA</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>N000179</BioGuideId>
+    <FirstName>Grace</FirstName>
+    <LastName>Napolitano</LastName>
+    <OfficeAddress>1610 Longworth House Office Building</OfficeAddress>
+    <GovTrackId>400290</GovTrackId>
+    <Phone>202-225-5256</Phone>
+    <TwitterId />
+    <YoutubeUrl />
+    <WebSite>http://www.napolitano.house.gov/</WebSite>
+    <Party>D</Party>
+    <State>CA</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>N000181</BioGuideId>
+    <FirstName>Devin</FirstName>
+    <LastName>Nunes</LastName>
+    <OfficeAddress>1013 Longworth House Office Building</OfficeAddress>
+    <GovTrackId>400297</GovTrackId>
+    <Phone>202-225-2523</Phone>
+    <TwitterId />
+    <YoutubeUrl>http://www.youtube.com/RepDevinNunes</YoutubeUrl>
+    <WebSite>http://nunes.house.gov/</WebSite>
+    <Party>R</Party>
+    <State>CA</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>N000182</BioGuideId>
+    <FirstName>Randy</FirstName>
+    <LastName>Neugebauer</LastName>
+    <OfficeAddress>429 Cannon House Office Building</OfficeAddress>
+    <GovTrackId>400441</GovTrackId>
+    <Phone>202-225-4005</Phone>
+    <TwitterId>RandyNeugebauer</TwitterId>
+    <YoutubeUrl>http://www.youtube.com/RandyNeugebauer</YoutubeUrl>
+    <WebSite>http://www.randy.house.gov/index.html</WebSite>
+    <Party>R</Party>
+    <State>TX</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>N000183</BioGuideId>
+    <FirstName>Glenn</FirstName>
+    <LastName>Nye</LastName>
+    <OfficeAddress>116 Cannon House Office Building</OfficeAddress>
+    <GovTrackId>412301</GovTrackId>
+    <Phone>202-225-4215</Phone>
+    <TwitterId>GlennNye</TwitterId>
+    <YoutubeUrl>http://www.youtube.com/GlennNye</YoutubeUrl>
+    <WebSite>http://nye.house.gov/index.html</WebSite>
+    <Party>D</Party>
+    <State>VA</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>O000006</BioGuideId>
+    <FirstName>James</FirstName>
+    <LastName>Oberstar</LastName>
+    <OfficeAddress>2365 Rayburn House Office Building</OfficeAddress>
+    <GovTrackId>400299</GovTrackId>
+    <Phone>202-225-6211</Phone>
+    <TwitterId>JimOberstar</TwitterId>
+    <YoutubeUrl>http://www.youtube.com/RepOberstar</YoutubeUrl>
+    <WebSite>http://www.oberstar.house.gov/</WebSite>
+    <Party>D</Party>
+    <State>MN</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>O000007</BioGuideId>
+    <FirstName>David Ross</FirstName>
+    <LastName>Obey</LastName>
+    <OfficeAddress>2314 Rayburn House Office Building</OfficeAddress>
+    <GovTrackId>400300</GovTrackId>
+    <Phone>202-225-3365</Phone>
+    <TwitterId />
+    <YoutubeUrl>http://www.youtube.com/CongressmanDaveObey</YoutubeUrl>
+    <WebSite>http://www.obey.house.gov/</WebSite>
+    <Party>D</Party>
+    <State>WI</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>O000085</BioGuideId>
+    <FirstName>John</FirstName>
+    <LastName>Olver</LastName>
+    <OfficeAddress>1111 Longworth House Office Building</OfficeAddress>
+    <GovTrackId>400301</GovTrackId>
+    <Phone>202-225-5335</Phone>
+    <TwitterId />
+    <YoutubeUrl />
+    <WebSite>http://olver.house.gov/</WebSite>
+    <Party>D</Party>
+    <State>MA</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>O000107</BioGuideId>
+    <FirstName>Solomon</FirstName>
+    <LastName>Ortiz</LastName>
+    <OfficeAddress>2110 Rayburn House Office Building</OfficeAddress>
+    <GovTrackId>400302</GovTrackId>
+    <Phone>202-225-7742</Phone>
+    <TwitterId />
+    <YoutubeUrl />
+    <WebSite>http://ortiz.house.gov/</WebSite>
+    <Party>D</Party>
+    <State>TX</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>O000168</BioGuideId>
+    <FirstName>Pete</FirstName>
+    <LastName>Olson</LastName>
+    <OfficeAddress>514 Cannon House Office Building</OfficeAddress>
+    <GovTrackId>412302</GovTrackId>
+    <Phone>202-225-5951</Phone>
+    <TwitterId>PeteOlson</TwitterId>
+    <YoutubeUrl>http://www.youtube.com/PeteOlsonTX22</YoutubeUrl>
+    <WebSite>http://olson.house.gov/index.html</WebSite>
+    <Party>R</Party>
+    <State>TX</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>O000169</BioGuideId>
+    <FirstName>Bill</FirstName>
+    <LastName>Owens</LastName>
+    <OfficeAddress>2366 Rayburn House Office Building</OfficeAddress>
+    <GovTrackId>412383</GovTrackId>
+    <Phone>202-225-4611</Phone>
+    <TwitterId />
+    <YoutubeUrl />
+    <WebSite>http://owens.house.gov/</WebSite>
+    <Party>D</Party>
+    <State>NY</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>P000034</BioGuideId>
+    <FirstName>Frank</FirstName>
+    <LastName>Pallone</LastName>
+    <OfficeAddress>237 Cannon House Office Building</OfficeAddress>
+    <GovTrackId>400308</GovTrackId>
+    <Phone>202-225-4671</Phone>
+    <TwitterId>FrankPallone</TwitterId>
+    <YoutubeUrl />
+    <WebSite>http://www.house.gov/pallone/</WebSite>
+    <Party>D</Party>
+    <State>NJ</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>P000096</BioGuideId>
+    <FirstName>William</FirstName>
+    <LastName>Pascrell</LastName>
+    <OfficeAddress>2464 Rayburn House Office Building</OfficeAddress>
+    <GovTrackId>400309</GovTrackId>
+    <Phone>202-225-5751</Phone>
+    <TwitterId />
+    <YoutubeUrl>http://www.youtube.com/RepPascrell</YoutubeUrl>
+    <WebSite>http://www.pascrell.house.gov/</WebSite>
+    <Party>D</Party>
+    <State>NJ</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>P000099</BioGuideId>
+    <FirstName>Ed</FirstName>
+    <LastName>Pastor</LastName>
+    <OfficeAddress>2465 Rayburn House Office Building</OfficeAddress>
+    <GovTrackId>400310</GovTrackId>
+    <Phone>202-225-4065</Phone>
+    <TwitterId />
+    <YoutubeUrl />
+    <WebSite>http://www.pastor.house.gov/</WebSite>
+    <Party>D</Party>
+    <State>AZ</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>P000149</BioGuideId>
+    <FirstName>Donald</FirstName>
+    <LastName>Payne</LastName>
+    <OfficeAddress>2209 Rayburn House Office Building</OfficeAddress>
+    <GovTrackId>400312</GovTrackId>
+    <Phone>202-225-3436</Phone>
+    <TwitterId />
+    <YoutubeUrl>http://www.youtube.com/CongressmanPayne</YoutubeUrl>
+    <WebSite>http://www.house.gov/payne/</WebSite>
+    <Party>D</Party>
+    <State>NJ</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>P000197</BioGuideId>
+    <FirstName>Nancy</FirstName>
+    <LastName>Pelosi</LastName>
+    <OfficeAddress>235 Cannon House Office Building</OfficeAddress>
+    <GovTrackId>400314</GovTrackId>
+    <Phone>202-225-4965</Phone>
+    <TwitterId>NancyPelosi</TwitterId>
+    <YoutubeUrl>http://www.youtube.com/nancypelosi</YoutubeUrl>
+    <WebSite>http://www.house.gov/pelosi/</WebSite>
+    <Party>D</Party>
+    <State>CA</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>P000258</BioGuideId>
+    <FirstName>Collin</FirstName>
+    <LastName>Peterson</LastName>
+    <OfficeAddress>2211 Rayburn House Office Building</OfficeAddress>
+    <GovTrackId>400316</GovTrackId>
+    <Phone>202-225-2165</Phone>
+    <TwitterId />
+    <YoutubeUrl />
+    <WebSite>http://collinpeterson.house.gov/</WebSite>
+    <Party>D</Party>
+    <State>MN</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>P000265</BioGuideId>
+    <FirstName>Thomas</FirstName>
+    <LastName>Petri</LastName>
+    <OfficeAddress>2462 Rayburn House Office Building</OfficeAddress>
+    <GovTrackId>400318</GovTrackId>
+    <Phone>202-225-2476</Phone>
+    <TwitterId />
+    <YoutubeUrl>http://www.youtube.com/TomPetri</YoutubeUrl>
+    <WebSite>http://petri.house.gov/</WebSite>
+    <Party>R</Party>
+    <State>WI</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>P000373</BioGuideId>
+    <FirstName>Joseph</FirstName>
+    <LastName>Pitts</LastName>
+    <OfficeAddress>420 Cannon House Office Building</OfficeAddress>
+    <GovTrackId>400320</GovTrackId>
+    <Phone>202-225-2411</Phone>
+    <TwitterId />
+    <YoutubeUrl>http://www.youtube.com/CongressmanJoePitts</YoutubeUrl>
+    <WebSite>http://www.house.gov/pitts/</WebSite>
+    <Party>R</Party>
+    <State>PA</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>P000422</BioGuideId>
+    <FirstName>Earl</FirstName>
+    <LastName>Pomeroy</LastName>
+    <OfficeAddress>1501 Longworth House Office Building</OfficeAddress>
+    <GovTrackId>400323</GovTrackId>
+    <Phone>202-225-2611</Phone>
+    <TwitterId />
+    <YoutubeUrl>http://www.youtube.com/earlpomeroy</YoutubeUrl>
+    <WebSite>http://www.pomeroy.house.gov/</WebSite>
+    <Party>D</Party>
+    <State>ND</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>P000523</BioGuideId>
+    <FirstName>David</FirstName>
+    <LastName>Price</LastName>
+    <OfficeAddress>2162 Rayburn House Office Building</OfficeAddress>
+    <GovTrackId>400326</GovTrackId>
+    <Phone>202-225-1784</Phone>
+    <TwitterId />
+    <YoutubeUrl>http://www.youtube.com/repdavidprice</YoutubeUrl>
+    <WebSite>http://price.house.gov/</WebSite>
+    <Party>D</Party>
+    <State>NC</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>P000583</BioGuideId>
+    <FirstName>Ronald</FirstName>
+    <LastName>Paul</LastName>
+    <OfficeAddress>203 Cannon House Office Building</OfficeAddress>
+    <GovTrackId>400311</GovTrackId>
+    <Phone>202-225-2831</Phone>
+    <TwitterId>RepRonPaul</TwitterId>
+    <YoutubeUrl>http://www.youtube.com/CongressmanRonPaul</YoutubeUrl>
+    <WebSite>http://www.house.gov/paul/</WebSite>
+    <Party>R</Party>
+    <State>TX</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>P000585</BioGuideId>
+    <FirstName>Todd</FirstName>
+    <LastName>Platts</LastName>
+    <OfficeAddress>1032 Longworth House Office Building</OfficeAddress>
+    <GovTrackId>400321</GovTrackId>
+    <Phone>202-225-5836</Phone>
+    <TwitterId />
+    <YoutubeUrl>http://www.youtube.com/RepToddPlatts</YoutubeUrl>
+    <WebSite>http://www.house.gov/platts/</WebSite>
+    <Party>R</Party>
+    <State>PA</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>P000586</BioGuideId>
+    <FirstName>Adam</FirstName>
+    <LastName>Putnam</LastName>
+    <OfficeAddress>1725 Longworth House Office Building</OfficeAddress>
+    <GovTrackId>400328</GovTrackId>
+    <Phone>202-225-1252</Phone>
+    <TwitterId />
+    <YoutubeUrl>http://www.youtube.com/FL12Putnam</YoutubeUrl>
+    <WebSite>http://www.house.gov/putnam/</WebSite>
+    <Party>R</Party>
+    <State>FL</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>P000587</BioGuideId>
+    <FirstName>Mike</FirstName>
+    <LastName>Pence</LastName>
+    <OfficeAddress>1317 Longworth House Office Building</OfficeAddress>
+    <GovTrackId>400315</GovTrackId>
+    <Phone>202-225-3021</Phone>
+    <TwitterId>RepMikePence</TwitterId>
+    <YoutubeUrl>http://www.youtube.com/CongressmanMikePence</YoutubeUrl>
+    <WebSite>http://mikepence.house.gov/</WebSite>
+    <Party>R</Party>
+    <State>IN</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>P000591</BioGuideId>
+    <FirstName>Thomas</FirstName>
+    <LastName>Price</LastName>
+    <OfficeAddress>424 Cannon House Office Building</OfficeAddress>
+    <GovTrackId>400626</GovTrackId>
+    <Phone>202-225-4501</Phone>
+    <TwitterId>RepTomPrice</TwitterId>
+    <YoutubeUrl>http://www.youtube.com/RepTomPrice</YoutubeUrl>
+    <WebSite>http://tom.house.gov/</WebSite>
+    <Party>R</Party>
+    <State>GA</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>P000592</BioGuideId>
+    <FirstName>Ted</FirstName>
+    <LastName>Poe</LastName>
+    <OfficeAddress>1605 Longworth House Office Building</OfficeAddress>
+    <GovTrackId>400652</GovTrackId>
+    <Phone>202-225-6565</Phone>
+    <TwitterId>JudgeTedPoe</TwitterId>
+    <YoutubeUrl />
+    <WebSite>http://poe.house.gov/</WebSite>
+    <Party>R</Party>
+    <State>TX</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>P000593</BioGuideId>
+    <FirstName>Ed</FirstName>
+    <LastName>Perlmutter</LastName>
+    <OfficeAddress>415 Cannon House Office Building</OfficeAddress>
+    <GovTrackId>412192</GovTrackId>
+    <Phone>202-225-2645</Phone>
+    <TwitterId>RepPerlmutter</TwitterId>
+    <YoutubeUrl>http://www.youtube.com/RepPerlmutter</YoutubeUrl>
+    <WebSite>http://perlmutter.house.gov/</WebSite>
+    <Party>D</Party>
+    <State>CO</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>P000594</BioGuideId>
+    <FirstName>Erik</FirstName>
+    <LastName>Paulsen</LastName>
+    <OfficeAddress>126 Cannon House Office Building</OfficeAddress>
+    <GovTrackId>412303</GovTrackId>
+    <Phone>202-225-2871</Phone>
+    <TwitterId>Erik_Paulsen</TwitterId>
+    <YoutubeUrl>http://www.youtube.com/reperikpaulsen</YoutubeUrl>
+    <WebSite>http://paulsen.house.gov/index.html</WebSite>
+    <Party>R</Party>
+    <State>MN</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>P000595</BioGuideId>
+    <FirstName>Gary</FirstName>
+    <LastName>Peters</LastName>
+    <OfficeAddress>1130 Longworth House Office Building</OfficeAddress>
+    <GovTrackId>412305</GovTrackId>
+    <Phone>202-225-5802</Phone>
+    <TwitterId />
+    <YoutubeUrl>http://www.youtube.com/repgarypeters</YoutubeUrl>
+    <WebSite>http://peters.house.gov/index.html</WebSite>
+    <Party>D</Party>
+    <State>MI</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>P000597</BioGuideId>
+    <FirstName>Chellie</FirstName>
+    <LastName>Pingree</LastName>
+    <OfficeAddress>1037 Longworth House Office Building</OfficeAddress>
+    <GovTrackId>412307</GovTrackId>
+    <Phone>202-225-6116</Phone>
+    <TwitterId>chelliepingree</TwitterId>
+    <YoutubeUrl>http://www.youtube.com/CongresswomanPingree</YoutubeUrl>
+    <WebSite>http://pingree.house.gov/</WebSite>
+    <Party>D</Party>
+    <State>ME</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>P000598</BioGuideId>
+    <FirstName>Jared</FirstName>
+    <LastName>Polis</LastName>
+    <OfficeAddress>501 Cannon House Office Building</OfficeAddress>
+    <GovTrackId>412308</GovTrackId>
+    <Phone>202-225-2161</Phone>
+    <TwitterId>jaredpolis</TwitterId>
+    <YoutubeUrl>http://www.youtube.com/JaredPolis31275</YoutubeUrl>
+    <WebSite>http://polis.house.gov/</WebSite>
+    <Party>D</Party>
+    <State>CO</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>P000599</BioGuideId>
+    <FirstName>Bill</FirstName>
+    <LastName>Posey</LastName>
+    <OfficeAddress>132 Cannon House Building</OfficeAddress>
+    <GovTrackId>412309</GovTrackId>
+    <Phone>202-225-3671</Phone>
+    <TwitterId>congbillposey</TwitterId>
+    <YoutubeUrl />
+    <WebSite>http://posey.house.gov/</WebSite>
+    <Party>R</Party>
+    <State>FL</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>P000600</BioGuideId>
+    <FirstName>Tom</FirstName>
+    <LastName>Perriello</LastName>
+    <OfficeAddress>1520 Longworth House Building</OfficeAddress>
+    <GovTrackId>412304</GovTrackId>
+    <Phone>202-225-4711</Phone>
+    <TwitterId>tomperriello</TwitterId>
+    <YoutubeUrl>http://www.youtube.com/TomPerriello</YoutubeUrl>
+    <WebSite>http://perriello.house.gov/index.html</WebSite>
+    <Party>D</Party>
+    <State>VA</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>Q000023</BioGuideId>
+    <FirstName>Mike</FirstName>
+    <LastName>Quigley</LastName>
+    <OfficeAddress>1319 Longworth House Office Building</OfficeAddress>
+    <GovTrackId>412331</GovTrackId>
+    <Phone>202-225-4061</Phone>
+    <TwitterId>RepMikeQuigley</TwitterId>
+    <YoutubeUrl>http://www.youtube.com/repmikequigley</YoutubeUrl>
+    <WebSite>http://quigley.house.gov/</WebSite>
+    <Party>D</Party>
+    <State>IL</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>R000004</BioGuideId>
+    <FirstName>George</FirstName>
+    <LastName>Radanovich</LastName>
+    <OfficeAddress>2367 Rayburn House Office Building</OfficeAddress>
+    <GovTrackId>400330</GovTrackId>
+    <Phone>202-225-4540</Phone>
+    <TwitterId>RepRadanovich</TwitterId>
+    <YoutubeUrl>http://www.youtube.com/RadanovichCA19</YoutubeUrl>
+    <WebSite>http://www.radanovich.house.gov/</WebSite>
+    <Party>R</Party>
+    <State>CA</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>R000011</BioGuideId>
+    <FirstName>Nick Joe</FirstName>
+    <LastName>Rahall</LastName>
+    <OfficeAddress>2307 Rayburn House Office Building</OfficeAddress>
+    <GovTrackId>400331</GovTrackId>
+    <Phone>202-225-3452</Phone>
+    <TwitterId />
+    <YoutubeUrl />
+    <WebSite>http://www.rahall.house.gov/index.html</WebSite>
+    <Party>D</Party>
+    <State>WV</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>R000053</BioGuideId>
+    <FirstName>Charles</FirstName>
+    <LastName>Rangel</LastName>
+    <OfficeAddress>2354 Rayburn House Office Building</OfficeAddress>
+    <GovTrackId>400333</GovTrackId>
+    <Phone>202-225-4365</Phone>
+    <TwitterId>cbrangel</TwitterId>
+    <YoutubeUrl>http://www.youtube.com/RepRangel</YoutubeUrl>
+    <WebSite>http://rangel.house.gov/</WebSite>
+    <Party>D</Party>
+    <State>NY</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>R000170</BioGuideId>
+    <FirstName>Silvestre</FirstName>
+    <LastName>Reyes</LastName>
+    <OfficeAddress>2433 Rayburn House Office Building</OfficeAddress>
+    <GovTrackId>400337</GovTrackId>
+    <Phone>202-225-4831</Phone>
+    <TwitterId />
+    <YoutubeUrl>http://www.youtube.com/RepReyes</YoutubeUrl>
+    <WebSite>http://reyes.house.gov/</WebSite>
+    <Party>D</Party>
+    <State>TX</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>R000395</BioGuideId>
+    <FirstName>Harold</FirstName>
+    <LastName>Rogers</LastName>
+    <OfficeAddress>2406 Rayburn House Office Building</OfficeAddress>
+    <GovTrackId>400340</GovTrackId>
+    <Phone>202-225-4601</Phone>
+    <TwitterId />
+    <YoutubeUrl>http://www.youtube.com/RepHalRogers</YoutubeUrl>
+    <WebSite>http://halrogers.house.gov/</WebSite>
+    <Party>R</Party>
+    <State>KY</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>R000409</BioGuideId>
+    <FirstName>Dana</FirstName>
+    <LastName>Rohrabacher</LastName>
+    <OfficeAddress>2300 Rayburn House Office Building</OfficeAddress>
+    <GovTrackId>400343</GovTrackId>
+    <Phone>202-225-2415</Phone>
+    <TwitterId>DanaRohrabacher</TwitterId>
+    <YoutubeUrl />
+    <WebSite>http://rohrabacher.house.gov/</WebSite>
+    <Party>R</Party>
+    <State>CA</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>R000435</BioGuideId>
+    <FirstName>Ileana</FirstName>
+    <LastName>Ros-Lehtinen</LastName>
+    <OfficeAddress>2160 Rayburn House Office Building</OfficeAddress>
+    <GovTrackId>400344</GovTrackId>
+    <Phone>202-225-3931</Phone>
+    <TwitterId>IRL</TwitterId>
+    <YoutubeUrl>http://www.youtube.com/IleanaRosLehtinen</YoutubeUrl>
+    <WebSite>http://ros-lehtinen.house.gov/</WebSite>
+    <Party>R</Party>
+    <State>FL</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>R000462</BioGuideId>
+    <FirstName>Steven</FirstName>
+    <LastName>Rothman</LastName>
+    <OfficeAddress>2303 Rayburn House Office Building</OfficeAddress>
+    <GovTrackId>400346</GovTrackId>
+    <Phone>202-225-5061</Phone>
+    <TwitterId />
+    <YoutubeUrl />
+    <WebSite>http://www.rothman.house.gov/</WebSite>
+    <Party>D</Party>
+    <State>NJ</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>R000486</BioGuideId>
+    <FirstName>Lucille</FirstName>
+    <LastName>Roybal-Allard</LastName>
+    <OfficeAddress>2330 Rayburn House Office Building</OfficeAddress>
+    <GovTrackId>400347</GovTrackId>
+    <Phone>202-225-1766</Phone>
+    <TwitterId />
+    <YoutubeUrl>http://www.youtube.com/RepRoybalAllard</YoutubeUrl>
+    <WebSite>http://roybal-allard.house.gov/</WebSite>
+    <Party>D</Party>
+    <State>CA</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>R000487</BioGuideId>
+    <FirstName>Edward</FirstName>
+    <LastName>Royce</LastName>
+    <OfficeAddress>2185 Rayburn House Office Building</OfficeAddress>
+    <GovTrackId>400348</GovTrackId>
+    <Phone>202-225-4111</Phone>
+    <TwitterId />
+    <YoutubeUrl>http://www.youtube.com/RepEdRoyce</YoutubeUrl>
+    <WebSite>http://www.royce.house.gov/</WebSite>
+    <Party>R</Party>
+    <State>CA</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>R000515</BioGuideId>
+    <FirstName>Bobby</FirstName>
+    <LastName>Rush</LastName>
+    <OfficeAddress>2416 Rayburn House Office Building</OfficeAddress>
+    <GovTrackId>400350</GovTrackId>
+    <Phone>202-225-4372</Phone>
+    <TwitterId />
+    <YoutubeUrl>http://www.youtube.com/CongressmanRush</YoutubeUrl>
+    <WebSite>http://www.house.gov/rush/</WebSite>
+    <Party>D</Party>
+    <State>IL</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>R000568</BioGuideId>
+    <FirstName>Ciro</FirstName>
+    <LastName>Rodriguez</LastName>
+    <OfficeAddress>2458 Rayburn House Office Building</OfficeAddress>
+    <GovTrackId>400339</GovTrackId>
+    <Phone>202-225-4511</Phone>
+    <TwitterId />
+    <YoutubeUrl />
+    <WebSite>http://www.rodriguez.house.gov/</WebSite>
+    <Party>D</Party>
+    <State>TX</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>R000570</BioGuideId>
+    <FirstName>Paul</FirstName>
+    <LastName>Ryan</LastName>
+    <OfficeAddress>1113 Longworth House Office Building</OfficeAddress>
+    <GovTrackId>400351</GovTrackId>
+    <Phone>202-225-3031</Phone>
+    <TwitterId>reppaulryan</TwitterId>
+    <YoutubeUrl>http://www.youtube.com/RepPaulRyan</YoutubeUrl>
+    <WebSite>http://www.house.gov/ryan/</WebSite>
+    <Party>R</Party>
+    <State>WI</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>R000571</BioGuideId>
+    <FirstName>Dennis</FirstName>
+    <LastName>Rehberg</LastName>
+    <OfficeAddress>516 Cannon House Office Building</OfficeAddress>
+    <GovTrackId>400335</GovTrackId>
+    <Phone>202-225-3211</Phone>
+    <TwitterId>DennyRehberg</TwitterId>
+    <YoutubeUrl>http://www.youtube.com/DennyRehberg</YoutubeUrl>
+    <WebSite>http://rehberg.house.gov/index.html</WebSite>
+    <Party>R</Party>
+    <State>MT</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>R000572</BioGuideId>
+    <FirstName>Mike</FirstName>
+    <LastName>Rogers</LastName>
+    <OfficeAddress>133 Cannon House Office Building</OfficeAddress>
+    <GovTrackId>400342</GovTrackId>
+    <Phone>202-225-4872</Phone>
+    <TwitterId />
+    <YoutubeUrl>http://www.youtube.com/RepMikeRogers</YoutubeUrl>
+    <WebSite>http://www.mikerogers.house.gov/</WebSite>
+    <Party>R</Party>
+    <State>MI</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>R000573</BioGuideId>
+    <FirstName>Mike</FirstName>
+    <LastName>Ross</LastName>
+    <OfficeAddress>314 Cannon House Office Building</OfficeAddress>
+    <GovTrackId>400345</GovTrackId>
+    <Phone>202-225-3772</Phone>
+    <TwitterId>RepMikeRoss</TwitterId>
+    <YoutubeUrl>http://www.youtube.com/MikeRossArkansas04</YoutubeUrl>
+    <WebSite>http://ross.house.gov/index.html</WebSite>
+    <Party>D</Party>
+    <State>AR</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>R000575</BioGuideId>
+    <FirstName>Michael</FirstName>
+    <LastName>Rogers</LastName>
+    <OfficeAddress>324 Cannon House Office Building</OfficeAddress>
+    <GovTrackId>400341</GovTrackId>
+    <Phone>202-225-3261</Phone>
+    <TwitterId>RepMikeRogersAL</TwitterId>
+    <YoutubeUrl>http://www.youtube.com/MikeRogersAL03</YoutubeUrl>
+    <WebSite>http://www.house.gov/mike-rogers/</WebSite>
+    <Party>R</Party>
+    <State>AL</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>R000576</BioGuideId>
+    <FirstName>C.A. Dutch</FirstName>
+    <LastName>Ruppersberger</LastName>
+    <OfficeAddress>1730 Longworth House Office Building</OfficeAddress>
+    <GovTrackId>400349</GovTrackId>
+    <Phone>202-225-3061</Phone>
+    <TwitterId />
+    <YoutubeUrl />
+    <WebSite>http://dutch.house.gov/</WebSite>
+    <Party>D</Party>
+    <State>MD</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>R000577</BioGuideId>
+    <FirstName>Timothy</FirstName>
+    <LastName>Ryan</LastName>
+    <OfficeAddress>1421 Longworth House Office Building</OfficeAddress>
+    <GovTrackId>400352</GovTrackId>
+    <Phone>202-225-5261</Phone>
+    <TwitterId>timryan</TwitterId>
+    <YoutubeUrl>http://www.youtube.com/TimRyanVision</YoutubeUrl>
+    <WebSite>http://timryan.house.gov/</WebSite>
+    <Party>D</Party>
+    <State>OH</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>R000578</BioGuideId>
+    <FirstName>David</FirstName>
+    <LastName>Reichert</LastName>
+    <OfficeAddress>1223 Longworth House Office Building</OfficeAddress>
+    <GovTrackId>400660</GovTrackId>
+    <Phone>202-225-7761</Phone>
+    <TwitterId>davereichert</TwitterId>
+    <YoutubeUrl>http://www.youtube.com/repdavereichert</YoutubeUrl>
+    <WebSite>http://reichert.house.gov/</WebSite>
+    <Party>R</Party>
+    <State>WA</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>R000580</BioGuideId>
+    <FirstName>Peter</FirstName>
+    <LastName>Roskam</LastName>
+    <OfficeAddress>507 Cannon House Office Building</OfficeAddress>
+    <GovTrackId>412202</GovTrackId>
+    <Phone>202-225-4561</Phone>
+    <TwitterId>PeterRoskam</TwitterId>
+    <YoutubeUrl>http://www.youtube.com/RoskamIL06</YoutubeUrl>
+    <WebSite>http://www.ilga.gov/Senate/Senator.asp?MemberID=1006</WebSite>
+    <Party>R</Party>
+    <State>IL</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>R000581</BioGuideId>
+    <FirstName>Laura</FirstName>
+    <LastName>Richardson</LastName>
+    <OfficeAddress>2233 Rayburn House Office Building</OfficeAddress>
+    <GovTrackId>412253</GovTrackId>
+    <Phone>202-225-7924</Phone>
+    <TwitterId />
+    <YoutubeUrl />
+    <WebSite>http://richardson.house.gov/</WebSite>
+    <Party>D</Party>
+    <State>CA</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>R000582</BioGuideId>
+    <FirstName>David</FirstName>
+    <LastName>Roe</LastName>
+    <OfficeAddress>419 Cannon House Building</OfficeAddress>
+    <GovTrackId>412310</GovTrackId>
+    <Phone>202-225-6356</Phone>
+    <TwitterId>DrPhilRoe</TwitterId>
+    <YoutubeUrl />
+    <WebSite>http://www.roe.house.gov/</WebSite>
+    <Party>R</Party>
+    <State>TN</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>R000583</BioGuideId>
+    <FirstName>Tom</FirstName>
+    <LastName>Rooney</LastName>
+    <OfficeAddress>1529 Longworth  House Office Building</OfficeAddress>
+    <GovTrackId>412311</GovTrackId>
+    <Phone>202-225-5792</Phone>
+    <TwitterId>TomRooney</TwitterId>
+    <YoutubeUrl>http://www.youtube.com/CongressmanRooney</YoutubeUrl>
+    <WebSite>http://rooney.house.gov/index.html</WebSite>
+    <Party>R</Party>
+    <State>FL</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>S000030</BioGuideId>
+    <FirstName>Loretta</FirstName>
+    <LastName>Sanchez</LastName>
+    <OfficeAddress>1230 Longworth House Office Building</OfficeAddress>
+    <GovTrackId>400356</GovTrackId>
+    <Phone>202-225-2965</Phone>
+    <TwitterId>lorettasanchez</TwitterId>
+    <YoutubeUrl />
+    <WebSite>http://www.lorettasanchez.house.gov</WebSite>
+    <Party>D</Party>
+    <State>CA</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>S000185</BioGuideId>
+    <FirstName>Robert</FirstName>
+    <LastName>Scott</LastName>
+    <OfficeAddress>1201 Longworth  House Office Building</OfficeAddress>
+    <GovTrackId>400364</GovTrackId>
+    <Phone>202-225-8351</Phone>
+    <TwitterId />
+    <YoutubeUrl>http://www.youtube.com/RepBobbyScott</YoutubeUrl>
+    <WebSite>http://www.bobbyscott.house.gov/</WebSite>
+    <Party>D</Party>
+    <State>VA</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>S000244</BioGuideId>
+    <FirstName>James</FirstName>
+    <LastName>Sensenbrenner</LastName>
+    <OfficeAddress>2449 Rayburn House Office Building</OfficeAddress>
+    <GovTrackId>400365</GovTrackId>
+    <Phone>202-225-5101</Phone>
+    <TwitterId />
+    <YoutubeUrl>http://www.youtube.com/RepSensenbrenner</YoutubeUrl>
+    <WebSite>http://sensenbrenner.house.gov/</WebSite>
+    <Party>R</Party>
+    <State>WI</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>S000248</BioGuideId>
+    <FirstName>Jose</FirstName>
+    <LastName>Serrano</LastName>
+    <OfficeAddress>2227 Rayburn House Office Building</OfficeAddress>
+    <GovTrackId>400366</GovTrackId>
+    <Phone>202-225-4361</Phone>
+    <TwitterId />
+    <YoutubeUrl>http://www.youtube.com/CongressmanSerrano</YoutubeUrl>
+    <WebSite>http://serrano.house.gov/</WebSite>
+    <Party>D</Party>
+    <State>NY</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>S000250</BioGuideId>
+    <FirstName>Peter</FirstName>
+    <LastName>Sessions</LastName>
+    <OfficeAddress>1514 Longworth House Office Building</OfficeAddress>
+    <GovTrackId>400367</GovTrackId>
+    <Phone>202-225-2231</Phone>
+    <TwitterId />
+    <YoutubeUrl>http://www.youtube.com/PeteSessions</YoutubeUrl>
+    <WebSite>http://sessions.house.gov/</WebSite>
+    <Party>R</Party>
+    <State>TX</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>S000275</BioGuideId>
+    <FirstName>John</FirstName>
+    <LastName>Shadegg</LastName>
+    <OfficeAddress>306 Cannon House Office Building</OfficeAddress>
+    <GovTrackId>400368</GovTrackId>
+    <Phone>202-225-3361</Phone>
+    <TwitterId>RepJohnShadegg</TwitterId>
+    <YoutubeUrl>http://www.youtube.com/JohnShadegg</YoutubeUrl>
+    <WebSite>http://johnshadegg.house.gov/</WebSite>
+    <Party>R</Party>
+    <State>AZ</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>S000344</BioGuideId>
+    <FirstName>Brad</FirstName>
+    <LastName>Sherman</LastName>
+    <OfficeAddress>2242 Rayburn House Office Building</OfficeAddress>
+    <GovTrackId>400371</GovTrackId>
+    <Phone>202-225-5911</Phone>
+    <TwitterId>BradSherman</TwitterId>
+    <YoutubeUrl>http://www.youtube.com/ShermanCA27</YoutubeUrl>
+    <WebSite>http://bradsherman.house.gov/</WebSite>
+    <Party>D</Party>
+    <State>CA</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>S000364</BioGuideId>
+    <FirstName>John</FirstName>
+    <LastName>Shimkus</LastName>
+    <OfficeAddress>2452 Rayburn House Office Building</OfficeAddress>
+    <GovTrackId>400373</GovTrackId>
+    <Phone>202-225-5271</Phone>
+    <TwitterId>RepShimkus</TwitterId>
+    <YoutubeUrl>http://www.youtube.com/repshimkus</YoutubeUrl>
+    <WebSite>http://shimkus.house.gov/index.html</WebSite>
+    <Party>R</Party>
+    <State>IL</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>S000465</BioGuideId>
+    <FirstName>Ike</FirstName>
+    <LastName>Skelton</LastName>
+    <OfficeAddress>2206 Rayburn House Office Building</OfficeAddress>
+    <GovTrackId>400377</GovTrackId>
+    <Phone>202-225-2876</Phone>
+    <TwitterId />
+    <YoutubeUrl />
+    <WebSite>http://www.house.gov/skelton/</WebSite>
+    <Party>D</Party>
+    <State>MO</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>S000480</BioGuideId>
+    <FirstName>Louise</FirstName>
+    <LastName>Slaughter</LastName>
+    <OfficeAddress>2469 Rayburn House Office Building</OfficeAddress>
+    <GovTrackId>400378</GovTrackId>
+    <Phone>202-225-3615</Phone>
+    <TwitterId>louiseslaughter</TwitterId>
+    <YoutubeUrl>http://www.youtube.com/louiseslaughter</YoutubeUrl>
+    <WebSite>http://www.louise.house.gov</WebSite>
+    <Party>D</Party>
+    <State>NY</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>S000510</BioGuideId>
+    <FirstName>Adam</FirstName>
+    <LastName>Smith</LastName>
+    <OfficeAddress>2402 Rayburn House Office Building</OfficeAddress>
+    <GovTrackId>400379</GovTrackId>
+    <Phone>202-225-8901</Phone>
+    <TwitterId>Rep_Adam_Smith</TwitterId>
+    <YoutubeUrl>http://www.youtube.com/Congressmanadamsmith</YoutubeUrl>
+    <WebSite>http://adamsmith.house.gov/</WebSite>
+    <Party>D</Party>
+    <State>WA</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>S000522</BioGuideId>
+    <FirstName>Christopher</FirstName>
+    <LastName>Smith</LastName>
+    <OfficeAddress>2373 Rayburn House Office Building</OfficeAddress>
+    <GovTrackId>400380</GovTrackId>
+    <Phone>202-225-3765</Phone>
+    <TwitterId />
+    <YoutubeUrl>http://www.youtube.com/USRepChrisSmith</YoutubeUrl>
+    <WebSite>http://chrissmith.house.gov/</WebSite>
+    <Party>R</Party>
+    <State>NJ</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>S000583</BioGuideId>
+    <FirstName>Lamar</FirstName>
+    <LastName>Smith</LastName>
+    <OfficeAddress>2409 Rayburn House Office Building</OfficeAddress>
+    <GovTrackId>400381</GovTrackId>
+    <Phone>202-225-4236</Phone>
+    <TwitterId>LamarSmithTX21</TwitterId>
+    <YoutubeUrl>http://www.youtube.com/lamarsmithtexas21</YoutubeUrl>
+    <WebSite>http://lamarsmith.house.gov/</WebSite>
+    <Party>R</Party>
+    <State>TX</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>S000672</BioGuideId>
+    <FirstName>Victor</FirstName>
+    <LastName>Snyder</LastName>
+    <OfficeAddress>1330 Longworth House Office Building</OfficeAddress>
+    <GovTrackId>400383</GovTrackId>
+    <Phone>202-225-2506</Phone>
+    <TwitterId />
+    <YoutubeUrl>http://www.youtube.com/VicSnyderAR02</YoutubeUrl>
+    <WebSite>http://www.house.gov/snyder/index.shtml</WebSite>
+    <Party>D</Party>
+    <State>AR</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>S000749</BioGuideId>
+    <FirstName>John</FirstName>
+    <LastName>Spratt</LastName>
+    <OfficeAddress>1401 Longworth House Office Building</OfficeAddress>
+    <GovTrackId>400386</GovTrackId>
+    <Phone>202-225-5501</Phone>
+    <TwitterId />
+    <YoutubeUrl>http://www.youtube.com/JohnMSpratt</YoutubeUrl>
+    <WebSite>http://spratt.house.gov/</WebSite>
+    <Party>D</Party>
+    <State>SC</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>S000810</BioGuideId>
+    <FirstName>Fortney</FirstName>
+    <LastName>Stark</LastName>
+    <OfficeAddress>239 Cannon House Office Building</OfficeAddress>
+    <GovTrackId>400387</GovTrackId>
+    <Phone>202-225-5065</Phone>
+    <TwitterId />
+    <YoutubeUrl>http://www.youtube.com/repstark</YoutubeUrl>
+    <WebSite>http://www.stark.house.gov/</WebSite>
+    <Party>D</Party>
+    <State>CA</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>S000822</BioGuideId>
+    <FirstName>Clifford</FirstName>
+    <LastName>Stearns</LastName>
+    <OfficeAddress>2370 Rayburn House Office Building</OfficeAddress>
+    <GovTrackId>400388</GovTrackId>
+    <Phone>202-225-5744</Phone>
+    <TwitterId>RepCliffStearns</TwitterId>
+    <YoutubeUrl>http://www.youtube.com/Repcliffstearns</YoutubeUrl>
+    <WebSite>http://www.house.gov/stearns/</WebSite>
+    <Party>R</Party>
+    <State>FL</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>S001045</BioGuideId>
+    <FirstName>Bart</FirstName>
+    <LastName>Stupak</LastName>
+    <OfficeAddress>2352 Rayburn House Office Building</OfficeAddress>
+    <GovTrackId>400391</GovTrackId>
+    <Phone>202-225-4735</Phone>
+    <TwitterId />
+    <YoutubeUrl>http://www.youtube.com/BartStupak</YoutubeUrl>
+    <WebSite>http://www.house.gov/stupak/</WebSite>
+    <Party>D</Party>
+    <State>MI</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>S001143</BioGuideId>
+    <FirstName>Mark</FirstName>
+    <LastName>Souder</LastName>
+    <OfficeAddress>2231 Rayburn House Office Building</OfficeAddress>
+    <GovTrackId>400385</GovTrackId>
+    <Phone>202-225-4436</Phone>
+    <TwitterId />
+    <YoutubeUrl>http://www.youtube.com/repmarksouder</YoutubeUrl>
+    <WebSite>http://souder.house.gov/</WebSite>
+    <Party>R</Party>
+    <State>IN</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>S001145</BioGuideId>
+    <FirstName>Janice</FirstName>
+    <LastName>Schakowsky</LastName>
+    <OfficeAddress>1027 Longworth House Office Building</OfficeAddress>
+    <GovTrackId>400360</GovTrackId>
+    <Phone>202-225-2111</Phone>
+    <TwitterId>janschakowsky</TwitterId>
+    <YoutubeUrl>http://www.youtube.com/JanSchakowsky</YoutubeUrl>
+    <WebSite>http://www.house.gov/schakowsky/</WebSite>
+    <Party>D</Party>
+    <State>IL</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>S001148</BioGuideId>
+    <FirstName>Michael</FirstName>
+    <LastName>Simpson</LastName>
+    <OfficeAddress>1339 Longworth House Office Building</OfficeAddress>
+    <GovTrackId>400376</GovTrackId>
+    <Phone>202-225-5531</Phone>
+    <TwitterId />
+    <YoutubeUrl>http://www.youtube.com/CongMikeSimpson</YoutubeUrl>
+    <WebSite>http://simpson.house.gov/</WebSite>
+    <Party>R</Party>
+    <State>ID</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>S001150</BioGuideId>
+    <FirstName>Adam</FirstName>
+    <LastName>Schiff</LastName>
+    <OfficeAddress>326 Cannon House Office Building</OfficeAddress>
+    <GovTrackId>400361</GovTrackId>
+    <Phone>202-225-4176</Phone>
+    <TwitterId />
+    <YoutubeUrl />
+    <WebSite>http://schiff.house.gov/HoR/CA29/</WebSite>
+    <Party>D</Party>
+    <State>CA</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>S001154</BioGuideId>
+    <FirstName>Bill</FirstName>
+    <LastName>Shuster</LastName>
+    <OfficeAddress>204 Cannon House Office Building</OfficeAddress>
+    <GovTrackId>409888</GovTrackId>
+    <Phone>202-225-2431</Phone>
+    <TwitterId>RepBillShuster</TwitterId>
+    <YoutubeUrl>http://www.youtube.com/RepShuster</YoutubeUrl>
+    <WebSite>http://www.house.gov/shuster/</WebSite>
+    <Party>R</Party>
+    <State>PA</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>S001155</BioGuideId>
+    <FirstName>John</FirstName>
+    <LastName>Sullivan</LastName>
+    <OfficeAddress>114 Cannon House Office Building</OfficeAddress>
+    <GovTrackId>400392</GovTrackId>
+    <Phone>202-225-2211</Phone>
+    <TwitterId>USRepSullivan</TwitterId>
+    <YoutubeUrl>http://www.youtube.com/SullivanOK01</YoutubeUrl>
+    <WebSite>http://sullivan.house.gov</WebSite>
+    <Party>R</Party>
+    <State>OK</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>S001156</BioGuideId>
+    <FirstName>Linda</FirstName>
+    <LastName>Sanchez</LastName>
+    <OfficeAddress>1222 Longworth House Office Building</OfficeAddress>
+    <GovTrackId>400355</GovTrackId>
+    <Phone>202-225-6676</Phone>
+    <TwitterId />
+    <YoutubeUrl>http://www.youtube.com/LindaTSanchez</YoutubeUrl>
+    <WebSite>http://www.lindasanchez.house.gov/</WebSite>
+    <Party>D</Party>
+    <State>CA</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>S001157</BioGuideId>
+    <FirstName>David</FirstName>
+    <LastName>Scott</LastName>
+    <OfficeAddress>417 Cannon House Office Building</OfficeAddress>
+    <GovTrackId>400363</GovTrackId>
+    <Phone>202-225-2939</Phone>
+    <TwitterId />
+    <YoutubeUrl />
+    <WebSite>http://davidscott.house.gov/</WebSite>
+    <Party>D</Party>
+    <State>GA</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>S001158</BioGuideId>
+    <FirstName>John</FirstName>
+    <LastName>Salazar</LastName>
+    <OfficeAddress>1531 Longworth House Office Building</OfficeAddress>
+    <GovTrackId>400620</GovTrackId>
+    <Phone>202-225-4761</Phone>
+    <TwitterId />
+    <YoutubeUrl />
+    <WebSite>http://www.house.gov/salazar/</WebSite>
+    <Party>D</Party>
+    <State>CO</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>S001162</BioGuideId>
+    <FirstName>Allyson</FirstName>
+    <LastName>Schwartz</LastName>
+    <OfficeAddress>423 Cannon House Office Building</OfficeAddress>
+    <GovTrackId>400647</GovTrackId>
+    <Phone>202-225-6111</Phone>
+    <TwitterId />
+    <YoutubeUrl>http://www.youtube.com/RepAllysonSchwartz</YoutubeUrl>
+    <WebSite>http://schwartz.house.gov/</WebSite>
+    <Party>D</Party>
+    <State>PA</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>S001164</BioGuideId>
+    <FirstName>Jean</FirstName>
+    <LastName>Schmidt</LastName>
+    <OfficeAddress>238 Cannon House Office Building</OfficeAddress>
+    <GovTrackId>412010</GovTrackId>
+    <Phone>202-225-3164</Phone>
+    <TwitterId />
+    <YoutubeUrl />
+    <WebSite>http://www.house.gov/schmidt/</WebSite>
+    <Party>R</Party>
+    <State>OH</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>S001165</BioGuideId>
+    <FirstName>Albio</FirstName>
+    <LastName>Sires</LastName>
+    <OfficeAddress>1024 Longworth House Office Building</OfficeAddress>
+    <GovTrackId>412186</GovTrackId>
+    <Phone>202-225-7919</Phone>
+    <TwitterId>Rep_Albio_Sires</TwitterId>
+    <YoutubeUrl>http://www.youtube.com/RepSiresNJ13</YoutubeUrl>
+    <WebSite>http://www.sires.house.gov/</WebSite>
+    <Party>D</Party>
+    <State>NJ</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>S001168</BioGuideId>
+    <FirstName>John</FirstName>
+    <LastName>Sarbanes</LastName>
+    <OfficeAddress>426 Cannon House Office Building</OfficeAddress>
+    <GovTrackId>412212</GovTrackId>
+    <Phone>202-225-4016</Phone>
+    <TwitterId />
+    <YoutubeUrl />
+    <WebSite>http://sarbanes.house.gov/</WebSite>
+    <Party>D</Party>
+    <State>MD</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>S001169</BioGuideId>
+    <FirstName>Joseph</FirstName>
+    <LastName>Sestak</LastName>
+    <OfficeAddress>1022 Longworth House Office Building</OfficeAddress>
+    <GovTrackId>412232</GovTrackId>
+    <Phone>202-225-2011</Phone>
+    <TwitterId>JoeSestak</TwitterId>
+    <YoutubeUrl>http://www.youtube.com/Sestak07</YoutubeUrl>
+    <WebSite>http://sestak.house.gov/</WebSite>
+    <Party>D</Party>
+    <State>PA</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>S001170</BioGuideId>
+    <FirstName>Carol</FirstName>
+    <LastName>Shea-Porter</LastName>
+    <OfficeAddress>1508 Longworth House Office Building</OfficeAddress>
+    <GovTrackId>412219</GovTrackId>
+    <Phone>202-225-5456</Phone>
+    <TwitterId />
+    <YoutubeUrl>http://www.youtube.com/RepCarolSheaPorter</YoutubeUrl>
+    <WebSite>http://www.shea-porter.house.gov/</WebSite>
+    <Party>D</Party>
+    <State>NH</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>S001171</BioGuideId>
+    <FirstName>Heath</FirstName>
+    <LastName>Shuler</LastName>
+    <OfficeAddress>512 Cannon House Office Building</OfficeAddress>
+    <GovTrackId>412225</GovTrackId>
+    <Phone>202-225-6401</Phone>
+    <TwitterId />
+    <YoutubeUrl />
+    <WebSite>http://shuler.house.gov/</WebSite>
+    <Party>D</Party>
+    <State>NC</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>S001172</BioGuideId>
+    <FirstName>Adrian</FirstName>
+    <LastName>Smith</LastName>
+    <OfficeAddress>503 Cannon House Office Building</OfficeAddress>
+    <GovTrackId>412217</GovTrackId>
+    <Phone>202-225-6435</Phone>
+    <TwitterId />
+    <YoutubeUrl>http://www.youtube.com/RepAdrianSmith</YoutubeUrl>
+    <WebSite>http://adriansmith.house.gov/</WebSite>
+    <Party>R</Party>
+    <State>NE</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>S001173</BioGuideId>
+    <FirstName>Zachary</FirstName>
+    <LastName>Space</LastName>
+    <OfficeAddress>315 Cannon House Office Building</OfficeAddress>
+    <GovTrackId>412229</GovTrackId>
+    <Phone>202-225-6265</Phone>
+    <TwitterId />
+    <YoutubeUrl />
+    <WebSite>http://space.house.gov/index.html</WebSite>
+    <Party>D</Party>
+    <State>OH</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>S001174</BioGuideId>
+    <FirstName>Betty</FirstName>
+    <LastName>Sutton</LastName>
+    <OfficeAddress>1721 Longworth House Office Building</OfficeAddress>
+    <GovTrackId>412228</GovTrackId>
+    <Phone>202-225-3401</Phone>
+    <TwitterId />
+    <YoutubeUrl>http://www.youtube.com/RepBettySutton</YoutubeUrl>
+    <WebSite>http://sutton.house.gov/main/</WebSite>
+    <Party>D</Party>
+    <State>OH</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>S001175</BioGuideId>
+    <FirstName>K. Jacqueline</FirstName>
+    <LastName>Speier</LastName>
+    <OfficeAddress>2413 Rayburn House Office Building</OfficeAddress>
+    <GovTrackId>412259</GovTrackId>
+    <Phone>202-225-3531</Phone>
+    <TwitterId />
+    <YoutubeUrl>http://www.youtube.com/JackieSpeierCA12</YoutubeUrl>
+    <WebSite>http://speier.house.gov/index.shtml</WebSite>
+    <Party>D</Party>
+    <State>CA</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>S001176</BioGuideId>
+    <FirstName>Stephen</FirstName>
+    <LastName>Scalise</LastName>
+    <OfficeAddress>1205 Longworth House Office Building</OfficeAddress>
+    <GovTrackId>412261</GovTrackId>
+    <Phone>202-225-3015</Phone>
+    <TwitterId />
+    <YoutubeUrl />
+    <WebSite>http://www.scalise.house.gov/</WebSite>
+    <Party>R</Party>
+    <State>LA</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>S001178</BioGuideId>
+    <FirstName>Mark</FirstName>
+    <LastName>Schauer</LastName>
+    <OfficeAddress>1408 Longworth House Office Building</OfficeAddress>
+    <GovTrackId>412313</GovTrackId>
+    <Phone>202-225-6276</Phone>
+    <TwitterId />
+    <YoutubeUrl>http://www.youtube.com/RepMarkSchauer</YoutubeUrl>
+    <WebSite>http://schauer.house.gov/</WebSite>
+    <Party>D</Party>
+    <State>MI</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>S001179</BioGuideId>
+    <FirstName>Aaron</FirstName>
+    <LastName>Schock</LastName>
+    <OfficeAddress>509 Cannon House Office Building</OfficeAddress>
+    <GovTrackId>412314</GovTrackId>
+    <Phone>202-225-6201</Phone>
+    <TwitterId>repaaronschock</TwitterId>
+    <YoutubeUrl>http://www.youtube.com/repaaronschock</YoutubeUrl>
+    <WebSite>http://schock.house.gov/</WebSite>
+    <Party>R</Party>
+    <State>IL</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>S001180</BioGuideId>
+    <FirstName>Kurt</FirstName>
+    <LastName>Schrader</LastName>
+    <OfficeAddress>1419 Longworth House Office Building</OfficeAddress>
+    <GovTrackId>412315</GovTrackId>
+    <Phone>202-225-5711</Phone>
+    <TwitterId>repschrader</TwitterId>
+    <YoutubeUrl>http://www.youtube.com/RepKurtSchrader</YoutubeUrl>
+    <WebSite>http://schrader.house.gov/index.html</WebSite>
+    <Party>D</Party>
+    <State>OR</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>T000038</BioGuideId>
+    <FirstName>John</FirstName>
+    <LastName>Tanner</LastName>
+    <OfficeAddress>1226 Longworth House Office Building</OfficeAddress>
+    <GovTrackId>400395</GovTrackId>
+    <Phone>202-225-4714</Phone>
+    <TwitterId />
+    <YoutubeUrl />
+    <WebSite>http://www.house.gov/tanner/</WebSite>
+    <Party>D</Party>
+    <State>TN</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>T000074</BioGuideId>
+    <FirstName>Gene</FirstName>
+    <LastName>Taylor</LastName>
+    <OfficeAddress>2269 Rayburn House Office Building</OfficeAddress>
+    <GovTrackId>400399</GovTrackId>
+    <Phone>202-225-5772</Phone>
+    <TwitterId />
+    <YoutubeUrl>http://www.youtube.com/repgenetaylor</YoutubeUrl>
+    <WebSite>http://www.taylor.house.gov/</WebSite>
+    <Party>D</Party>
+    <State>MS</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>T000193</BioGuideId>
+    <FirstName>Bennie</FirstName>
+    <LastName>Thompson</LastName>
+    <OfficeAddress>2432 Rayburn House Office Building</OfficeAddress>
+    <GovTrackId>400402</GovTrackId>
+    <Phone>202-225-5876</Phone>
+    <TwitterId />
+    <YoutubeUrl>http://www.youtube.com/RepBennieThompson</YoutubeUrl>
+    <WebSite>http://benniethompson.house.gov/HoR/MS02/Home.htm</WebSite>
+    <Party>D</Party>
+    <State>MS</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>T000238</BioGuideId>
+    <FirstName>William</FirstName>
+    <LastName>Thornberry</LastName>
+    <OfficeAddress>2457 Rayburn House Office Building</OfficeAddress>
+    <GovTrackId>400404</GovTrackId>
+    <Phone>202-225-3706</Phone>
+    <TwitterId />
+    <YoutubeUrl />
+    <WebSite>http://www.thornberry.house.gov/</WebSite>
+    <Party>R</Party>
+    <State>TX</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>T000260</BioGuideId>
+    <FirstName>Todd</FirstName>
+    <LastName>Tiahrt</LastName>
+    <OfficeAddress>2441 Rayburn House Office Building</OfficeAddress>
+    <GovTrackId>400405</GovTrackId>
+    <Phone>202-225-6216</Phone>
+    <TwitterId>RepToddTiahrt</TwitterId>
+    <YoutubeUrl>http://www.youtube.com/CongressmanTiahrt</YoutubeUrl>
+    <WebSite>http://tiahrt.house.gov/index.html</WebSite>
+    <Party>R</Party>
+    <State>KS</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>T000266</BioGuideId>
+    <FirstName>John</FirstName>
+    <LastName>Tierney</LastName>
+    <OfficeAddress>2238 Rayburn House Office Building</OfficeAddress>
+    <GovTrackId>400407</GovTrackId>
+    <Phone>202-225-8020</Phone>
+    <TwitterId />
+    <YoutubeUrl>http://www.youtube.com/CongressmanTierney</YoutubeUrl>
+    <WebSite>http://tierney.house.gov/</WebSite>
+    <Party>D</Party>
+    <State>MA</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>T000326</BioGuideId>
+    <FirstName>Edolphus</FirstName>
+    <LastName>Towns</LastName>
+    <OfficeAddress>2232 Rayburn House Office Building</OfficeAddress>
+    <GovTrackId>400409</GovTrackId>
+    <Phone>202-225-5936</Phone>
+    <TwitterId />
+    <YoutubeUrl>http://www.youtube.com/CongressmanEdTowns</YoutubeUrl>
+    <WebSite>http://www.house.gov/towns/</WebSite>
+    <Party>D</Party>
+    <State>NY</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>T000459</BioGuideId>
+    <FirstName>Lee</FirstName>
+    <LastName>Terry</LastName>
+    <OfficeAddress>1524 Longworth House Office Building</OfficeAddress>
+    <GovTrackId>400400</GovTrackId>
+    <Phone>202-225-4155</Phone>
+    <TwitterId>LEETERRYNE</TwitterId>
+    <YoutubeUrl>http://www.youtube.com/NebraskaTerry</YoutubeUrl>
+    <WebSite>http://leeterry.house.gov/</WebSite>
+    <Party>R</Party>
+    <State>NE</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>T000460</BioGuideId>
+    <FirstName>Michael</FirstName>
+    <LastName>Thompson</LastName>
+    <OfficeAddress>231 Cannon House Office Building</OfficeAddress>
+    <GovTrackId>400403</GovTrackId>
+    <Phone>202-225-3311</Phone>
+    <TwitterId />
+    <YoutubeUrl>http://www.youtube.com/CongressmanMThompson</YoutubeUrl>
+    <WebSite>http://mikethompson.house.gov</WebSite>
+    <Party>D</Party>
+    <State>CA</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>T000462</BioGuideId>
+    <FirstName>Patrick</FirstName>
+    <LastName>Tiberi</LastName>
+    <OfficeAddress>113 Cannon House Office Building</OfficeAddress>
+    <GovTrackId>400406</GovTrackId>
+    <Phone>202-225-5355</Phone>
+    <TwitterId />
+    <YoutubeUrl />
+    <WebSite>http://tiberi.house.gov/</WebSite>
+    <Party>R</Party>
+    <State>OH</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>T000463</BioGuideId>
+    <FirstName>Michael</FirstName>
+    <LastName>Turner</LastName>
+    <OfficeAddress>1740 Longworth House Office Building</OfficeAddress>
+    <GovTrackId>400411</GovTrackId>
+    <Phone>202-225-6465</Phone>
+    <TwitterId />
+    <YoutubeUrl>http://www.youtube.com/CongressmanTurner</YoutubeUrl>
+    <WebSite>http://turner.house.gov/</WebSite>
+    <Party>R</Party>
+    <State>OH</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>T000465</BioGuideId>
+    <FirstName>Nicola</FirstName>
+    <LastName>Tsongas</LastName>
+    <OfficeAddress>2229 Rayburn House Office Building</OfficeAddress>
+    <GovTrackId>412254</GovTrackId>
+    <Phone>202-225-3411</Phone>
+    <TwitterId />
+    <YoutubeUrl />
+    <WebSite>http://tsongas.house.gov/index.html</WebSite>
+    <Party>D</Party>
+    <State>MA</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>T000466</BioGuideId>
+    <FirstName>Harry</FirstName>
+    <LastName>Teague</LastName>
+    <OfficeAddress>1007 Longworth House Office Building</OfficeAddress>
+    <GovTrackId>412316</GovTrackId>
+    <Phone>202-225-2365</Phone>
+    <TwitterId />
+    <YoutubeUrl>http://www.youtube.com/RepresentativeTeague</YoutubeUrl>
+    <WebSite>http://teague.house.gov/</WebSite>
+    <Party>D</Party>
+    <State>NM</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>T000467</BioGuideId>
+    <FirstName>Glenn</FirstName>
+    <LastName>Thompson</LastName>
+    <OfficeAddress>124 Cannon House Office Building</OfficeAddress>
+    <GovTrackId>412317</GovTrackId>
+    <Phone>202-225-5121</Phone>
+    <TwitterId>CongressmanGT</TwitterId>
+    <YoutubeUrl>http://www.youtube.com/CongressmanGT</YoutubeUrl>
+    <WebSite>http://thompson.house.gov/</WebSite>
+    <Party>R</Party>
+    <State>PA</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>T000468</BioGuideId>
+    <FirstName>Alice</FirstName>
+    <LastName>Titus</LastName>
+    <OfficeAddress>319 Cannon House Office Building</OfficeAddress>
+    <GovTrackId>412318</GovTrackId>
+    <Phone>202-225-3252</Phone>
+    <TwitterId />
+    <YoutubeUrl>http://www.youtube.com/CongresswomanTitus</YoutubeUrl>
+    <WebSite>http://titus.house.gov/</WebSite>
+    <Party>D</Party>
+    <State>NV</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>T000469</BioGuideId>
+    <FirstName>Paul</FirstName>
+    <LastName>Tonko</LastName>
+    <OfficeAddress>128 Cannon House Office Building</OfficeAddress>
+    <GovTrackId>412319</GovTrackId>
+    <Phone>202-225-5076</Phone>
+    <TwitterId />
+    <YoutubeUrl />
+    <WebSite>http://tonko.house.gov/</WebSite>
+    <Party>D</Party>
+    <State>NY</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>U000031</BioGuideId>
+    <FirstName>Frederick</FirstName>
+    <LastName>Upton</LastName>
+    <OfficeAddress>2183 Rayburn House Office Building</OfficeAddress>
+    <GovTrackId>400414</GovTrackId>
+    <Phone>202-225-3761</Phone>
+    <TwitterId />
+    <YoutubeUrl>http://www.youtube.com/RepFredUpton</YoutubeUrl>
+    <WebSite>http://www.house.gov/upton/</WebSite>
+    <Party>R</Party>
+    <State>MI</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>V000081</BioGuideId>
+    <FirstName>Nydia</FirstName>
+    <LastName>Velazquez</LastName>
+    <OfficeAddress>2466 Rayburn House Office Building</OfficeAddress>
+    <GovTrackId>400416</GovTrackId>
+    <Phone>202-225-2361</Phone>
+    <TwitterId />
+    <YoutubeUrl>http://www.youtube.com/nydiavelazquez</YoutubeUrl>
+    <WebSite>http://www.house.gov/velazquez/</WebSite>
+    <Party>D</Party>
+    <State>NY</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>V000108</BioGuideId>
+    <FirstName>Peter</FirstName>
+    <LastName>Visclosky</LastName>
+    <OfficeAddress>2256 Rayburn House Office Building</OfficeAddress>
+    <GovTrackId>400417</GovTrackId>
+    <Phone>202-225-2461</Phone>
+    <TwitterId />
+    <YoutubeUrl />
+    <WebSite>http://www.house.gov/visclosky/</WebSite>
+    <Party>D</Party>
+    <State>IN</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>V000128</BioGuideId>
+    <FirstName>Christopher</FirstName>
+    <LastName>Van Hollen</LastName>
+    <OfficeAddress>1707 Longworth House Office Building</OfficeAddress>
+    <GovTrackId>400415</GovTrackId>
+    <Phone>202-225-5341</Phone>
+    <TwitterId />
+    <YoutubeUrl />
+    <WebSite>http://vanhollen.house.gov</WebSite>
+    <Party>D</Party>
+    <State>MD</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>W000119</BioGuideId>
+    <FirstName>Zach</FirstName>
+    <LastName>Wamp</LastName>
+    <OfficeAddress>1436 Longworth House Office Building</OfficeAddress>
+    <GovTrackId>400421</GovTrackId>
+    <Phone>202-225-3271</Phone>
+    <TwitterId>zachwamp</TwitterId>
+    <YoutubeUrl>http://www.youtube.com/repzachwamp</YoutubeUrl>
+    <WebSite>http://www.house.gov/wamp/</WebSite>
+    <Party>R</Party>
+    <State>TN</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>W000187</BioGuideId>
+    <FirstName>Maxine</FirstName>
+    <LastName>Waters</LastName>
+    <OfficeAddress>2344 Rayburn House Office Building</OfficeAddress>
+    <GovTrackId>400422</GovTrackId>
+    <Phone>202-225-2201</Phone>
+    <TwitterId>MaxineWaters</TwitterId>
+    <YoutubeUrl>http://www.youtube.com/MaxineWaters</YoutubeUrl>
+    <WebSite>http://www.house.gov/waters/</WebSite>
+    <Party>D</Party>
+    <State>CA</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>W000207</BioGuideId>
+    <FirstName>Melvin</FirstName>
+    <LastName>Watt</LastName>
+    <OfficeAddress>2236 Rayburn House Office Building</OfficeAddress>
+    <GovTrackId>400424</GovTrackId>
+    <Phone>202-225-1510</Phone>
+    <TwitterId />
+    <YoutubeUrl />
+    <WebSite>http://watt.house.gov/</WebSite>
+    <Party>D</Party>
+    <State>NC</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>W000215</BioGuideId>
+    <FirstName>Henry</FirstName>
+    <LastName>Waxman</LastName>
+    <OfficeAddress>2204 Rayburn House Office Building</OfficeAddress>
+    <GovTrackId>400425</GovTrackId>
+    <Phone>202-225-3976</Phone>
+    <TwitterId />
+    <YoutubeUrl />
+    <WebSite>http://waxman.house.gov</WebSite>
+    <Party>D</Party>
+    <State>CA</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>W000413</BioGuideId>
+    <FirstName>Edward</FirstName>
+    <LastName>Whitfield</LastName>
+    <OfficeAddress>2411 Rayburn House Office Building</OfficeAddress>
+    <GovTrackId>400431</GovTrackId>
+    <Phone>202-225-3115</Phone>
+    <TwitterId />
+    <YoutubeUrl>http://www.youtube.com/WhitfieldKY01</YoutubeUrl>
+    <WebSite>http://whitfield.house.gov/</WebSite>
+    <Party>R</Party>
+    <State>KY</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>W000672</BioGuideId>
+    <FirstName>Frank</FirstName>
+    <LastName>Wolf</LastName>
+    <OfficeAddress>241 Cannon House Office Building</OfficeAddress>
+    <GovTrackId>400435</GovTrackId>
+    <Phone>202-225-5136</Phone>
+    <TwitterId />
+    <YoutubeUrl>http://www.youtube.com/RepFrankWolf</YoutubeUrl>
+    <WebSite>http://wolf.house.gov/index.html</WebSite>
+    <Party>R</Party>
+    <State>VA</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>W000738</BioGuideId>
+    <FirstName>Lynn</FirstName>
+    <LastName>Woolsey</LastName>
+    <OfficeAddress>2263 Rayburn House Office Building</OfficeAddress>
+    <GovTrackId>400436</GovTrackId>
+    <Phone>202-225-5161</Phone>
+    <TwitterId />
+    <YoutubeUrl />
+    <WebSite>http://woolsey.house.gov/</WebSite>
+    <Party>D</Party>
+    <State>CA</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>W000791</BioGuideId>
+    <FirstName>Greg</FirstName>
+    <LastName>Walden</LastName>
+    <OfficeAddress>1210 Longworth House Office Building</OfficeAddress>
+    <GovTrackId>400419</GovTrackId>
+    <Phone>202-225-6730</Phone>
+    <TwitterId>repgregwalden</TwitterId>
+    <YoutubeUrl>http://www.youtube.com/RepGregWalden</YoutubeUrl>
+    <WebSite>http://www.walden.house.gov/</WebSite>
+    <Party>R</Party>
+    <State>OR</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>W000792</BioGuideId>
+    <FirstName>Anthony</FirstName>
+    <LastName>Weiner</LastName>
+    <OfficeAddress>1122 Longworth House Office Building</OfficeAddress>
+    <GovTrackId>400426</GovTrackId>
+    <Phone>202-225-6616</Phone>
+    <TwitterId />
+    <YoutubeUrl>http://www.youtube.com/AskAnthonyWeiner</YoutubeUrl>
+    <WebSite>http://weiner.house.gov/</WebSite>
+    <Party>D</Party>
+    <State>NY</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>W000793</BioGuideId>
+    <FirstName>David</FirstName>
+    <LastName>Wu</LastName>
+    <OfficeAddress>2338 Rayburn House Office Building</OfficeAddress>
+    <GovTrackId>400437</GovTrackId>
+    <Phone>202-225-0855</Phone>
+    <TwitterId />
+    <YoutubeUrl />
+    <WebSite>http://www.house.gov/wu/</WebSite>
+    <Party>D</Party>
+    <State>OR</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>W000794</BioGuideId>
+    <FirstName>Diane</FirstName>
+    <LastName>Watson</LastName>
+    <OfficeAddress>125 Cannon House Office Building</OfficeAddress>
+    <GovTrackId>400423</GovTrackId>
+    <Phone>202-225-7084</Phone>
+    <TwitterId />
+    <YoutubeUrl />
+    <WebSite>http://www.house.gov/watson/</WebSite>
+    <Party>D</Party>
+    <State>CA</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>W000795</BioGuideId>
+    <FirstName>Addison</FirstName>
+    <LastName>Wilson</LastName>
+    <OfficeAddress>212 Cannon House Office Building</OfficeAddress>
+    <GovTrackId>400433</GovTrackId>
+    <Phone>202-225-2452</Phone>
+    <TwitterId>CongJoeWilson</TwitterId>
+    <YoutubeUrl>http://www.youtube.com/RepJoeWilson</YoutubeUrl>
+    <WebSite>http://www.joewilson.house.gov/</WebSite>
+    <Party>R</Party>
+    <State>SC</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>W000796</BioGuideId>
+    <FirstName>Lynn</FirstName>
+    <LastName>Westmoreland</LastName>
+    <OfficeAddress>1213 Longworth House Office Building</OfficeAddress>
+    <GovTrackId>400627</GovTrackId>
+    <Phone>202-225-5901</Phone>
+    <TwitterId />
+    <YoutubeUrl>http://www.youtube.com/RepLynnWestmoreland</YoutubeUrl>
+    <WebSite>http://westmoreland.house.gov/</WebSite>
+    <Party>R</Party>
+    <State>GA</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>W000797</BioGuideId>
+    <FirstName>Debbie</FirstName>
+    <LastName>Wasserman Schultz</LastName>
+    <OfficeAddress>118 Cannon House Office Building</OfficeAddress>
+    <GovTrackId>400623</GovTrackId>
+    <Phone>202-225-7931</Phone>
+    <TwitterId />
+    <YoutubeUrl>http://www.youtube.com/RepWassermanSchultz</YoutubeUrl>
+    <WebSite>http://wassermanschultz.house.gov/</WebSite>
+    <Party>D</Party>
+    <State>FL</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>W000799</BioGuideId>
+    <FirstName>Timothy</FirstName>
+    <LastName>Walz</LastName>
+    <OfficeAddress>1722 Longworth House Office Building</OfficeAddress>
+    <GovTrackId>412214</GovTrackId>
+    <Phone>202-225-2472</Phone>
+    <TwitterId />
+    <YoutubeUrl />
+    <WebSite>http://walz.house.gov/</WebSite>
+    <Party>D</Party>
+    <State>MN</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>W000800</BioGuideId>
+    <FirstName>Peter</FirstName>
+    <LastName>Welch</LastName>
+    <OfficeAddress>1404 Longworth House Office Building</OfficeAddress>
+    <GovTrackId>412239</GovTrackId>
+    <Phone>202-225-4115</Phone>
+    <TwitterId />
+    <YoutubeUrl>http://www.youtube.com/RepPeterWelch</YoutubeUrl>
+    <WebSite>http://www.welch.house.gov/</WebSite>
+    <Party>D</Party>
+    <State>VT</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>W000801</BioGuideId>
+    <FirstName>Charles</FirstName>
+    <LastName>Wilson</LastName>
+    <OfficeAddress>226 Cannon House Office Building</OfficeAddress>
+    <GovTrackId>412227</GovTrackId>
+    <Phone>202-225-5705</Phone>
+    <TwitterId />
+    <YoutubeUrl />
+    <WebSite>http://www.charliewilson.house.gov/</WebSite>
+    <Party>D</Party>
+    <State>OH</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>W000804</BioGuideId>
+    <FirstName>Robert</FirstName>
+    <LastName>Wittman</LastName>
+    <OfficeAddress>1123 Longworth House Office Building</OfficeAddress>
+    <GovTrackId>412255</GovTrackId>
+    <Phone>202-225-4261</Phone>
+    <TwitterId>RobWittman</TwitterId>
+    <YoutubeUrl>http://www.youtube.com/RobWittman</YoutubeUrl>
+    <WebSite>http://www.wittman.house.gov/</WebSite>
+    <Party>R</Party>
+    <State>VA</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>Y000031</BioGuideId>
+    <FirstName>C. W. Bill</FirstName>
+    <LastName>Young</LastName>
+    <OfficeAddress>2407 Rayburn House Office Building</OfficeAddress>
+    <GovTrackId>400439</GovTrackId>
+    <Phone>202-225-5961</Phone>
+    <TwitterId />
+    <YoutubeUrl />
+    <WebSite>http://www.house.gov/young/</WebSite>
+    <Party>R</Party>
+    <State>FL</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>Y000033</BioGuideId>
+    <FirstName>Donald</FirstName>
+    <LastName>Young</LastName>
+    <OfficeAddress>2111 Rayburn House Office Building</OfficeAddress>
+    <GovTrackId>400440</GovTrackId>
+    <Phone>202-225-5765</Phone>
+    <TwitterId>repdonyoung</TwitterId>
+    <YoutubeUrl>http://www.youtube.com/RepDonYoung</YoutubeUrl>
+    <WebSite>http://donyoung.house.gov/</WebSite>
+    <Party>R</Party>
+    <State>AK</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>Y000062</BioGuideId>
+    <FirstName>John</FirstName>
+    <LastName>Yarmuth</LastName>
+    <OfficeAddress>319 Cannon House Office Building</OfficeAddress>
+    <GovTrackId>412211</GovTrackId>
+    <Phone>202-225-5401</Phone>
+    <TwitterId />
+    <YoutubeUrl />
+    <WebSite>http://yarmuth.house.gov/index.html</WebSite>
+    <Party>D</Party>
+    <State>KY</State>
+  </Politician>
+</Politicians>

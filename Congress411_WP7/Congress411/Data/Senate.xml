@@ -1,0 +1,1290 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Politicians>
+  <Politician>
+    <BioGuideId>A000069</BioGuideId>
+    <FirstName>Daniel</FirstName>
+    <LastName>Akaka</LastName>
+    <OfficeAddress>141 Hart Senate Office Building</OfficeAddress>
+    <GovTrackId>300001</GovTrackId>
+    <Phone>202-224-6361</Phone>
+    <TwitterId />
+    <YoutubeUrl>http://www.youtube.com/senatorakaka</YoutubeUrl>
+    <WebSite>http://akaka.senate.gov</WebSite>
+    <Party>D</Party>
+    <State>HI</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>A000360</BioGuideId>
+    <FirstName>Lamar</FirstName>
+    <LastName>Alexander</LastName>
+    <OfficeAddress>455 Dirksen Senate Office Building</OfficeAddress>
+    <GovTrackId>300002</GovTrackId>
+    <Phone>202-224-4944</Phone>
+    <TwitterId />
+    <YoutubeUrl>http://www.youtube.com/lamaralexander</YoutubeUrl>
+    <WebSite>http://alexander.senate.gov/public/</WebSite>
+    <Party>R</Party>
+    <State>TN</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>B000243</BioGuideId>
+    <FirstName>Max</FirstName>
+    <LastName>Baucus</LastName>
+    <OfficeAddress>511 Hart Senate Office Building</OfficeAddress>
+    <GovTrackId>300005</GovTrackId>
+    <Phone>202-224-2651</Phone>
+    <TwitterId />
+    <YoutubeUrl>http://www.youtube.com/SenatorBaucus</YoutubeUrl>
+    <WebSite>http://baucus.senate.gov</WebSite>
+    <Party>D</Party>
+    <State>MT</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>B000382</BioGuideId>
+    <FirstName>Robert</FirstName>
+    <LastName>Bennett</LastName>
+    <OfficeAddress>431 Dirksen Senate Office Building</OfficeAddress>
+    <GovTrackId>300007</GovTrackId>
+    <Phone>202-224-5444</Phone>
+    <TwitterId />
+    <YoutubeUrl>http://www.youtube.com/SenatorBennett</YoutubeUrl>
+    <WebSite>http://bennett.senate.gov/public/</WebSite>
+    <Party>R</Party>
+    <State>UT</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>B000468</BioGuideId>
+    <FirstName>Jeff</FirstName>
+    <LastName>Bingaman</LastName>
+    <OfficeAddress>703 Hart Senate Office Building</OfficeAddress>
+    <GovTrackId>300009</GovTrackId>
+    <Phone>202-224-5521</Phone>
+    <TwitterId />
+    <YoutubeUrl>http://www.youtube.com/SenJeffBingaman</YoutubeUrl>
+    <WebSite>http://bingaman.senate.gov</WebSite>
+    <Party>D</Party>
+    <State>NM</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>B000611</BioGuideId>
+    <FirstName>Christopher</FirstName>
+    <LastName>Bond</LastName>
+    <OfficeAddress>274 Russell Senate Office Building</OfficeAddress>
+    <GovTrackId>300010</GovTrackId>
+    <Phone>202-224-5721</Phone>
+    <TwitterId />
+    <YoutubeUrl>http://www.youtube.com/CSBondMO</YoutubeUrl>
+    <WebSite>http://bond.senate.gov/public/</WebSite>
+    <Party>R</Party>
+    <State>MO</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>B000711</BioGuideId>
+    <FirstName>Barbara</FirstName>
+    <LastName>Boxer</LastName>
+    <OfficeAddress>112 Hart Senate Office Building</OfficeAddress>
+    <GovTrackId>300011</GovTrackId>
+    <Phone>202-224-3553</Phone>
+    <TwitterId>Barbara_Boxer</TwitterId>
+    <YoutubeUrl>http://www.youtube.com/SenatorBoxer</YoutubeUrl>
+    <WebSite>http://boxer.senate.gov</WebSite>
+    <Party>D</Party>
+    <State>CA</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>B000944</BioGuideId>
+    <FirstName>Sherrod</FirstName>
+    <LastName>Brown</LastName>
+    <OfficeAddress>713 Hart Senate Office Building</OfficeAddress>
+    <GovTrackId>400050</GovTrackId>
+    <Phone>202-224-2315</Phone>
+    <TwitterId>SenSherrodBrown</TwitterId>
+    <YoutubeUrl>http://www.youtube.com/SherrodBrownOhio</YoutubeUrl>
+    <WebSite>http://brown.senate.gov/</WebSite>
+    <Party>D</Party>
+    <State>OH</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>B000953</BioGuideId>
+    <FirstName>Samuel</FirstName>
+    <LastName>Brownback</LastName>
+    <OfficeAddress>303 Hart Senate Office Building</OfficeAddress>
+    <GovTrackId>300013</GovTrackId>
+    <Phone>202-224-6521</Phone>
+    <TwitterId>SenSamBrownback</TwitterId>
+    <YoutubeUrl>http://www.youtube.com/SenatorSamBrownback</YoutubeUrl>
+    <WebSite>http://brownback.senate.gov/public/</WebSite>
+    <Party>R</Party>
+    <State>KS</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>B001066</BioGuideId>
+    <FirstName>Jim</FirstName>
+    <LastName>Bunning</LastName>
+    <OfficeAddress>316 Hart Senate Office Building</OfficeAddress>
+    <GovTrackId>300014</GovTrackId>
+    <Phone>202-224-4343</Phone>
+    <TwitterId />
+    <YoutubeUrl>http://www.youtube.com/SenJimBunning</YoutubeUrl>
+    <WebSite>http://bunning.senate.gov/public/</WebSite>
+    <Party>R</Party>
+    <State>KY</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>B001135</BioGuideId>
+    <FirstName>Richard</FirstName>
+    <LastName>Burr</LastName>
+    <OfficeAddress>217 Russell Senate Office Building</OfficeAddress>
+    <GovTrackId>400054</GovTrackId>
+    <Phone>202-224-3154</Phone>
+    <TwitterId>burrforsenate</TwitterId>
+    <YoutubeUrl>http://www.youtube.com/senatorrichardburr</YoutubeUrl>
+    <WebSite>http://burr.senate.gov/public/</WebSite>
+    <Party>R</Party>
+    <State>NC</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>B001233</BioGuideId>
+    <FirstName>Evan</FirstName>
+    <LastName>Bayh</LastName>
+    <OfficeAddress>131 Russell Senate Office Building</OfficeAddress>
+    <GovTrackId>300006</GovTrackId>
+    <Phone>202-224-5623</Phone>
+    <TwitterId />
+    <YoutubeUrl>http://www.youtube.com/SenEvanBayh</YoutubeUrl>
+    <WebSite>http://bayh.senate.gov</WebSite>
+    <Party>D</Party>
+    <State>IN</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>B001261</BioGuideId>
+    <FirstName>John</FirstName>
+    <LastName>Barrasso</LastName>
+    <OfficeAddress>307 Dirksen Senate Office Building</OfficeAddress>
+    <GovTrackId>412251</GovTrackId>
+    <Phone>202-224-6441</Phone>
+    <TwitterId />
+    <YoutubeUrl />
+    <WebSite>http://barrasso.senate.gov</WebSite>
+    <Party>R</Party>
+    <State>WY</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>B001265</BioGuideId>
+    <FirstName>Mark</FirstName>
+    <LastName>Begich</LastName>
+    <OfficeAddress>144 Russell Senate Office Building</OfficeAddress>
+    <GovTrackId>412326</GovTrackId>
+    <Phone>202-224-3004</Phone>
+    <TwitterId />
+    <YoutubeUrl>http://www.youtube.com/ussenatormarkbegich</YoutubeUrl>
+    <WebSite>http://begich.senate.gov/public/</WebSite>
+    <Party>D</Party>
+    <State>AK</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>B001266</BioGuideId>
+    <FirstName>Roland</FirstName>
+    <LastName>Burris</LastName>
+    <OfficeAddress>387 Russell Senate Office Building</OfficeAddress>
+    <GovTrackId>412328</GovTrackId>
+    <Phone>202-224-2854</Phone>
+    <TwitterId>rolandwburris</TwitterId>
+    <YoutubeUrl />
+    <WebSite>http://burris.senate.gov/</WebSite>
+    <Party>D</Party>
+    <State>IL</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>B001267</BioGuideId>
+    <FirstName>Michael</FirstName>
+    <LastName>Bennet</LastName>
+    <OfficeAddress>702 Hart Senate Office Building</OfficeAddress>
+    <GovTrackId>412330</GovTrackId>
+    <Phone>202-224-5852</Phone>
+    <TwitterId />
+    <YoutubeUrl>http://www.youtube.com/senatorbennet</YoutubeUrl>
+    <WebSite>http://bennet.senate.gov</WebSite>
+    <Party>D</Party>
+    <State>CO</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>B001268</BioGuideId>
+    <FirstName>Scott</FirstName>
+    <LastName>Brown</LastName>
+    <OfficeAddress>Senate Russell Courtyard 1</OfficeAddress>
+    <GovTrackId>412384</GovTrackId>
+    <Phone>202-224-4543</Phone>
+    <TwitterId />
+    <YoutubeUrl />
+    <WebSite />
+    <Party>R</Party>
+    <State>MA</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>C000127</BioGuideId>
+    <FirstName>Maria</FirstName>
+    <LastName>Cantwell</LastName>
+    <OfficeAddress>511 Dirksen Senate Office Building</OfficeAddress>
+    <GovTrackId>300018</GovTrackId>
+    <Phone>202-224-3441</Phone>
+    <TwitterId />
+    <YoutubeUrl>http://www.youtube.com/SenatorCantwell</YoutubeUrl>
+    <WebSite>http://cantwell.senate.gov</WebSite>
+    <Party>D</Party>
+    <State>WA</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>C000141</BioGuideId>
+    <FirstName>Benjamin</FirstName>
+    <LastName>Cardin</LastName>
+    <OfficeAddress>509 Hart Senate Office Building</OfficeAddress>
+    <GovTrackId>400064</GovTrackId>
+    <Phone>202-224-4524</Phone>
+    <TwitterId>SenatorCardin</TwitterId>
+    <YoutubeUrl>http://www.youtube.com/SenatorCardin</YoutubeUrl>
+    <WebSite>http://cardin.senate.gov/</WebSite>
+    <Party>D</Party>
+    <State>MD</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>C000174</BioGuideId>
+    <FirstName>Thomas</FirstName>
+    <LastName>Carper</LastName>
+    <OfficeAddress>513 Hart Senate Office Building</OfficeAddress>
+    <GovTrackId>300019</GovTrackId>
+    <Phone>202-224-2441</Phone>
+    <TwitterId />
+    <YoutubeUrl />
+    <WebSite>http://carper.senate.gov</WebSite>
+    <Party>D</Party>
+    <State>DE</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>C000286</BioGuideId>
+    <FirstName>C. Saxby</FirstName>
+    <LastName>Chambliss</LastName>
+    <OfficeAddress>416 Russell Senate Office Building</OfficeAddress>
+    <GovTrackId>300021</GovTrackId>
+    <Phone>202-224-3521</Phone>
+    <TwitterId />
+    <YoutubeUrl>http://www.youtube.com/SenatorChambliss</YoutubeUrl>
+    <WebSite>http://chambliss.senate.gov/public/index.cfm</WebSite>
+    <Party>R</Party>
+    <State>GA</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>C000560</BioGuideId>
+    <FirstName>Thomas</FirstName>
+    <LastName>Coburn</LastName>
+    <OfficeAddress>172 Russell Senate Office Building</OfficeAddress>
+    <GovTrackId>400576</GovTrackId>
+    <Phone>202-224-5754</Phone>
+    <TwitterId>TomCoburn</TwitterId>
+    <YoutubeUrl>http://www.youtube.com/SenatorCoburn</YoutubeUrl>
+    <WebSite>http://coburn.senate.gov/public/</WebSite>
+    <Party>R</Party>
+    <State>OK</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>C000567</BioGuideId>
+    <FirstName>Thad</FirstName>
+    <LastName>Cochran</LastName>
+    <OfficeAddress>113 Dirksen Senate Office Building</OfficeAddress>
+    <GovTrackId>300023</GovTrackId>
+    <Phone>202-224-5054</Phone>
+    <TwitterId />
+    <YoutubeUrl />
+    <WebSite>http://cochran.senate.gov</WebSite>
+    <Party>R</Party>
+    <State>MS</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>C000705</BioGuideId>
+    <FirstName>Kent</FirstName>
+    <LastName>Conrad</LastName>
+    <OfficeAddress>530 Hart Senate Office Building</OfficeAddress>
+    <GovTrackId>300026</GovTrackId>
+    <Phone>202-224-2043</Phone>
+    <TwitterId />
+    <YoutubeUrl>http://www.youtube.com/SenatorConrad</YoutubeUrl>
+    <WebSite>http://conrad.senate.gov</WebSite>
+    <Party>D</Party>
+    <State>ND</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>C000880</BioGuideId>
+    <FirstName>Michael</FirstName>
+    <LastName>Crapo</LastName>
+    <OfficeAddress>239 Dirksen Senate Office Building</OfficeAddress>
+    <GovTrackId>300030</GovTrackId>
+    <Phone>202-224-6142</Phone>
+    <TwitterId />
+    <YoutubeUrl>http://www.youtube.com/senatorcrapo</YoutubeUrl>
+    <WebSite>http://crapo.senate.gov</WebSite>
+    <Party>R</Party>
+    <State>ID</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>C001035</BioGuideId>
+    <FirstName>Susan</FirstName>
+    <LastName>Collins</LastName>
+    <OfficeAddress>413 Dirksen Senate Office Building</OfficeAddress>
+    <GovTrackId>300025</GovTrackId>
+    <Phone>202-224-2523</Phone>
+    <TwitterId>senatorcollins</TwitterId>
+    <YoutubeUrl>http://www.youtube.com/SenatorSusanCollins</YoutubeUrl>
+    <WebSite>http://collins.senate.gov</WebSite>
+    <Party>R</Party>
+    <State>ME</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>C001056</BioGuideId>
+    <FirstName>John</FirstName>
+    <LastName>Cornyn</LastName>
+    <OfficeAddress>517 Hart Senate Office Building</OfficeAddress>
+    <GovTrackId>300027</GovTrackId>
+    <Phone>202-224-2934</Phone>
+    <TwitterId>JohnCornyn</TwitterId>
+    <YoutubeUrl>http://www.youtube.com/senjohncornyn</YoutubeUrl>
+    <WebSite>http://cornyn.senate.gov/public/</WebSite>
+    <Party>R</Party>
+    <State>TX</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>C001070</BioGuideId>
+    <FirstName>Robert</FirstName>
+    <LastName>Casey</LastName>
+    <OfficeAddress>393 Russell Senate Office Building</OfficeAddress>
+    <GovTrackId>412246</GovTrackId>
+    <Phone>202-224-6324</Phone>
+    <TwitterId />
+    <YoutubeUrl>http://www.youtube.com/SenatorBobCasey</YoutubeUrl>
+    <WebSite>http://casey.senate.gov/</WebSite>
+    <Party>D</Party>
+    <State>PA</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>C001071</BioGuideId>
+    <FirstName>Bob</FirstName>
+    <LastName>Corker</LastName>
+    <OfficeAddress>185 Dirksen Senate Office Building</OfficeAddress>
+    <GovTrackId>412248</GovTrackId>
+    <Phone>202-224-3344</Phone>
+    <TwitterId>SenBobCorker</TwitterId>
+    <YoutubeUrl>http://www.youtube.com/SenatorCorker</YoutubeUrl>
+    <WebSite>http://corker.senate.gov/public/</WebSite>
+    <Party>R</Party>
+    <State>TN</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>D000388</BioGuideId>
+    <FirstName>Christopher</FirstName>
+    <LastName>Dodd</LastName>
+    <OfficeAddress>448 Russell Senate Office Building</OfficeAddress>
+    <GovTrackId>300034</GovTrackId>
+    <Phone>202-224-2823</Phone>
+    <TwitterId>SenChrisDodd</TwitterId>
+    <YoutubeUrl>http://www.youtube.com/SenChrisDodd</YoutubeUrl>
+    <WebSite>http://dodd.senate.gov</WebSite>
+    <Party>D</Party>
+    <State>CT</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>D000432</BioGuideId>
+    <FirstName>Byron</FirstName>
+    <LastName>Dorgan</LastName>
+    <OfficeAddress>322 Hart Senate Office Building</OfficeAddress>
+    <GovTrackId>300037</GovTrackId>
+    <Phone>202-224-2551</Phone>
+    <TwitterId />
+    <YoutubeUrl>http://www.youtube.com/senatordorgan</YoutubeUrl>
+    <WebSite>http://dorgan.senate.gov</WebSite>
+    <Party>D</Party>
+    <State>ND</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>D000563</BioGuideId>
+    <FirstName>Richard</FirstName>
+    <LastName>Durbin</LastName>
+    <OfficeAddress>309 Hart Senate Office Building</OfficeAddress>
+    <GovTrackId>300038</GovTrackId>
+    <Phone>202-224-2152</Phone>
+    <TwitterId />
+    <YoutubeUrl />
+    <WebSite>http://durbin.senate.gov</WebSite>
+    <Party>D</Party>
+    <State>IL</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>D000595</BioGuideId>
+    <FirstName>Jim</FirstName>
+    <LastName>DeMint</LastName>
+    <OfficeAddress>340 Russell Senate Office Building</OfficeAddress>
+    <GovTrackId>400105</GovTrackId>
+    <Phone>202-224-6121</Phone>
+    <TwitterId>JimDeMint</TwitterId>
+    <YoutubeUrl>http://www.youtube.com/SenJimDeMint</YoutubeUrl>
+    <WebSite>http://demint.senate.gov/public/</WebSite>
+    <Party>R</Party>
+    <State>SC</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>E000194</BioGuideId>
+    <FirstName>John</FirstName>
+    <LastName>Ensign</LastName>
+    <OfficeAddress>119 Russell Senate Office Building</OfficeAddress>
+    <GovTrackId>300040</GovTrackId>
+    <Phone>202-224-6244</Phone>
+    <TwitterId>JohnEnsign</TwitterId>
+    <YoutubeUrl>http://www.youtube.com/SenatorEnsign</YoutubeUrl>
+    <WebSite>http://ensign.senate.gov/public/</WebSite>
+    <Party>R</Party>
+    <State>NV</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>E000285</BioGuideId>
+    <FirstName>Michael</FirstName>
+    <LastName>Enzi</LastName>
+    <OfficeAddress>379a Russell Senate Office Building</OfficeAddress>
+    <GovTrackId>300041</GovTrackId>
+    <Phone>202-224-3424</Phone>
+    <TwitterId />
+    <YoutubeUrl>http://www.youtube.com/SenatorEnzi</YoutubeUrl>
+    <WebSite>http://enzi.senate.gov/public/</WebSite>
+    <Party>R</Party>
+    <State>WY</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>F000061</BioGuideId>
+    <FirstName>Russell</FirstName>
+    <LastName>Feingold</LastName>
+    <OfficeAddress>506 Hart Senate Office Building</OfficeAddress>
+    <GovTrackId>300042</GovTrackId>
+    <Phone>202-224-5323</Phone>
+    <TwitterId>russfeingold</TwitterId>
+    <YoutubeUrl>http://www.youtube.com/SenRussFeingold</YoutubeUrl>
+    <WebSite>http://feingold.senate.gov</WebSite>
+    <Party>D</Party>
+    <State>WI</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>F000062</BioGuideId>
+    <FirstName>Dianne</FirstName>
+    <LastName>Feinstein</LastName>
+    <OfficeAddress>331 Hart Senate Office Building</OfficeAddress>
+    <GovTrackId>300043</GovTrackId>
+    <Phone>202-224-3841</Phone>
+    <TwitterId />
+    <YoutubeUrl>http://www.youtube.com/SenatorFeinstein</YoutubeUrl>
+    <WebSite>http://feinstein.senate.gov/public/</WebSite>
+    <Party>D</Party>
+    <State>CA</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>F000457</BioGuideId>
+    <FirstName>Al</FirstName>
+    <LastName>Franken</LastName>
+    <OfficeAddress>320 Hart Senate Office Building</OfficeAddress>
+    <GovTrackId>412378</GovTrackId>
+    <Phone>202-224-5641</Phone>
+    <TwitterId />
+    <YoutubeUrl>http://www.youtube.com/SenatorFranken</YoutubeUrl>
+    <WebSite>http://franken.senate.gov</WebSite>
+    <Party>D</Party>
+    <State>MN</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>G000359</BioGuideId>
+    <FirstName>Lindsey</FirstName>
+    <LastName>Graham</LastName>
+    <OfficeAddress>290 Russell Senate Office Building</OfficeAddress>
+    <GovTrackId>300047</GovTrackId>
+    <Phone>202-224-5972</Phone>
+    <TwitterId>GrahamBlog</TwitterId>
+    <YoutubeUrl>http://www.youtube.com/USSenLindseyGraham</YoutubeUrl>
+    <WebSite>http://lgraham.senate.gov/public/</WebSite>
+    <Party>R</Party>
+    <State>SC</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>G000386</BioGuideId>
+    <FirstName>Charles</FirstName>
+    <LastName>Grassley</LastName>
+    <OfficeAddress>135 Hart Senate Office Building</OfficeAddress>
+    <GovTrackId>300048</GovTrackId>
+    <Phone>202-224-3744</Phone>
+    <TwitterId>ChuckGrassley</TwitterId>
+    <YoutubeUrl>http://www.youtube.com/SenChuckGrassley</YoutubeUrl>
+    <WebSite>http://grassley.senate.gov</WebSite>
+    <Party>R</Party>
+    <State>IA</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>G000445</BioGuideId>
+    <FirstName>Judd</FirstName>
+    <LastName>Gregg</LastName>
+    <OfficeAddress>201 Russell Senate Office Building</OfficeAddress>
+    <GovTrackId>300049</GovTrackId>
+    <Phone>202-224-3324</Phone>
+    <TwitterId />
+    <YoutubeUrl />
+    <WebSite>http://gregg.senate.gov/</WebSite>
+    <Party>R</Party>
+    <State>NH</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>G000555</BioGuideId>
+    <FirstName>Kirsten</FirstName>
+    <LastName>Gillibrand</LastName>
+    <OfficeAddress>478 Russell Senate Office Building</OfficeAddress>
+    <GovTrackId>412223</GovTrackId>
+    <Phone>202-224-4451</Phone>
+    <TwitterId>SenGillibrand</TwitterId>
+    <YoutubeUrl>http://www.youtube.com/KirstenEGillibrand</YoutubeUrl>
+    <WebSite>http://gillibrand.senate.gov</WebSite>
+    <Party>D</Party>
+    <State>NY</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>H000206</BioGuideId>
+    <FirstName>Thomas</FirstName>
+    <LastName>Harkin</LastName>
+    <OfficeAddress>731 Hart Senate Office Building</OfficeAddress>
+    <GovTrackId>300051</GovTrackId>
+    <Phone>202-224-3254</Phone>
+    <TwitterId />
+    <YoutubeUrl>http://www.youtube.com/SenatorTomHarkin</YoutubeUrl>
+    <WebSite>http://harkin.senate.gov/</WebSite>
+    <Party>D</Party>
+    <State>IA</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>H000338</BioGuideId>
+    <FirstName>Orrin</FirstName>
+    <LastName>Hatch</LastName>
+    <OfficeAddress>104 Hart Senate Office Building</OfficeAddress>
+    <GovTrackId>300052</GovTrackId>
+    <Phone>202-224-5251</Phone>
+    <TwitterId>OrrinHatch</TwitterId>
+    <YoutubeUrl>http://www.youtube.com/SenatorOrrinHatch</YoutubeUrl>
+    <WebSite>http://hatch.senate.gov/public/</WebSite>
+    <Party>R</Party>
+    <State>UT</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>H001016</BioGuideId>
+    <FirstName>Kay</FirstName>
+    <LastName>Hutchison</LastName>
+    <OfficeAddress>284 Russell Senate Office Building</OfficeAddress>
+    <GovTrackId>300054</GovTrackId>
+    <Phone>202-224-5922</Phone>
+    <TwitterId />
+    <YoutubeUrl>http://www.youtube.com/SenatorHutchison</YoutubeUrl>
+    <WebSite>http://hutchison.senate.gov/</WebSite>
+    <Party>R</Party>
+    <State>TX</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>H001049</BioGuideId>
+    <FirstName>Kay</FirstName>
+    <LastName>Hagan</LastName>
+    <OfficeAddress>521 Dirksen Senate Office Building</OfficeAddress>
+    <GovTrackId>412324</GovTrackId>
+    <Phone>202-224-6342</Phone>
+    <TwitterId>SenatorHagan</TwitterId>
+    <YoutubeUrl>http://www.youtube.com/SenatorHagan</YoutubeUrl>
+    <WebSite>http://hagan.senate.gov</WebSite>
+    <Party>D</Party>
+    <State>NC</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>I000024</BioGuideId>
+    <FirstName>James</FirstName>
+    <LastName>Inhofe</LastName>
+    <OfficeAddress>453 Russell Senate Office Building</OfficeAddress>
+    <GovTrackId>300055</GovTrackId>
+    <Phone>202-224-4721</Phone>
+    <TwitterId>jiminhofe</TwitterId>
+    <YoutubeUrl>http://www.youtube.com/JimInhofePressOffice</YoutubeUrl>
+    <WebSite>http://inhofe.senate.gov/public/</WebSite>
+    <Party>R</Party>
+    <State>OK</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>I000025</BioGuideId>
+    <FirstName>Daniel</FirstName>
+    <LastName>Inouye</LastName>
+    <OfficeAddress>722 Hart Senate Office Building</OfficeAddress>
+    <GovTrackId>300056</GovTrackId>
+    <Phone>202-224-3934</Phone>
+    <TwitterId />
+    <YoutubeUrl />
+    <WebSite>http://inouye.senate.gov/</WebSite>
+    <Party>D</Party>
+    <State>HI</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>I000055</BioGuideId>
+    <FirstName>John</FirstName>
+    <LastName>Isakson</LastName>
+    <OfficeAddress>120 Russell Senate Office Building</OfficeAddress>
+    <GovTrackId>400194</GovTrackId>
+    <Phone>202-224-3643</Phone>
+    <TwitterId />
+    <YoutubeUrl>http://www.youtube.com/SenatorIsakson</YoutubeUrl>
+    <WebSite>http://isakson.senate.gov</WebSite>
+    <Party>R</Party>
+    <State>GA</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>J000177</BioGuideId>
+    <FirstName>Tim</FirstName>
+    <LastName>Johnson</LastName>
+    <OfficeAddress>136 Hart Senate Office Building</OfficeAddress>
+    <GovTrackId>300058</GovTrackId>
+    <Phone>202-224-5842</Phone>
+    <TwitterId />
+    <YoutubeUrl>http://www.youtube.com/senatorjohnson</YoutubeUrl>
+    <WebSite>http://johnson.senate.gov/</WebSite>
+    <Party>D</Party>
+    <State>SD</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>J000291</BioGuideId>
+    <FirstName>Mike</FirstName>
+    <LastName>Johanns</LastName>
+    <OfficeAddress>404 Russell Senate Office Building</OfficeAddress>
+    <GovTrackId>412320</GovTrackId>
+    <Phone>202-224-4224</Phone>
+    <TwitterId />
+    <YoutubeUrl>http://www.youtube.com/SenatorMikeJohanns</YoutubeUrl>
+    <WebSite>http://johanns.senate.gov</WebSite>
+    <Party>R</Party>
+    <State>NE</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>K000148</BioGuideId>
+    <FirstName>John</FirstName>
+    <LastName>Kerry</LastName>
+    <OfficeAddress>218 Russell Senate Office Building</OfficeAddress>
+    <GovTrackId>300060</GovTrackId>
+    <Phone>202-224-2742</Phone>
+    <TwitterId>JohnKerry</TwitterId>
+    <YoutubeUrl />
+    <WebSite>http://kerry.senate.gov/</WebSite>
+    <Party>D</Party>
+    <State>MA</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>K000305</BioGuideId>
+    <FirstName>Herbert</FirstName>
+    <LastName>Kohl</LastName>
+    <OfficeAddress>330 Hart Senate Office Building</OfficeAddress>
+    <GovTrackId>300061</GovTrackId>
+    <Phone>202-224-5653</Phone>
+    <TwitterId />
+    <YoutubeUrl>http://www.youtube.com/SenatorKohl</YoutubeUrl>
+    <WebSite>http://kohl.senate.gov/</WebSite>
+    <Party>D</Party>
+    <State>WI</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>K000352</BioGuideId>
+    <FirstName>Jon</FirstName>
+    <LastName>Kyl</LastName>
+    <OfficeAddress>730 Hart Senate Office Building</OfficeAddress>
+    <GovTrackId>300062</GovTrackId>
+    <Phone>202-224-4521</Phone>
+    <TwitterId />
+    <YoutubeUrl>http://www.youtube.com/SenJonKyl</YoutubeUrl>
+    <WebSite>http://kyl.senate.gov/</WebSite>
+    <Party>R</Party>
+    <State>AZ</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>K000367</BioGuideId>
+    <FirstName>Amy</FirstName>
+    <LastName>Klobuchar</LastName>
+    <OfficeAddress>302 Hart Senate Office Building</OfficeAddress>
+    <GovTrackId>412242</GovTrackId>
+    <Phone>202-224-3244</Phone>
+    <TwitterId />
+    <YoutubeUrl>http://www.youtube.com/senatorklobuchar</YoutubeUrl>
+    <WebSite>http://klobuchar.senate.gov/</WebSite>
+    <Party>D</Party>
+    <State>MN</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>K000373</BioGuideId>
+    <FirstName>Edward</FirstName>
+    <LastName>Kaufman</LastName>
+    <OfficeAddress>383 Russell Senate Office Building</OfficeAddress>
+    <GovTrackId>412329</GovTrackId>
+    <Phone>202-224-5042</Phone>
+    <TwitterId />
+    <YoutubeUrl>http://www.youtube.com/SenatorTed</YoutubeUrl>
+    <WebSite>http://kaufman.senate.gov</WebSite>
+    <Party>D</Party>
+    <State>DE</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>L000035</BioGuideId>
+    <FirstName>Blanche</FirstName>
+    <LastName>Lincoln</LastName>
+    <OfficeAddress>355 Dirksen Senate Office Building</OfficeAddress>
+    <GovTrackId>300068</GovTrackId>
+    <Phone>202-224-4843</Phone>
+    <TwitterId />
+    <YoutubeUrl>http://www.youtube.com/SenatorLincoln</YoutubeUrl>
+    <WebSite>http://lincoln.senate.gov/</WebSite>
+    <Party>D</Party>
+    <State>AR</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>L000123</BioGuideId>
+    <FirstName>Frank</FirstName>
+    <LastName>Lautenberg</LastName>
+    <OfficeAddress>324 Hart Senate Office Building</OfficeAddress>
+    <GovTrackId>300064</GovTrackId>
+    <Phone>202-224-3224</Phone>
+    <TwitterId />
+    <YoutubeUrl>http://www.youtube.com/franklautenberg</YoutubeUrl>
+    <WebSite>http://lautenberg.senate.gov/</WebSite>
+    <Party>D</Party>
+    <State>NJ</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>L000174</BioGuideId>
+    <FirstName>Patrick</FirstName>
+    <LastName>Leahy</LastName>
+    <OfficeAddress>433 Russell Senate Office Building</OfficeAddress>
+    <GovTrackId>300065</GovTrackId>
+    <Phone>202-224-4242</Phone>
+    <TwitterId />
+    <YoutubeUrl>http://www.youtube.com/SenatorPatrickLeahy</YoutubeUrl>
+    <WebSite>http://leahy.senate.gov/</WebSite>
+    <Party>D</Party>
+    <State>VT</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>L000261</BioGuideId>
+    <FirstName>Carl</FirstName>
+    <LastName>Levin</LastName>
+    <OfficeAddress>269 Russell Senate Office Building</OfficeAddress>
+    <GovTrackId>300066</GovTrackId>
+    <Phone>202-224-6221</Phone>
+    <TwitterId />
+    <YoutubeUrl>http://www.youtube.com/sencarllevin</YoutubeUrl>
+    <WebSite>http://levin.senate.gov/</WebSite>
+    <Party>D</Party>
+    <State>MI</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>L000304</BioGuideId>
+    <FirstName>Joseph</FirstName>
+    <LastName>Lieberman</LastName>
+    <OfficeAddress>706 Hart Senate Office Building</OfficeAddress>
+    <GovTrackId>300067</GovTrackId>
+    <Phone>202-224-4041</Phone>
+    <TwitterId>JoeLieberman</TwitterId>
+    <YoutubeUrl>http://www.youtube.com/SenatorJoeLieberman</YoutubeUrl>
+    <WebSite>http://lieberman.senate.gov/</WebSite>
+    <Party>I</Party>
+    <State>CT</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>L000504</BioGuideId>
+    <FirstName>Richard</FirstName>
+    <LastName>Lugar</LastName>
+    <OfficeAddress>306 Hart Senate Office Building</OfficeAddress>
+    <GovTrackId>300070</GovTrackId>
+    <Phone>202-224-4814</Phone>
+    <TwitterId>senatorlugar</TwitterId>
+    <YoutubeUrl>http://www.youtube.com/senatorlugar</YoutubeUrl>
+    <WebSite>http://lugar.senate.gov/</WebSite>
+    <Party>R</Party>
+    <State>IN</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>L000550</BioGuideId>
+    <FirstName>Mary</FirstName>
+    <LastName>Landrieu</LastName>
+    <OfficeAddress>328 Hart Senate Office Building</OfficeAddress>
+    <GovTrackId>300063</GovTrackId>
+    <Phone>202-224-5824</Phone>
+    <TwitterId />
+    <YoutubeUrl>http://www.youtube.com/SenatorLandrieu</YoutubeUrl>
+    <WebSite>http://landrieu.senate.gov/</WebSite>
+    <Party>D</Party>
+    <State>LA</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>L000572</BioGuideId>
+    <FirstName>George</FirstName>
+    <LastName>LeMieux</LastName>
+    <OfficeAddress>356 Russell Senate Office Building</OfficeAddress>
+    <GovTrackId>412380</GovTrackId>
+    <Phone>202-224-3041</Phone>
+    <TwitterId>George_LeMieux</TwitterId>
+    <YoutubeUrl />
+    <WebSite>http://lemieux.senate.gov</WebSite>
+    <Party>R</Party>
+    <State>FL</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>M000303</BioGuideId>
+    <FirstName>John</FirstName>
+    <LastName>McCain</LastName>
+    <OfficeAddress>241 Russell Senate Office Building</OfficeAddress>
+    <GovTrackId>300071</GovTrackId>
+    <Phone>202-224-2235</Phone>
+    <TwitterId>SenJohnMcCain</TwitterId>
+    <YoutubeUrl>http://www.youtube.com/SenatorJohnMcCain</YoutubeUrl>
+    <WebSite>http://mccain.senate.gov/public/</WebSite>
+    <Party>R</Party>
+    <State>AZ</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>M000355</BioGuideId>
+    <FirstName>Mitch</FirstName>
+    <LastName>McConnell</LastName>
+    <OfficeAddress>361a Russell Senate Office Building</OfficeAddress>
+    <GovTrackId>300072</GovTrackId>
+    <Phone>202-224-2541</Phone>
+    <TwitterId />
+    <YoutubeUrl>http://www.youtube.com/RepublicanLeader</YoutubeUrl>
+    <WebSite>http://mcconnell.senate.gov/</WebSite>
+    <Party>R</Party>
+    <State>KY</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>M000639</BioGuideId>
+    <FirstName>Robert</FirstName>
+    <LastName>Menendez</LastName>
+    <OfficeAddress>528 Hart Senate Office Building</OfficeAddress>
+    <GovTrackId>400272</GovTrackId>
+    <Phone>202-224-4744</Phone>
+    <TwitterId>SenatorMenendez</TwitterId>
+    <YoutubeUrl>http://www.youtube.com/SenatorMenendezNJ</YoutubeUrl>
+    <WebSite>http://menendez.senate.gov/</WebSite>
+    <Party>D</Party>
+    <State>NJ</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>M000702</BioGuideId>
+    <FirstName>Barbara</FirstName>
+    <LastName>Mikulski</LastName>
+    <OfficeAddress>503 Hart Senate Office Building</OfficeAddress>
+    <GovTrackId>300073</GovTrackId>
+    <Phone>202-224-4654</Phone>
+    <TwitterId />
+    <YoutubeUrl />
+    <WebSite>http://mikulski.senate.gov/</WebSite>
+    <Party>D</Party>
+    <State>MD</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>M001111</BioGuideId>
+    <FirstName>Patty</FirstName>
+    <LastName>Murray</LastName>
+    <OfficeAddress>173 Russell Senate Office Building</OfficeAddress>
+    <GovTrackId>300076</GovTrackId>
+    <Phone>202-224-2621</Phone>
+    <TwitterId />
+    <YoutubeUrl>http://www.youtube.com/SenatorPattyMurray</YoutubeUrl>
+    <WebSite>http://murray.senate.gov/</WebSite>
+    <Party>D</Party>
+    <State>WA</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>M001153</BioGuideId>
+    <FirstName>Lisa</FirstName>
+    <LastName>Murkowski</LastName>
+    <OfficeAddress>709 Hart Senate Office Building</OfficeAddress>
+    <GovTrackId>300075</GovTrackId>
+    <Phone>202-224-6665</Phone>
+    <TwitterId>lisamurkowski</TwitterId>
+    <YoutubeUrl>http://www.youtube.com/SenatorMurkowski</YoutubeUrl>
+    <WebSite>http://murkowski.senate.gov/public/</WebSite>
+    <Party>R</Party>
+    <State>AK</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>M001170</BioGuideId>
+    <FirstName>Claire</FirstName>
+    <LastName>McCaskill</LastName>
+    <OfficeAddress>717 Hart Senate Office Building</OfficeAddress>
+    <GovTrackId>412243</GovTrackId>
+    <Phone>202-224-6154</Phone>
+    <TwitterId>clairecmc</TwitterId>
+    <YoutubeUrl>http://www.youtube.com/senatormccaskill</YoutubeUrl>
+    <WebSite>http://mccaskill.senate.gov/</WebSite>
+    <Party>D</Party>
+    <State>MO</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>M001176</BioGuideId>
+    <FirstName>Jeffery</FirstName>
+    <LastName>Merkley</LastName>
+    <OfficeAddress>107 Russell Senate Office Building</OfficeAddress>
+    <GovTrackId>412325</GovTrackId>
+    <Phone>202-224-3753</Phone>
+    <TwitterId>SenJeffMerkley</TwitterId>
+    <YoutubeUrl>http://www.youtube.com/senatorjeffmerkley</YoutubeUrl>
+    <WebSite>http://merkley.senate.gov</WebSite>
+    <Party>D</Party>
+    <State>OR</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>N000032</BioGuideId>
+    <FirstName>Bill</FirstName>
+    <LastName>Nelson</LastName>
+    <OfficeAddress>716 Hart Senate Office Building</OfficeAddress>
+    <GovTrackId>300078</GovTrackId>
+    <Phone>202-224-5274</Phone>
+    <TwitterId>SenBillNelson</TwitterId>
+    <YoutubeUrl>http://www.youtube.com/SenBillNelson</YoutubeUrl>
+    <WebSite>http://billnelson.senate.gov/</WebSite>
+    <Party>D</Party>
+    <State>FL</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>N000180</BioGuideId>
+    <FirstName>E. Benjamin</FirstName>
+    <LastName>Nelson</LastName>
+    <OfficeAddress>720 Hart Senate Office Building</OfficeAddress>
+    <GovTrackId>300077</GovTrackId>
+    <Phone>202-224-6551</Phone>
+    <TwitterId>SenBenNelson</TwitterId>
+    <YoutubeUrl>http://www.youtube.com/SenBenNelson</YoutubeUrl>
+    <WebSite>http://bennelson.senate.gov/</WebSite>
+    <Party>D</Party>
+    <State>NE</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>P000590</BioGuideId>
+    <FirstName>Mark</FirstName>
+    <LastName>Pryor</LastName>
+    <OfficeAddress>255 Dirksen Senate Office Building</OfficeAddress>
+    <GovTrackId>300080</GovTrackId>
+    <Phone>202-224-2353</Phone>
+    <TwitterId />
+    <YoutubeUrl>http://www.youtube.com/SenatorPryor</YoutubeUrl>
+    <WebSite>http://pryor.senate.gov</WebSite>
+    <Party>D</Party>
+    <State>AR</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>R000122</BioGuideId>
+    <FirstName>John</FirstName>
+    <LastName>Reed</LastName>
+    <OfficeAddress>728 Hart Senate Office Building</OfficeAddress>
+    <GovTrackId>300081</GovTrackId>
+    <Phone>202-224-4642</Phone>
+    <TwitterId />
+    <YoutubeUrl />
+    <WebSite>http://reed.senate.gov/</WebSite>
+    <Party>D</Party>
+    <State>RI</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>R000146</BioGuideId>
+    <FirstName>Harry</FirstName>
+    <LastName>Reid</LastName>
+    <OfficeAddress>522 Hart Senate Office Building</OfficeAddress>
+    <GovTrackId>300082</GovTrackId>
+    <Phone>202-224-3542</Phone>
+    <TwitterId>SenatorReid</TwitterId>
+    <YoutubeUrl>http://www.youtube.com/SenatorReid</YoutubeUrl>
+    <WebSite>http://reid.senate.gov/</WebSite>
+    <Party>D</Party>
+    <State>NV</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>R000307</BioGuideId>
+    <FirstName>Pat</FirstName>
+    <LastName>Roberts</LastName>
+    <OfficeAddress>109 Hart Senate Office Building</OfficeAddress>
+    <GovTrackId>300083</GovTrackId>
+    <Phone>202-224-4774</Phone>
+    <TwitterId />
+    <YoutubeUrl />
+    <WebSite>http://roberts.senate.gov/public/</WebSite>
+    <Party>R</Party>
+    <State>KS</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>R000361</BioGuideId>
+    <FirstName>John</FirstName>
+    <LastName>Rockefeller</LastName>
+    <OfficeAddress>531 Hart Senate Office Building</OfficeAddress>
+    <GovTrackId>300084</GovTrackId>
+    <Phone>202-224-6472</Phone>
+    <TwitterId />
+    <YoutubeUrl>http://www.youtube.com/SenatorRockefeller</YoutubeUrl>
+    <WebSite>http://rockefeller.senate.gov/</WebSite>
+    <Party>D</Party>
+    <State>WV</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>R000584</BioGuideId>
+    <FirstName>James</FirstName>
+    <LastName>Risch</LastName>
+    <OfficeAddress>483 Russell Senate Office</OfficeAddress>
+    <GovTrackId>412322</GovTrackId>
+    <Phone>202-224-2752</Phone>
+    <TwitterId />
+    <YoutubeUrl>http://www.youtube.com/SenatorJamesRisch</YoutubeUrl>
+    <WebSite>http://risch.senate.gov</WebSite>
+    <Party>R</Party>
+    <State>ID</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>S000033</BioGuideId>
+    <FirstName>Bernard</FirstName>
+    <LastName>Sanders</LastName>
+    <OfficeAddress>332 Dirksen Senate Office Building</OfficeAddress>
+    <GovTrackId>400357</GovTrackId>
+    <Phone>202-224-5141</Phone>
+    <TwitterId>senatorsanders</TwitterId>
+    <YoutubeUrl>http://www.youtube.com/SenatorSanders</YoutubeUrl>
+    <WebSite>http://sanders.senate.gov/</WebSite>
+    <Party>I</Party>
+    <State>VT</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>S000148</BioGuideId>
+    <FirstName>Charles</FirstName>
+    <LastName>Schumer</LastName>
+    <OfficeAddress>313 Hart Senate Office Building</OfficeAddress>
+    <GovTrackId>300087</GovTrackId>
+    <Phone>202-224-6542</Phone>
+    <TwitterId />
+    <YoutubeUrl>http://www.youtube.com/senatorschumer</YoutubeUrl>
+    <WebSite>http://schumer.senate.gov/</WebSite>
+    <Party>D</Party>
+    <State>NY</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>S000320</BioGuideId>
+    <FirstName>Richard</FirstName>
+    <LastName>Shelby</LastName>
+    <OfficeAddress>304 Russell Senate Office Building</OfficeAddress>
+    <GovTrackId>300089</GovTrackId>
+    <Phone>202-224-5744</Phone>
+    <TwitterId>RichardShelby</TwitterId>
+    <YoutubeUrl>http://www.youtube.com/SenatorRichardShelby</YoutubeUrl>
+    <WebSite>http://shelby.senate.gov/public/</WebSite>
+    <Party>R</Party>
+    <State>AL</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>S000663</BioGuideId>
+    <FirstName>Olympia</FirstName>
+    <LastName>Snowe</LastName>
+    <OfficeAddress>154 Russell Senate Office Building</OfficeAddress>
+    <GovTrackId>300091</GovTrackId>
+    <Phone>202-224-5344</Phone>
+    <TwitterId />
+    <YoutubeUrl />
+    <WebSite>http://snowe.senate.gov/public/</WebSite>
+    <Party>R</Party>
+    <State>ME</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>S000709</BioGuideId>
+    <FirstName>Arlen</FirstName>
+    <LastName>Specter</LastName>
+    <OfficeAddress>711 Hart Senate Office Building</OfficeAddress>
+    <GovTrackId>300092</GovTrackId>
+    <Phone>202-224-4254</Phone>
+    <TwitterId>SenArlenSpecter</TwitterId>
+    <YoutubeUrl>http://www.youtube.com/SenatorArlenSpecter</YoutubeUrl>
+    <WebSite>http://specter.senate.gov/public/</WebSite>
+    <Party>D</Party>
+    <State>PA</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>S000770</BioGuideId>
+    <FirstName>Debbie</FirstName>
+    <LastName>Stabenow</LastName>
+    <OfficeAddress>133 Hart Senate Office Building</OfficeAddress>
+    <GovTrackId>300093</GovTrackId>
+    <Phone>202-224-4822</Phone>
+    <TwitterId />
+    <YoutubeUrl>http://www.youtube.com/SenatorStabenow</YoutubeUrl>
+    <WebSite>http://stabenow.senate.gov/</WebSite>
+    <Party>D</Party>
+    <State>MI</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>S001141</BioGuideId>
+    <FirstName>Jefferson</FirstName>
+    <LastName>Sessions</LastName>
+    <OfficeAddress>335 Russell Senate Office Building</OfficeAddress>
+    <GovTrackId>300088</GovTrackId>
+    <Phone>202-224-4124</Phone>
+    <TwitterId>SenatorSessions</TwitterId>
+    <YoutubeUrl>http://www.youtube.com/SenatorSessions</YoutubeUrl>
+    <WebSite>http://sessions.senate.gov/public/</WebSite>
+    <Party>R</Party>
+    <State>AL</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>S001181</BioGuideId>
+    <FirstName>Jeanne</FirstName>
+    <LastName>Shaheen</LastName>
+    <OfficeAddress>520 Hart Senate Office Building</OfficeAddress>
+    <GovTrackId>412323</GovTrackId>
+    <Phone>202-224-2841</Phone>
+    <TwitterId>JeanneShaheen</TwitterId>
+    <YoutubeUrl>http://www.youtube.com/SenatorShaheen</YoutubeUrl>
+    <WebSite>http://shaheen.senate.gov</WebSite>
+    <Party>D</Party>
+    <State>NH</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>T000250</BioGuideId>
+    <FirstName>John</FirstName>
+    <LastName>Thune</LastName>
+    <OfficeAddress>493 Russell Senate Office Building</OfficeAddress>
+    <GovTrackId>400546</GovTrackId>
+    <Phone>202-224-2321</Phone>
+    <TwitterId>johnthune</TwitterId>
+    <YoutubeUrl>http://www.youtube.com/JohnThune</YoutubeUrl>
+    <WebSite>http://thune.senate.gov/public/</WebSite>
+    <Party>R</Party>
+    <State>SD</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>T000464</BioGuideId>
+    <FirstName>Jon</FirstName>
+    <LastName>Tester</LastName>
+    <OfficeAddress>724 Hart Senate Office Building</OfficeAddress>
+    <GovTrackId>412244</GovTrackId>
+    <Phone>202-224-2644</Phone>
+    <TwitterId />
+    <YoutubeUrl>http://www.youtube.com/SenatorJonTester</YoutubeUrl>
+    <WebSite>http://tester.senate.gov/</WebSite>
+    <Party>D</Party>
+    <State>MT</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>U000038</BioGuideId>
+    <FirstName>Mark</FirstName>
+    <LastName>Udall</LastName>
+    <OfficeAddress>317 Hart Senate Office Building</OfficeAddress>
+    <GovTrackId>400412</GovTrackId>
+    <Phone>202-224-5941</Phone>
+    <TwitterId>MarkUdall</TwitterId>
+    <YoutubeUrl>http://www.youtube.com/SenatorMarkUdall</YoutubeUrl>
+    <WebSite>http://markudall.senate.gov</WebSite>
+    <Party>D</Party>
+    <State>CO</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>U000039</BioGuideId>
+    <FirstName>Tom</FirstName>
+    <LastName>Udall</LastName>
+    <OfficeAddress>110 Hart Senate Office Building</OfficeAddress>
+    <GovTrackId>400413</GovTrackId>
+    <Phone>202-224-6621</Phone>
+    <TwitterId>SenatorTomUdall</TwitterId>
+    <YoutubeUrl>http://www.youtube.com/SenatorTomUdall</YoutubeUrl>
+    <WebSite>http://tomudall.senate.gov</WebSite>
+    <Party>D</Party>
+    <State>NM</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>V000126</BioGuideId>
+    <FirstName>George</FirstName>
+    <LastName>Voinovich</LastName>
+    <OfficeAddress>524 Hart Senate Office Building</OfficeAddress>
+    <GovTrackId>300098</GovTrackId>
+    <Phone>202-224-3353</Phone>
+    <TwitterId />
+    <YoutubeUrl>http://www.youtube.com/SenVoinovich</YoutubeUrl>
+    <WebSite>http://voinovich.senate.gov/public/index.cfm</WebSite>
+    <Party>R</Party>
+    <State>OH</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>V000127</BioGuideId>
+    <FirstName>David</FirstName>
+    <LastName>Vitter</LastName>
+    <OfficeAddress>516 Hart Senate Office Building</OfficeAddress>
+    <GovTrackId>400418</GovTrackId>
+    <Phone>202-224-4623</Phone>
+    <TwitterId>DavidVitter</TwitterId>
+    <YoutubeUrl>http://www.youtube.com/SenatorVitter</YoutubeUrl>
+    <WebSite>http://vitter.senate.gov/public/</WebSite>
+    <Party>R</Party>
+    <State>LA</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>W000437</BioGuideId>
+    <FirstName>Roger</FirstName>
+    <LastName>Wicker</LastName>
+    <OfficeAddress>555 Dirksen Senate Office Building</OfficeAddress>
+    <GovTrackId>400432</GovTrackId>
+    <Phone>202-224-6253</Phone>
+    <TwitterId>rogerwicker</TwitterId>
+    <YoutubeUrl>http://www.youtube.com/senatorwicker</YoutubeUrl>
+    <WebSite>http://wicker.senate.gov/public/</WebSite>
+    <Party>R</Party>
+    <State>MS</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>W000779</BioGuideId>
+    <FirstName>Ron</FirstName>
+    <LastName>Wyden</LastName>
+    <OfficeAddress>223 Dirksen Senate Office Building</OfficeAddress>
+    <GovTrackId>300100</GovTrackId>
+    <Phone>202-224-5244</Phone>
+    <TwitterId />
+    <YoutubeUrl>http://www.youtube.com/SenRonWyden</YoutubeUrl>
+    <WebSite>http://wyden.senate.gov/</WebSite>
+    <Party>D</Party>
+    <State>OR</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>W000802</BioGuideId>
+    <FirstName>Sheldon</FirstName>
+    <LastName>Whitehouse</LastName>
+    <OfficeAddress>502 Hart Senate Office Building</OfficeAddress>
+    <GovTrackId>412247</GovTrackId>
+    <Phone>202-224-2921</Phone>
+    <TwitterId />
+    <YoutubeUrl>http://www.youtube.com/SenatorWhitehouse</YoutubeUrl>
+    <WebSite>http://whitehouse.senate.gov/</WebSite>
+    <Party>D</Party>
+    <State>RI</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>W000803</BioGuideId>
+    <FirstName>James</FirstName>
+    <LastName>Webb</LastName>
+    <OfficeAddress>248 Russell Senate Office Building</OfficeAddress>
+    <GovTrackId>412249</GovTrackId>
+    <Phone>202-224-4024</Phone>
+    <TwitterId />
+    <YoutubeUrl>http://www.youtube.com/SenatorWebb</YoutubeUrl>
+    <WebSite>http://webb.senate.gov/</WebSite>
+    <Party>D</Party>
+    <State>VA</State>
+  </Politician>
+  <Politician>
+    <BioGuideId>W000805</BioGuideId>
+    <FirstName>Mark</FirstName>
+    <LastName>Warner</LastName>
+    <OfficeAddress>459a Russell Senate Office Building</OfficeAddress>
+    <GovTrackId>412321</GovTrackId>
+    <Phone>202-224-2023</Phone>
+    <TwitterId>MarkWarner</TwitterId>
+    <YoutubeUrl>http://www.youtube.com/SenatorMarkWarner</YoutubeUrl>
+    <WebSite>http://warner.senate.gov/public/</WebSite>
+    <Party>D</Party>
+    <State>VA</State>
+  </Politician>
+</Politicians>

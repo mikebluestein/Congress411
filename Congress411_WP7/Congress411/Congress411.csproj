@@ -1,0 +1,769 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>10.0.20506</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{5D92CD3F-B2D5-491A-B34F-2316E186FD2D}</ProjectGuid>
+    <ProjectTypeGuids>{C089C8C0-30E0-4E22-80C0-CE093F111A43};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Congress411</RootNamespace>
+    <AssemblyName>Congress411</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <SilverlightVersion>$(TargetFrameworkVersion)</SilverlightVersion>
+    <TargetFrameworkProfile>WindowsPhone</TargetFrameworkProfile>
+    <TargetFrameworkIdentifier>Silverlight</TargetFrameworkIdentifier>
+    <SilverlightApplication>true</SilverlightApplication>
+    <SupportedCultures>
+    </SupportedCultures>
+    <XapOutputs>true</XapOutputs>
+    <GenerateSilverlightManifest>true</GenerateSilverlightManifest>
+    <XapFilename>Congress411.xap</XapFilename>
+    <SilverlightManifestTemplate>Properties\AppManifest.xml</SilverlightManifestTemplate>
+    <SilverlightAppEntry>Congress411.App</SilverlightAppEntry>
+    <ValidateXaml>true</ValidateXaml>
+    <ThrowErrorsInValidation>true</ThrowErrorsInValidation>
+    <Utf8Output>true</Utf8Output>
+    <ExpressionBlendVersion>4.0.20901.0</ExpressionBlendVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>Bin\Debug</OutputPath>
+    <DefineConstants>DEBUG;TRACE;SILVERLIGHT;WINDOWS_PHONE</DefineConstants>
+    <NoStdLib>true</NoStdLib>
+    <NoConfig>true</NoConfig>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>Bin\Release</OutputPath>
+    <DefineConstants>TRACE;SILVERLIGHT;WINDOWS_PHONE</DefineConstants>
+    <NoStdLib>true</NoStdLib>
+    <NoConfig>true</NoConfig>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.Expression.Interactions" />
+    <Reference Include="Microsoft.Phone" />
+    <Reference Include="Microsoft.Phone.Controls" />
+    <Reference Include="Microsoft.Phone.Interop" />
+    <Reference Include="System.Windows" />
+    <Reference Include="system" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Net" />
+    <Reference Include="System.Windows.Interactivity" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="App.xaml.cs">
+      <DependentUpon>App.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="RelativeAnimatingContentControl.cs" />
+    <Compile Include="RssFeed.cs" />
+    <Compile Include="GovTrackVoteDetail.xaml.cs">
+      <DependentUpon>GovTrackVoteDetail.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="MainPage.xaml.cs">
+      <DependentUpon>MainPage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="PivotPage1.xaml.cs">
+      <DependentUpon>PivotPage1.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="TweetPage.xaml.cs">
+      <DependentUpon>TweetPage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="TwitterTimeline.xaml.cs">
+      <DependentUpon>TwitterTimeline.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="ViewModels\PoliticianViewModel.cs" />
+    <Compile Include="ViewModels\MainViewModel.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ApplicationDefinition Include="App.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </ApplicationDefinition>
+    <Page Include="GovTrackVoteDetail.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="MainPage.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <DesignData Include="SampleData\MainViewModelSampleData.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </DesignData>
+    <Page Include="PivotPage1.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="TweetPage.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="TwitterTimeline.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\AppManifest.xml" />
+    <None Include="Properties\WMAppManifest.xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="ApplicationIcon.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Background.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Resource Include="Images\H001046.jpg" />
+    <Resource Include="Images\B001229.jpg" />
+    <Resource Include="Images\C001065.jpg" />
+    <Resource Include="Images\D000599.jpg" />
+    <Resource Include="Images\D000610.jpg" />
+    <Resource Include="Images\E000290.jpg" />
+    <Resource Include="Images\L000559.jpg" />
+    <Resource Include="Images\Q000023.jpg" />
+    <Resource Include="Images\W000793.jpg" />
+    <Content Include="SplashScreenImage.jpg" />
+    <Resource Include="Data\House.xml" />
+    <Resource Include="Data\Senate.xml">
+      <SubType>Designer</SubType>
+    </Resource>
+    <Resource Include="Images\A000014.jpg" />
+    <Resource Include="Images\A000022.jpg" />
+    <Resource Include="Images\A000055.jpg" />
+    <Resource Include="Images\A000069.jpg" />
+    <Resource Include="Images\A000109.jpg" />
+    <Resource Include="Images\A000210.jpg" />
+    <Resource Include="Images\A000357.jpg" />
+    <Resource Include="Images\A000358.jpg" />
+    <Resource Include="Images\A000360.jpg" />
+    <Resource Include="Images\A000361.jpg" />
+    <Resource Include="Images\A000362.jpg" />
+    <Resource Include="Images\A000363.jpg" />
+    <Resource Include="Images\A000364.jpg" />
+    <Resource Include="Images\A000365.jpg" />
+    <Resource Include="Images\B000013.jpg" />
+    <Resource Include="Images\B000072.jpg" />
+    <Resource Include="Images\B000208.jpg" />
+    <Resource Include="Images\B000213.jpg" />
+    <Resource Include="Images\B000243.jpg" />
+    <Resource Include="Images\B000287.jpg" />
+    <Resource Include="Images\B000382.jpg" />
+    <Resource Include="Images\B000410.jpg" />
+    <Resource Include="Images\B000420.jpg" />
+    <Resource Include="Images\B000444.jpg" />
+    <Resource Include="Images\B000461.jpg" />
+    <Resource Include="Images\B000468.jpg" />
+    <Resource Include="Images\B000490.jpg" />
+    <Resource Include="Images\B000574.jpg" />
+    <Resource Include="Images\B000575.jpg" />
+    <Resource Include="Images\B000589.jpg" />
+    <Resource Include="Images\B000611.jpg" />
+    <Resource Include="Images\B000652.jpg" />
+    <Resource Include="Images\B000657.jpg" />
+    <Resource Include="Images\B000711.jpg" />
+    <Resource Include="Images\B000716.jpg" />
+    <Resource Include="Images\B000755.jpg" />
+    <Resource Include="Images\B000911.jpg" />
+    <Resource Include="Images\B000944.jpg" />
+    <Resource Include="Images\B000953.jpg" />
+    <Resource Include="Images\B001066.jpg" />
+    <Resource Include="Images\B001135.jpg" />
+    <Resource Include="Images\B001149.jpg" />
+    <Resource Include="Images\B001203.jpg" />
+    <Resource Include="Images\B001210.jpg" />
+    <Resource Include="Images\B001227.jpg" />
+    <Resource Include="Images\B001228.jpg" />
+    <Resource Include="Images\B001230.jpg" />
+    <Resource Include="Images\B001231.jpg" />
+    <Resource Include="Images\B001232.jpg" />
+    <Resource Include="Images\B001233.jpg" />
+    <Resource Include="Images\B001234.jpg" />
+    <Resource Include="Images\B001235.jpg" />
+    <Resource Include="Images\B001236.jpg" />
+    <Resource Include="Images\B001239.jpg" />
+    <Resource Include="Images\B001242.jpg" />
+    <Resource Include="Images\B001243.jpg" />
+    <Resource Include="Images\B001244.jpg" />
+    <Resource Include="Images\B001247.jpg" />
+    <Resource Include="Images\B001248.jpg" />
+    <Resource Include="Images\B001250.jpg" />
+    <Resource Include="Images\B001251.jpg" />
+    <Resource Include="Images\B001252.jpg" />
+    <Resource Include="Images\B001253.jpg" />
+    <Resource Include="Images\B001254.jpg" />
+    <Resource Include="Images\B001255.jpg" />
+    <Resource Include="Images\B001256.jpg" />
+    <Resource Include="Images\B001257.jpg" />
+    <Resource Include="Images\B001258.jpg" />
+    <Resource Include="Images\B001259.jpg" />
+    <Resource Include="Images\B001260.jpg" />
+    <Resource Include="Images\B001261.jpg" />
+    <Resource Include="Images\B001262.jpg" />
+    <Resource Include="Images\B001263.jpg" />
+    <Resource Include="Images\B001264.jpg" />
+    <Resource Include="Images\B001265.jpg" />
+    <Resource Include="Images\B001266.jpg" />
+    <Resource Include="Images\B001267.jpg" />
+    <Resource Include="Images\B001268.jpg" />
+    <Resource Include="Images\C000059.jpg" />
+    <Resource Include="Images\C000071.jpg" />
+    <Resource Include="Images\C000116.jpg" />
+    <Resource Include="Images\C000127.jpg" />
+    <Resource Include="Images\C000141.jpg" />
+    <Resource Include="Images\C000174.jpg" />
+    <Resource Include="Images\C000191.jpg" />
+    <Resource Include="Images\C000243.jpg" />
+    <Resource Include="Images\C000266.jpg" />
+    <Resource Include="Images\C000286.jpg" />
+    <Resource Include="Images\C000537.jpg" />
+    <Resource Include="Images\C000556.jpg" />
+    <Resource Include="Images\C000560.jpg" />
+    <Resource Include="Images\C000567.jpg" />
+    <Resource Include="Images\C000705.jpg" />
+    <Resource Include="Images\C000714.jpg" />
+    <Resource Include="Images\C000754.jpg" />
+    <Resource Include="Images\C000794.jpg" />
+    <Resource Include="Images\C000858.jpg" />
+    <Resource Include="Images\C000868.jpg" />
+    <Resource Include="Images\C000880.jpg" />
+    <Resource Include="Images\C000962.jpg" />
+    <Resource Include="Images\C000984.jpg" />
+    <Resource Include="Images\C001035.jpg" />
+    <Resource Include="Images\C001036.jpg" />
+    <Resource Include="Images\C001037.jpg" />
+    <Resource Include="Images\C001038.jpg" />
+    <Resource Include="Images\C001041.jpg" />
+    <Resource Include="Images\C001045.jpg" />
+    <Resource Include="Images\C001046.jpg" />
+    <Resource Include="Images\C001047.jpg" />
+    <Resource Include="Images\C001048.jpg" />
+    <Resource Include="Images\C001049.jpg" />
+    <Resource Include="Images\C001050.jpg" />
+    <Resource Include="Images\C001051.jpg" />
+    <Resource Include="Images\C001053.jpg" />
+    <Resource Include="Images\C001056.jpg" />
+    <Resource Include="Images\C001057.jpg" />
+    <Resource Include="Images\C001058.jpg" />
+    <Resource Include="Images\C001059.jpg" />
+    <Resource Include="Images\C001060.jpg" />
+    <Resource Include="Images\C001061.jpg" />
+    <Resource Include="Images\C001062.jpg" />
+    <Resource Include="Images\C001063.jpg" />
+    <Resource Include="Images\C001064.jpg" />
+    <Resource Include="Images\C001066.jpg" />
+    <Resource Include="Images\C001067.jpg" />
+    <Resource Include="Images\C001068.jpg" />
+    <Resource Include="Images\C001069.jpg" />
+    <Resource Include="Images\C001070.jpg" />
+    <Resource Include="Images\C001071.jpg" />
+    <Resource Include="Images\C001072.jpg" />
+    <Resource Include="Images\C001073.jpg" />
+    <Resource Include="Images\C001074.jpg" />
+    <Resource Include="Images\C001075.jpg" />
+    <Resource Include="Images\C001076.jpg" />
+    <Resource Include="Images\C001077.jpg" />
+    <Resource Include="Images\C001078.jpg" />
+    <Resource Include="Images\C001079.jpg" />
+    <Resource Include="Images\C001080.jpg" />
+    <Resource Include="Images\D000096.jpg" />
+    <Resource Include="Images\D000136.jpg" />
+    <Resource Include="Images\D000168.jpg" />
+    <Resource Include="Images\D000191.jpg" />
+    <Resource Include="Images\D000197.jpg" />
+    <Resource Include="Images\D000210.jpg" />
+    <Resource Include="Images\D000216.jpg" />
+    <Resource Include="Images\D000299.jpg" />
+    <Resource Include="Images\D000327.jpg" />
+    <Resource Include="Images\D000355.jpg" />
+    <Resource Include="Images\D000388.jpg" />
+    <Resource Include="Images\D000399.jpg" />
+    <Resource Include="Images\D000407.jpg" />
+    <Resource Include="Images\D000429.jpg" />
+    <Resource Include="Images\D000432.jpg" />
+    <Resource Include="Images\D000482.jpg" />
+    <Resource Include="Images\D000492.jpg" />
+    <Resource Include="Images\D000533.jpg" />
+    <Resource Include="Images\D000563.jpg" />
+    <Resource Include="Images\D000595.jpg" />
+    <Resource Include="Images\D000597.jpg" />
+    <Resource Include="Images\D000598.jpg" />
+    <Resource Include="Images\D000600.jpg" />
+    <Resource Include="Images\D000601.jpg" />
+    <Resource Include="Images\D000602.jpg" />
+    <Resource Include="Images\D000603.jpg" />
+    <Resource Include="Images\D000604.jpg" />
+    <Resource Include="Images\D000605.jpg" />
+    <Resource Include="Images\D000606.jpg" />
+    <Resource Include="Images\D000607.jpg" />
+    <Resource Include="Images\D000608.jpg" />
+    <Resource Include="Images\D000609.jpg" />
+    <Resource Include="Images\E000063.jpg" />
+    <Resource Include="Images\E000092.jpg" />
+    <Resource Include="Images\E000172.jpg" />
+    <Resource Include="Images\E000179.jpg" />
+    <Resource Include="Images\E000187.jpg" />
+    <Resource Include="Images\E000194.jpg" />
+    <Resource Include="Images\E000215.jpg" />
+    <Resource Include="Images\E000226.jpg" />
+    <Resource Include="Images\E000268.jpg" />
+    <Resource Include="Images\E000285.jpg" />
+    <Resource Include="Images\E000287.jpg" />
+    <Resource Include="Images\E000288.jpg" />
+    <Resource Include="Images\E000289.jpg" />
+    <Resource Include="Images\F000030.jpg" />
+    <Resource Include="Images\F000043.jpg" />
+    <Resource Include="Images\F000061.jpg" />
+    <Resource Include="Images\F000062.jpg" />
+    <Resource Include="Images\F000116.jpg" />
+    <Resource Include="Images\F000339.jpg" />
+    <Resource Include="Images\F000372.jpg" />
+    <Resource Include="Images\F000440.jpg" />
+    <Resource Include="Images\F000443.jpg" />
+    <Resource Include="Images\F000444.jpg" />
+    <Resource Include="Images\F000445.jpg" />
+    <Resource Include="Images\F000447.jpg" />
+    <Resource Include="Images\F000448.jpg" />
+    <Resource Include="Images\F000449.jpg" />
+    <Resource Include="Images\F000450.jpg" />
+    <Resource Include="Images\F000452.jpg" />
+    <Resource Include="Images\F000453.jpg" />
+    <Resource Include="Images\F000454.jpg" />
+    <Resource Include="Images\F000455.jpg" />
+    <Resource Include="Images\F000456.jpg" />
+    <Resource Include="Images\F000457.jpg" />
+    <Resource Include="Images\G000021.jpg" />
+    <Resource Include="Images\G000180.jpg" />
+    <Resource Include="Images\G000280.jpg" />
+    <Resource Include="Images\G000289.jpg" />
+    <Resource Include="Images\G000309.jpg" />
+    <Resource Include="Images\G000359.jpg" />
+    <Resource Include="Images\G000377.jpg" />
+    <Resource Include="Images\G000386.jpg" />
+    <Resource Include="Images\G000410.jpg" />
+    <Resource Include="Images\G000445.jpg" />
+    <Resource Include="Images\G000535.jpg" />
+    <Resource Include="Images\G000544.jpg" />
+    <Resource Include="Images\G000546.jpg" />
+    <Resource Include="Images\G000548.jpg" />
+    <Resource Include="Images\G000549.jpg" />
+    <Resource Include="Images\G000550.jpg" />
+    <Resource Include="Images\G000551.jpg" />
+    <Resource Include="Images\G000552.jpg" />
+    <Resource Include="Images\G000553.jpg" />
+    <Resource Include="Images\G000554.jpg" />
+    <Resource Include="Images\G000555.jpg" />
+    <Resource Include="Images\G000556.jpg" />
+    <Resource Include="Images\G000557.jpg" />
+    <Resource Include="Images\G000558.jpg" />
+    <Resource Include="Images\G000559.jpg" />
+    <Resource Include="Images\H000067.jpg" />
+    <Resource Include="Images\H000206.jpg" />
+    <Resource Include="Images\H000213.jpg" />
+    <Resource Include="Images\H000323.jpg" />
+    <Resource Include="Images\H000324.jpg" />
+    <Resource Include="Images\H000329.jpg" />
+    <Resource Include="Images\H000338.jpg" />
+    <Resource Include="Images\H000528.jpg" />
+    <Resource Include="Images\H000627.jpg" />
+    <Resource Include="Images\H000636.jpg" />
+    <Resource Include="Images\H000666.jpg" />
+    <Resource Include="Images\H000676.jpg" />
+    <Resource Include="Images\H000712.jpg" />
+    <Resource Include="Images\H000762.jpg" />
+    <Resource Include="Images\H000874.jpg" />
+    <Resource Include="Images\H000948.jpg" />
+    <Resource Include="Images\H000981.jpg" />
+    <Resource Include="Images\H001016.jpg" />
+    <Resource Include="Images\H001028.jpg" />
+    <Resource Include="Images\H001029.jpg" />
+    <Resource Include="Images\H001030.jpg" />
+    <Resource Include="Images\H001032.jpg" />
+    <Resource Include="Images\H001034.jpg" />
+    <Resource Include="Images\H001036.jpg" />
+    <Resource Include="Images\H001037.jpg" />
+    <Resource Include="Images\H001038.jpg" />
+    <Resource Include="Images\H001039.jpg" />
+    <Resource Include="Images\H001040.jpg" />
+    <Resource Include="Images\H001041.jpg" />
+    <Resource Include="Images\H001042.jpg" />
+    <Resource Include="Images\H001043.jpg" />
+    <Resource Include="Images\H001044.jpg" />
+    <Resource Include="Images\H001045.jpg" />
+    <Resource Include="Images\H001047.jpg" />
+    <Resource Include="Images\H001048.jpg" />
+    <Resource Include="Images\H001049.jpg" />
+    <Resource Include="Images\I000023.jpg" />
+    <Resource Include="Images\I000024.jpg" />
+    <Resource Include="Images\I000025.jpg" />
+    <Resource Include="Images\I000026.jpg" />
+    <Resource Include="Images\I000055.jpg" />
+    <Resource Include="Images\I000056.jpg" />
+    <Resource Include="Images\I000057.jpg" />
+    <Resource Include="Images\J000032.jpg" />
+    <Resource Include="Images\J000126.jpg" />
+    <Resource Include="Images\J000174.jpg" />
+    <Resource Include="Images\J000177.jpg" />
+    <Resource Include="Images\J000255.jpg" />
+    <Resource Include="Images\J000283.jpg" />
+    <Resource Include="Images\J000284.jpg" />
+    <Resource Include="Images\J000285.jpg" />
+    <Resource Include="Images\J000287.jpg" />
+    <Resource Include="Images\J000288.jpg" />
+    <Resource Include="Images\J000289.jpg" />
+    <Resource Include="Images\J000290.jpg" />
+    <Resource Include="Images\J000291.jpg" />
+    <Resource Include="Images\K000008.jpg" />
+    <Resource Include="Images\K000009.jpg" />
+    <Resource Include="Images\K000105.jpg" />
+    <Resource Include="Images\K000113.jpg" />
+    <Resource Include="Images\K000148.jpg" />
+    <Resource Include="Images\K000172.jpg" />
+    <Resource Include="Images\K000180.jpg" />
+    <Resource Include="Images\K000188.jpg" />
+    <Resource Include="Images\K000210.jpg" />
+    <Resource Include="Images\K000220.jpg" />
+    <Resource Include="Images\K000288.jpg" />
+    <Resource Include="Images\K000305.jpg" />
+    <Resource Include="Images\K000336.jpg" />
+    <Resource Include="Images\K000352.jpg" />
+    <Resource Include="Images\K000360.jpg" />
+    <Resource Include="Images\K000361.jpg" />
+    <Resource Include="Images\K000362.jpg" />
+    <Resource Include="Images\K000363.jpg" />
+    <Resource Include="Images\K000364.jpg" />
+    <Resource Include="Images\K000365.jpg" />
+    <Resource Include="Images\K000366.jpg" />
+    <Resource Include="Images\K000367.jpg" />
+    <Resource Include="Images\K000368.jpg" />
+    <Resource Include="Images\K000369.jpg" />
+    <Resource Include="Images\K000370.jpg" />
+    <Resource Include="Images\K000371.jpg" />
+    <Resource Include="Images\K000372.jpg" />
+    <Resource Include="Images\K000373.jpg" />
+    <Resource Include="Images\L000035.jpg" />
+    <Resource Include="Images\L000043.jpg" />
+    <Resource Include="Images\L000090.jpg" />
+    <Resource Include="Images\L000111.jpg" />
+    <Resource Include="Images\L000123.jpg" />
+    <Resource Include="Images\L000174.jpg" />
+    <Resource Include="Images\L000261.jpg" />
+    <Resource Include="Images\L000263.jpg" />
+    <Resource Include="Images\L000274.jpg" />
+    <Resource Include="Images\L000287.jpg" />
+    <Resource Include="Images\L000293.jpg" />
+    <Resource Include="Images\L000304.jpg" />
+    <Resource Include="Images\L000321.jpg" />
+    <Resource Include="Images\L000397.jpg" />
+    <Resource Include="Images\L000447.jpg" />
+    <Resource Include="Images\L000480.jpg" />
+    <Resource Include="Images\L000491.jpg" />
+    <Resource Include="Images\L000504.jpg" />
+    <Resource Include="Images\L000517.jpg" />
+    <Resource Include="Images\L000550.jpg" />
+    <Resource Include="Images\L000551.jpg" />
+    <Resource Include="Images\L000552.jpg" />
+    <Resource Include="Images\L000553.jpg" />
+    <Resource Include="Images\L000554.jpg" />
+    <Resource Include="Images\L000557.jpg" />
+    <Resource Include="Images\L000560.jpg" />
+    <Resource Include="Images\L000562.jpg" />
+    <Resource Include="Images\L000563.jpg" />
+    <Resource Include="Images\L000564.jpg" />
+    <Resource Include="Images\L000565.jpg" />
+    <Resource Include="Images\L000566.jpg" />
+    <Resource Include="Images\L000567.jpg" />
+    <Resource Include="Images\L000568.jpg" />
+    <Resource Include="Images\L000569.jpg" />
+    <Resource Include="Images\L000570.jpg" />
+    <Resource Include="Images\L000571.jpg" />
+    <Resource Include="Images\L000572.jpg" />
+    <Resource Include="Images\M000087.jpg" />
+    <Resource Include="Images\M000133.jpg" />
+    <Resource Include="Images\M000303.jpg" />
+    <Resource Include="Images\M000309.jpg" />
+    <Resource Include="Images\M000312.jpg" />
+    <Resource Include="Images\M000355.jpg" />
+    <Resource Include="Images\M000388.jpg" />
+    <Resource Include="Images\M000404.jpg" />
+    <Resource Include="Images\M000472.jpg" />
+    <Resource Include="Images\M000485.jpg" />
+    <Resource Include="Images\M000508.jpg" />
+    <Resource Include="Images\M000627.jpg" />
+    <Resource Include="Images\M000639.jpg" />
+    <Resource Include="Images\M000689.jpg" />
+    <Resource Include="Images\M000702.jpg" />
+    <Resource Include="Images\M000725.jpg" />
+    <Resource Include="Images\M000844.jpg" />
+    <Resource Include="Images\M000933.jpg" />
+    <Resource Include="Images\M000934.jpg" />
+    <Resource Include="Images\M001111.jpg" />
+    <Resource Include="Images\M001120.jpg" />
+    <Resource Include="Images\M001134.jpg" />
+    <Resource Include="Images\M001137.jpg" />
+    <Resource Include="Images\M001138.jpg" />
+    <Resource Include="Images\M001139.jpg" />
+    <Resource Include="Images\M001140.jpg" />
+    <Resource Include="Images\M001142.jpg" />
+    <Resource Include="Images\M001143.jpg" />
+    <Resource Include="Images\M001144.jpg" />
+    <Resource Include="Images\M001146.jpg" />
+    <Resource Include="Images\M001147.jpg" />
+    <Resource Include="Images\M001148.jpg" />
+    <Resource Include="Images\M001149.jpg" />
+    <Resource Include="Images\M001150.jpg" />
+    <Resource Include="Images\M001151.jpg" />
+    <Resource Include="Images\M001152.jpg" />
+    <Resource Include="Images\M001153.jpg" />
+    <Resource Include="Images\M001154.jpg" />
+    <Resource Include="Images\M001155.jpg" />
+    <Resource Include="Images\M001156.jpg" />
+    <Resource Include="Images\M001157.jpg" />
+    <Resource Include="Images\M001158.jpg" />
+    <Resource Include="Images\M001159.jpg" />
+    <Resource Include="Images\M001160.jpg" />
+    <Resource Include="Images\M001161.jpg" />
+    <Resource Include="Images\M001162.jpg" />
+    <Resource Include="Images\M001163.jpg" />
+    <Resource Include="Images\M001164.jpg" />
+    <Resource Include="Images\M001165.jpg" />
+    <Resource Include="Images\M001166.jpg" />
+    <Resource Include="Images\M001167.jpg" />
+    <Resource Include="Images\M001168.jpg" />
+    <Resource Include="Images\M001169.jpg" />
+    <Resource Include="Images\M001170.jpg" />
+    <Resource Include="Images\M001171.jpg" />
+    <Resource Include="Images\M001172.jpg" />
+    <Resource Include="Images\M001173.jpg" />
+    <Resource Include="Images\M001174.jpg" />
+    <Resource Include="Images\M001175.jpg" />
+    <Resource Include="Images\M001176.jpg" />
+    <Resource Include="Images\M001177.jpg" />
+    <Resource Include="Images\M001178.jpg" />
+    <Resource Include="Images\N000002.jpg" />
+    <Resource Include="Images\N000015.jpg" />
+    <Resource Include="Images\N000032.jpg" />
+    <Resource Include="Images\N000147.jpg" />
+    <Resource Include="Images\N000179.jpg" />
+    <Resource Include="Images\N000180.jpg" />
+    <Resource Include="Images\N000181.jpg" />
+    <Resource Include="Images\N000182.jpg" />
+    <Resource Include="Images\N000183.jpg" />
+    <Resource Include="Images\O000006.jpg" />
+    <Resource Include="Images\O000007.jpg" />
+    <Resource Include="Images\O000085.jpg" />
+    <Resource Include="Images\O000107.jpg" />
+    <Resource Include="Images\O000167.jpg" />
+    <Resource Include="Images\O000168.jpg" />
+    <Resource Include="Images\O000169.jpg" />
+    <Resource Include="Images\P000034.jpg" />
+    <Resource Include="Images\P000096.jpg" />
+    <Resource Include="Images\P000099.jpg" />
+    <Resource Include="Images\P000149.jpg" />
+    <Resource Include="Images\P000197.jpg" />
+    <Resource Include="Images\P000258.jpg" />
+    <Resource Include="Images\P000263.jpg" />
+    <Resource Include="Images\P000265.jpg" />
+    <Resource Include="Images\P000323.jpg" />
+    <Resource Include="Images\P000373.jpg" />
+    <Resource Include="Images\P000422.jpg" />
+    <Resource Include="Images\P000523.jpg" />
+    <Resource Include="Images\P000555.jpg" />
+    <Resource Include="Images\P000583.jpg" />
+    <Resource Include="Images\P000585.jpg" />
+    <Resource Include="Images\P000586.jpg" />
+    <Resource Include="Images\P000587.jpg" />
+    <Resource Include="Images\P000588.jpg" />
+    <Resource Include="Images\P000589.jpg" />
+    <Resource Include="Images\P000590.jpg" />
+    <Resource Include="Images\P000591.jpg" />
+    <Resource Include="Images\P000592.jpg" />
+    <Resource Include="Images\P000593.jpg" />
+    <Resource Include="Images\P000594.jpg" />
+    <Resource Include="Images\P000595.jpg" />
+    <Resource Include="Images\P000596.jpg" />
+    <Resource Include="Images\P000597.jpg" />
+    <Resource Include="Images\P000598.jpg" />
+    <Resource Include="Images\P000599.jpg" />
+    <Resource Include="Images\P000600.jpg" />
+    <Resource Include="Images\R000004.jpg" />
+    <Resource Include="Images\R000011.jpg" />
+    <Resource Include="Images\R000033.jpg" />
+    <Resource Include="Images\R000053.jpg" />
+    <Resource Include="Images\R000122.jpg" />
+    <Resource Include="Images\R000141.jpg" />
+    <Resource Include="Images\R000146.jpg" />
+    <Resource Include="Images\R000170.jpg" />
+    <Resource Include="Images\R000307.jpg" />
+    <Resource Include="Images\R000361.jpg" />
+    <Resource Include="Images\R000395.jpg" />
+    <Resource Include="Images\R000409.jpg" />
+    <Resource Include="Images\R000435.jpg" />
+    <Resource Include="Images\R000462.jpg" />
+    <Resource Include="Images\R000486.jpg" />
+    <Resource Include="Images\R000487.jpg" />
+    <Resource Include="Images\R000515.jpg" />
+    <Resource Include="Images\R000568.jpg" />
+    <Resource Include="Images\R000569.jpg" />
+    <Resource Include="Images\R000570.jpg" />
+    <Resource Include="Images\R000571.jpg" />
+    <Resource Include="Images\R000572.jpg" />
+    <Resource Include="Images\R000573.jpg" />
+    <Resource Include="Images\R000574.jpg" />
+    <Resource Include="Images\R000575.jpg" />
+    <Resource Include="Images\R000576.jpg" />
+    <Resource Include="Images\R000577.jpg" />
+    <Resource Include="Images\R000578.jpg" />
+    <Resource Include="Images\R000580.jpg" />
+    <Resource Include="Images\R000581.jpg" />
+    <Resource Include="Images\R000582.jpg" />
+    <Resource Include="Images\R000583.jpg" />
+    <Resource Include="Images\R000584.jpg" />
+    <Resource Include="Images\S000030.jpg" />
+    <Resource Include="Images\S000033.jpg" />
+    <Resource Include="Images\S000097.jpg" />
+    <Resource Include="Images\S000148.jpg" />
+    <Resource Include="Images\S000185.jpg" />
+    <Resource Include="Images\S000244.jpg" />
+    <Resource Include="Images\S000248.jpg" />
+    <Resource Include="Images\S000250.jpg" />
+    <Resource Include="Images\S000275.jpg" />
+    <Resource Include="Images\S000320.jpg" />
+    <Resource Include="Images\S000344.jpg" />
+    <Resource Include="Images\S000364.jpg" />
+    <Resource Include="Images\S000465.jpg" />
+    <Resource Include="Images\S000480.jpg" />
+    <Resource Include="Images\S000510.jpg" />
+    <Resource Include="Images\S000522.jpg" />
+    <Resource Include="Images\S000583.jpg" />
+    <Resource Include="Images\S000663.jpg" />
+    <Resource Include="Images\S000672.jpg" />
+    <Resource Include="Images\S000709.jpg" />
+    <Resource Include="Images\S000749.jpg" />
+    <Resource Include="Images\S000770.jpg" />
+    <Resource Include="Images\S000810.jpg" />
+    <Resource Include="Images\S000822.jpg" />
+    <Content Include="Images\S000888.jpg" />
+    <Content Include="Images\S001045.jpg" />
+    <Content Include="Images\S001078.jpg" />
+    <Content Include="Images\S001141.jpg" />
+    <Content Include="Images\S001142.jpg" />
+    <Content Include="Images\S001143.jpg" />
+    <Content Include="Images\S001144.jpg" />
+    <Content Include="Images\S001145.jpg" />
+    <Content Include="Images\S001148.jpg" />
+    <Content Include="Images\S001150.jpg" />
+    <Content Include="Images\S001153.jpg" />
+    <Content Include="Images\S001154.jpg" />
+    <Content Include="Images\S001155.jpg" />
+    <Content Include="Images\S001156.jpg" />
+    <Content Include="Images\S001157.jpg" />
+    <Content Include="Images\S001158.jpg" />
+    <Content Include="Images\S001162.jpg" />
+    <Content Include="Images\S001163.jpg" />
+    <Content Include="Images\S001164.jpg" />
+    <Content Include="Images\S001165.jpg" />
+    <Content Include="Images\S001167.jpg" />
+    <Content Include="Images\S001168.jpg" />
+    <Content Include="Images\S001169.jpg" />
+    <Content Include="Images\S001170.jpg" />
+    <Content Include="Images\S001171.jpg" />
+    <Content Include="Images\S001172.jpg" />
+    <Content Include="Images\S001173.jpg" />
+    <Content Include="Images\S001174.jpg" />
+    <Content Include="Images\S001175.jpg" />
+    <Content Include="Images\S001176.jpg" />
+    <Content Include="Images\S001178.jpg" />
+    <Content Include="Images\S001179.jpg" />
+    <Content Include="Images\S001180.jpg" />
+    <Content Include="Images\S001181.jpg" />
+    <Content Include="Images\T000038.jpg" />
+    <Content Include="Images\T000057.jpg" />
+    <Content Include="Images\T000074.jpg" />
+    <Content Include="Images\T000193.jpg" />
+    <Content Include="Images\T000238.jpg" />
+    <Content Include="Images\T000250.jpg" />
+    <Content Include="Images\T000260.jpg" />
+    <Content Include="Images\T000266.jpg" />
+    <Content Include="Images\T000326.jpg" />
+    <Content Include="Images\T000458.jpg" />
+    <Content Include="Images\T000459.jpg" />
+    <Content Include="Images\T000460.jpg" />
+    <Content Include="Images\T000462.jpg" />
+    <Content Include="Images\T000463.jpg" />
+    <Content Include="Images\T000464.jpg" />
+    <Content Include="Images\T000465.jpg" />
+    <Content Include="Images\T000466.jpg" />
+    <Content Include="Images\T000467.jpg" />
+    <Content Include="Images\T000468.jpg" />
+    <Content Include="Images\T000469.jpg" />
+    <Content Include="Images\test.jpg" />
+    <Content Include="Images\U000031.jpg" />
+    <Content Include="Images\U000038.jpg" />
+    <Content Include="Images\U000039.jpg" />
+    <Content Include="Images\V000081.jpg" />
+    <Content Include="Images\V000108.jpg" />
+    <Content Include="Images\V000126.jpg" />
+    <Content Include="Images\V000127.jpg" />
+    <Content Include="Images\V000128.jpg" />
+    <Content Include="Images\W000099.jpg" />
+    <Content Include="Images\W000119.jpg" />
+    <Content Include="Images\W000154.jpg" />
+    <Content Include="Images\W000187.jpg" />
+    <Content Include="Images\W000207.jpg" />
+    <Content Include="Images\W000215.jpg" />
+    <Content Include="Images\W000267.jpg" />
+    <Content Include="Images\W000273.jpg" />
+    <Content Include="Images\W000314.jpg" />
+    <Content Include="Images\W000413.jpg" />
+    <Content Include="Images\W000437.jpg" />
+    <Content Include="Images\W000672.jpg" />
+    <Content Include="Images\W000738.jpg" />
+    <Content Include="Images\W000779.jpg" />
+    <Content Include="Images\W000784.jpg" />
+    <Content Include="Images\W000789.jpg" />
+    <Content Include="Images\W000791.jpg" />
+    <Content Include="Images\W000792.jpg" />
+    <Content Include="Images\W000794.jpg" />
+    <Content Include="Images\W000795.jpg" />
+    <Content Include="Images\W000796.jpg" />
+    <Content Include="Images\W000797.jpg" />
+    <Content Include="Images\W000798.jpg" />
+    <Content Include="Images\W000799.jpg" />
+    <Content Include="Images\W000800.jpg" />
+    <Content Include="Images\W000801.jpg" />
+    <Content Include="Images\W000802.jpg" />
+    <Content Include="Images\W000803.jpg" />
+    <Content Include="Images\W000804.jpg" />
+    <Content Include="Images\W000805.jpg" />
+    <Content Include="Images\Y000031.jpg" />
+    <Content Include="Images\Y000033.jpg" />
+    <Content Include="Images\Y000062.jpg" />
+    <Resource Include="PanoramaBackground.png" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildExtensionsPath)\Microsoft\Silverlight for Phone\$(TargetFrameworkVersion)\Microsoft.Silverlight.$(TargetFrameworkProfile).Overrides.targets" />
+  <Import Project="$(MSBuildExtensionsPath)\Microsoft\Silverlight for Phone\$(TargetFrameworkVersion)\Microsoft.Silverlight.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+  <ProjectExtensions />
+</Project>

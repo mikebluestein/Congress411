@@ -1,0 +1,83 @@
+﻿<phone:PhoneApplicationPage xmlns:my="clr-namespace:Congress411"  
+    x:Class="Congress411.PivotPage1"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:phone="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone"
+    xmlns:shell="clr-namespace:Microsoft.Phone.Shell;assembly=Microsoft.Phone"
+    xmlns:controls="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone.Controls"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+    mc:Ignorable="d" d:DesignWidth="480" d:DesignHeight="768"
+    FontFamily="{StaticResource PhoneFontFamilyNormal}"
+    FontSize="{StaticResource PhoneFontSizeNormal}"
+    Foreground="{StaticResource PhoneForegroundBrush}"
+    SupportedOrientations="Portrait"  Orientation="Portrait"
+    shell:SystemTray.IsVisible="True">
+    <phone:PhoneApplicationPage.Resources>
+    </phone:PhoneApplicationPage.Resources>
+
+    <!--LayoutRoot is the root grid where all page content is placed-->
+    <Grid x:Name="LayoutRoot" Background="Transparent">
+        <!--Pivot Control-->
+        <controls:Pivot Name="PoliticianPivot" Title="Congress 411">
+            <controls:PivotItem Name="ContactPivotItem" Header="Contact">
+                <StackPanel Orientation="Vertical">
+					<StackPanel Orientation="Vertical" Margin="0,42,0,0">
+                        <TextBlock Text="Office Address" Margin="0,0,0,8"/>
+                		<TextBlock Text="{Binding OfficeAddress}" TextWrapping="Wrap" Margin="15,0,0,0"/>
+                		<TextBlock Text="Washington, DC" Margin="15,0,0,0"/>
+                	</StackPanel>
+                	<StackPanel Orientation="Vertical" Margin="0,75,0,0">
+                		<TextBlock Text="Click to Call"/>
+                		<Button x:Name="CallLegislator" Content="{Binding Phone}" Click="CallLegislator_Click" />
+                	</StackPanel>
+                </StackPanel>
+            </controls:PivotItem>
+            <controls:PivotItem Name="VotesPivotItem" Header="Votes">
+                <Grid Background="{StaticResource PhoneChromeBrush}">
+                    <ListBox x:Name="VotesList">
+                        <ListBox.ItemTemplate>
+                            <DataTemplate>
+                                <Grid>
+                                    <Button Content="{Binding Title}" Margin="12,15" Style="{StaticResource ListItemButtonStyle}" Click="Button_Click"/>
+                                </Grid>
+                            </DataTemplate>
+                        </ListBox.ItemTemplate>
+                    </ListBox>
+                    <TextBlock x:Name="VotesNotAvaialble" Text="Recent Votes Not Available" 
+                               VerticalAlignment="Center" HorizontalAlignment="Center" Visibility="Collapsed"/>
+                </Grid>
+            </controls:PivotItem>
+            <controls:PivotItem Name="BillsPivotItem" Header="Bills">
+                <Grid >
+                    <phone:WebBrowser Name="ThomasBillsBrowser" BorderThickness="4" BorderBrush="#FF94949A" Margin="0,0,0,4" Navigated="ThomasBillsBrowser_Navigated" />
+                </Grid>
+            </controls:PivotItem>
+            <controls:PivotItem Name="TwitterPivotItem" Header="Twitter">
+                <Grid>
+                    <my:TwitterTimeline x:Name="Twitter"/>
+                    <TextBlock x:Name="TwitterNotAvaialble" Text="Twitter Timeline Not Available" 
+                               VerticalAlignment="Center" HorizontalAlignment="Center" Visibility="Collapsed"/>
+                </Grid>
+            </controls:PivotItem>
+            <controls:PivotItem Name="WebPivotItem" Header="Web">
+                <Grid>
+                    <phone:WebBrowser Name="WebSiteBrowser" BorderThickness="4" BorderBrush="#FF94949A" Margin="0,0,0,4" Navigated="WebSiteBrowser_Navigated" />
+                </Grid>
+            </controls:PivotItem>
+        </controls:Pivot>
+    </Grid>
+
+    <!--Sample code showing usage of ApplicationBar-->
+    <!--<phone:PhoneApplicationPage.ApplicationBar>
+        <shell:ApplicationBar IsVisible="True" IsMenuEnabled="True">
+            <shell:ApplicationBarIconButton x:Name="appbar_button1" IconUri="/Images/appbar_button1.png" Text="Button 1"/>
+            <shell:ApplicationBarIconButton x:Name="appbar_button2" IconUri="/Images/appbar_button2.png" Text="Button 2"/>
+            <shell:ApplicationBar.MenuItems>
+                <shell:ApplicationBarMenuItem x:Name="menuItem1" Text="MenuItem 1"/>
+                <shell:ApplicationBarMenuItem x:Name="menuItem2" Text="MenuItem 2"/>
+            </shell:ApplicationBar.MenuItems>
+        </shell:ApplicationBar>
+    </phone:PhoneApplicationPage.ApplicationBar>-->
+
+</phone:PhoneApplicationPage>

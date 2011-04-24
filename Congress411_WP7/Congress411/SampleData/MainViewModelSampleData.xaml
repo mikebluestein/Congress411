@@ -1,0 +1,14 @@
+﻿<local:MainViewModel 
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"       
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="clr-namespace:Congress411">
+    
+    <local:MainViewModel.Senators>
+        <local:PoliticianViewModel SmallImage="./Images/test.png" FirstName="Firstname" LastName="Lastname" Party="D" State="CT"/>
+        <local:PoliticianViewModel SmallImage="./Images/test.png" FirstName="Firstname" LastName="Lastname" Party="D" State="CT"/>
+        <local:PoliticianViewModel SmallImage="./Images/test.png" FirstName="Firstname" LastName="Lastname" Party="D" State="CT"/>
+        <local:PoliticianViewModel SmallImage="./Images/test.png" FirstName="Firstname" LastName="Lastname" Party="D" State="CT"/>
+        <local:PoliticianViewModel SmallImage="./Images/test.png" FirstName="Firstname" LastName="Lastname" Party="D" State="CT"/>
+     </local:MainViewModel.Senators>
+    
+</local:MainViewModel>
